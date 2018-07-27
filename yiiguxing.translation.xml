@@ -1,0 +1,36 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="java.io.IOException: Cannot run program &quot;bunyan&quot;: CreateProcess error=2, 系统找不到指定的文件。" />
+      <item value="ij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:229) at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:63) at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) at java.util.concurrent.FutureTask.run(FutureTask.java:266) at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolEx" />
+      <item value="os . path . exists" />
+      <item value="item" />
+      <item value="dmy 2 ymd" />
+      <item value="dmy = str(dmy, encoding='utf-8') date = dt.datetime.strptime( dmy, '%d-%m-%Y').date() ymd = date.strftime('%Y-%m-%d') return ymd dates, closing_prices, volumes = np.loadtxt(" />
+      <item value="diff closing price" />
+      <item value="prices" />
+      <item value="closing_prices" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180726000189099" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="primaryFontFamily" value="Corbel" />
+    <option name="translator" value="fanyi.baidu" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="002e474bd569714d" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
