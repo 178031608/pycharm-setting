@@ -1,0 +1,34 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="os . path . exists" />
+      <item value="item" />
+      <item value="dmy 2 ymd" />
+      <item value="dmy = str(dmy, encoding='utf-8') date = dt.datetime.strptime( dmy, '%d-%m-%Y').date() ymd = date.strftime('%Y-%m-%d') return ymd dates, closing_prices, volumes = np.loadtxt(" />
+      <item value="diff closing price" />
+      <item value="prices" />
+      <item value="closing_prices" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180726000189099" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="primaryFontFamily" value="Corbel" />
+    <option name="translator" value="fanyi.baidu" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="002e474bd569714d" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

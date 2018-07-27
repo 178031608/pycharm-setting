@@ -1,0 +1,47 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="BackgroundImagesAutoChange" value="true" />
+    <property name="BackgroundImagesDisabled" value="true" />
+    <property name="BackgroundImagesFolder" value="C:\Users\222222\Desktop\images" />
+    <property name="BackgroundImagesInterval" value="1" />
+    <property name="BackgroundImagesOpacity" value="47" />
+    <property name="BackgroundImagesTimeExecution" value="5" />
+    <property name="BuckNotification" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.63076925" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PLUGIN_FILTER" value="Settings Repository&#10;Search with Baidu&#10;Rainbow&#10;Auto-Align&#10;set back" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SearchEveryWhereHistory" value="Show memory indicator&#10;set ba&#10;set&#10;Set background image&#10;set baclground image" />
+    <property name="SettingsSearchHistory" value="git&#10;Plugins&#10;plates&#10;tem&#10;font" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.85" />
+    <property name="code-stats-intellij-api-key" value="" />
+    <property name="code-stats-intellij-api-url" value="https://codestats.net/api/my/pulses" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="export.settings.path" value="C:\Users\222222\Desktop\settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/pycharm-setting&#10;C:/Users/222222/Desktop&#10;C:/Users/222222/Desktop/笔记&#10;C:/Users/222222/Desktop/dailichi-env&#10;C:/Users/222222/Desktop/images/916b1a22c6faf6d7432345aa9a984a37.jpg&#10;C:/Users/222222/Desktop/images/90718fe3b51fd626fcdaea99f6aed868.jpg&#10;C:/Users/222222/Desktop/images/84f49ebdddafe83c494ca157c2c62f9a.jpg&#10;C:/Users/222222/Desktop/images/5edfc2f30db73bc5ce24f8fcbc5865da.jpg&#10;C:/Users/222222/Desktop/images/514e201c0ccdc396ed70833e6202fe7a.jpg&#10;C:/Users/222222/Desktop/images/3e91a5c06c5beaba2e490b2da0a11fa1.jpg&#10;C:/Users/222222/Desktop/《Python3网络爬虫开发实战代码》/jiepai&#10;C:/Users/222222/Desktop/images/8389a2d931075a6d38d2057d5eb8f7b5.jpg&#10;C:/Users/222222/Desktop/images/841529e14fc0129c7a38e5b6ade4c694.jpg&#10;C:/Users/222222/Desktop/images/9b58b2bec7bf78e2c93dc693c0a1ee5c.jpg&#10;C:/Users/222222/Desktop/images/0db724c61cdeba4ef4839e72c103e534.jpg&#10;C:/Users/222222/Desktop/images/0d312a47ac4065bba9f9e504f327aa88.jpg&#10;C:/Users/222222/Desktop/images/0078f853040827a38c6b931cd514e68a.jpg&#10;C:/Users/222222/Desktop/images/0e138730b3c5a190eab4462e89b59c15.jpg&#10;C:/Users/222222/Desktop/dailichi-env/dailichi-python/Scripts/python.exe&#10;C:/Users/222222/Desktop/dailichi-env/dailichi-python/ProxyPool-master&#10;C:/Users/222222/Desktop/dysms_python/dysms_python/setup.py&#10;C:/Users/222222/Desktop/《Python3网络爬虫开发实战代码》&#10;C:/Users/222222/Desktop/-&#10;C:/Users/222222/Desktop/笔记/数据分析-机器学习" />
+    <property name="file.gist.reindex.count" value="12072" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="idea.background.editor" value="C:\Users\222222\Desktop\images\673fb837f120a7ef14f2ef3a0e77c0f5.jpg" />
+    <property name="lastTip" value="21" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="C:\Users\222222\Desktop\images\0e138730b3c5a190eab4462e89b59c15.jpg&#10;C:\Users\222222\Desktop\images\0078f853040827a38c6b931cd514e68a.jpg&#10;C:\Users\222222\Desktop\images\841529e14fc0129c7a38e5b6ade4c694.jpg&#10;C:\Users\222222\Desktop\images\3b8d259ee532aacdee633099617ae5d7.jpg" />
+    <property name="quick.doc.font.size" value="LARGE" />
+    <property name="ts.lib.d.ts.version" value="2.9.1" />
+  </component>
+</application>
