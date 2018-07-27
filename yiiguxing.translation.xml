@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="article url" />
+      <item value="large image url" />
+      <item value="middle image url" />
       <item value="java.io.IOException: Cannot run program &quot;bunyan&quot;: CreateProcess error=2, 系统找不到指定的文件。" />
       <item value="ij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:229) at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:63) at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) at java.util.concurrent.FutureTask.run(FutureTask.java:266) at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolEx" />
       <item value="os . path . exists" />
