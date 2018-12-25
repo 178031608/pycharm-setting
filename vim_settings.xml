@@ -6,6 +6,9 @@
       <file name="S:/git_project/Identify/Identify_cx/test/weibo_scan.py" timestamp="1545720001194">
         <mark key="[" line="58" column="55" />
       </file>
+      <file name="/Dummy.txt" timestamp="1545720176169">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
@@ -19,6 +22,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
