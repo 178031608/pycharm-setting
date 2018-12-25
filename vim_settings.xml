@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="S:/git_project/Identify/Identify_cx/test/weibo_scan.py" timestamp="1545719596758">
+      <file name="S:/git_project/Identify/Identify_cx/test/weibo_scan.py" timestamp="1545719896641">
         <mark key="[" line="42" column="0" />
       </file>
     </filemarks>
@@ -13,7 +13,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
