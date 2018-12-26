@@ -6,4 +6,7 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="ctrl windows" />
   </action>
+  <action id="randomBackgroundImage">
+    <keyboard-shortcut first-keystroke="alt windows" />
+  </action>
 </keymap>
