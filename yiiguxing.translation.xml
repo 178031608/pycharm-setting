@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'begin_test' is not allowed to run in parallel.&#10;Would you like to stop the running one" />
       <item value="Reload" />
       <item value="This plugin shows name and Win/Mac shortcuts of any action you invoke (View | Descriptions of Actions)" />
       <item value="adds a terminal icon to the IDE toolbar to open a project directory in your favorite terminal. By default, it uses OS native terminal: Windows - Command Prompt (cmd) Linux - gnome-terminal macOS - Terminal.app If you want to use another terminal instead - you can! Just specify your favorite one in the IDE Settings / Preferences. *PowerShell, ConEmu, Bash (WSL), GitBash, RXVT, iTerm are also supported." />
@@ -13,7 +14,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
+        <entry key="CHINESE" value="3" />
         <entry key="ENGLISH" value="3" />
       </map>
     </option>
