@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="json.decoder.JSONDecodeError: Expecting value: line 1 column 1837 (char 1836)" />
       <item value="If the cursor is between the parentheses of a method call, pressing Ctrl+P brings up a list of valid parameters." />
       <item value="15:01&#9;Help Make Material Theme UI Better: We are asking your permission to send information about your configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using a feature). This data is anonymous, does not contain any personal information, collected for use only by the Material Theme Plugin Team and will never be transmitted to any third party." />
       <item value="15:01&#9;Ignored files found that are tracked: .ignore plugin found some files that are tracked with Git which are also listed in .gitignore file. Show details Don't show" />
@@ -25,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
