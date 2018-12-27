@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="T Application Exception" />
+      <item value="https" />
+      <item value="http" />
+      <item value="hriftPy does not support generating module ' 'with path in protocol" />
+      <item value="include dir" />
+      <item value="module name" />
+      <item value="Load thrift file as a module. The module loaded and objects inside may only be pickled if module_name was provided. Note: `include_dir` will be depreacated in the future, use `include_dirs` instead. If `include_dir` was provided (not None), it will be appended to `include_dirs`." />
+      <item value="resource filename" />
+      <item value="_pkg resources" />
+      <item value="protocol" />
+      <item value="module" />
+      <item value="generating" />
+      <item value="support" />
+      <item value="Thrift Parser Error" />
+      <item value="parser" />
+      <item value="thriftpy" />
+      <item value="Access Control" />
+      <item value="_descriptor" />
+      <item value="zkquorum (str): Zookeeper quorum. Comma-separated list of hosts to connect to." />
+      <item value="zkquorum" />
       <item value="Closes the scanner. Should be called to free server side resources timely. Typically close once the scanner is not needed anymore, i.e. after looping over it to get all the required rows. Parameters: - scannerId: the Id of the Scanner to cl" />
       <item value="Throws a TIOError if any of the deletes fail. Always returns an empty list for backwards compatibility. Parameters: - table: the table to delete from - tdeletes: list of TDeletes to de" />
       <item value="Commit a List of Puts to the table. Parameters: - table: the table to put data in - tputs: a list of TPuts to commit &quot;&quot;&quot;" />
@@ -33,8 +53,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
+        <entry key="GALICIAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="LUXEMBOURGISH" value="1" />
       </map>
     </option>
   </component>
