@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="毫秒" />
+      <item value="秒" />
+      <item value="分钟" />
       <item value="print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False) Prints the values to a stream, or to sys.stdout by default. Optional keyword arguments: file: a file-like object (stream); defaults to the current sys.stdout. sep: string inserted between values, default a space. end: string appended after the last value, default a newline. flush: whether to forcibly flush the stream." />
       <item value="spider key" />
       <item value="其他" />
@@ -48,9 +51,6 @@
       <item value="interval" />
       <item value="'begin_test' is not allowed to run in parallel.&#10;Would you like to stop the running one" />
       <item value="Reload" />
-      <item value="This plugin shows name and Win/Mac shortcuts of any action you invoke (View | Descriptions of Actions)" />
-      <item value="adds a terminal icon to the IDE toolbar to open a project directory in your favorite terminal. By default, it uses OS native terminal: Windows - Command Prompt (cmd) Linux - gnome-terminal macOS - Terminal.app If you want to use another terminal instead - you can! Just specify your favorite one in the IDE Settings / Preferences. *PowerShell, ConEmu, Bash (WSL), GitBash, RXVT, iTerm are also supported." />
-      <item value="str' object does not support item assignment" />
     </histories>
     <option name="languageScores">
       <map>
