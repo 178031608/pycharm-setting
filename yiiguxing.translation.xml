@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False) Prints the values to a stream, or to sys.stdout by default. Optional keyword arguments: file: a file-like object (stream); defaults to the current sys.stdout. sep: string inserted between values, default a space. end: string appended after the last value, default a newline. flush: whether to forcibly flush the stream." />
       <item value="spider key" />
       <item value="其他" />
       <item value="The message in the transport are encoded as this: 4 bytes represents the length of the json object and immediately followed by the json object. '\x00\x00\x00+' '{&quot;payload&quot;: {}, &quot;metadata&quot;: {&quot;version&quot;: 1}}' the 4 bytes are the bytes representation of an integer and is encoded in big-endian." />
@@ -50,12 +51,11 @@
       <item value="This plugin shows name and Win/Mac shortcuts of any action you invoke (View | Descriptions of Actions)" />
       <item value="adds a terminal icon to the IDE toolbar to open a project directory in your favorite terminal. By default, it uses OS native terminal: Windows - Command Prompt (cmd) Linux - gnome-terminal macOS - Terminal.app If you want to use another terminal instead - you can! Just specify your favorite one in the IDE Settings / Preferences. *PowerShell, ConEmu, Bash (WSL), GitBash, RXVT, iTerm are also supported." />
       <item value="str' object does not support item assignment" />
-      <item value="rics, insights, and time tracking automatically generated from your programming activity. Installation 1. Inside your IDE, select Preferences -&gt; Plugins -&gt; Browse Repositories.... 2. Search for iTimeTrack. 3. Click the green Install Plugin button and confirm the installation. 4. Re-launch your IDE. 5. Enter your api key, then click Save. 6. Use your IDE like you normally do and your time will be tracked for you automatically. 7. Visit https://iTimeTrack.com to see your logged time. Source Code: https://github.com/iTimeTrack/iTimeTrack-jetbrains&#10;Change Notes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
