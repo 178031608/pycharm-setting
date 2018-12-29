@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="meta dict" />
+      <item value="Upload a buffer to Storage server. arguments: @filebuffer: string @file_ext_name: string, can be null @meta_dict: dictionary, can be null @return dict { 'Group name' : group_name, 'Remote file_id' : remote_file_id, 'Status' : 'Upload successed" />
+      <item value="Upload a file to Storage server. arguments: @filename: string, name of file that will be uploaded @meta_dict: dictionary e.g.:{ 'ext_name' : 'jpg', 'file_size' : '10240B', 'width' : '160px', 'hight' : '80px' } meta_dict can be null @return dict { 'Group name' : group_name, 'Remote file_id' : remote_file_id, 'Status' : 'Upload successed.', 'Local file name' : local_file_name, 'Uploaded size' : upload_size, 'Storage IP' : storage_ip } if success else None" />
       <item value="毫秒" />
       <item value="秒" />
       <item value="分钟" />
@@ -48,14 +51,11 @@
       <item value="# path object (see Issue #27493), but self.baseFilename will be a string" />
       <item value="The following line added because the filename passed in could be a" />
       <item value="multiply by units requested" />
-      <item value="interval" />
-      <item value="'begin_test' is not allowed to run in parallel.&#10;Would you like to stop the running one" />
-      <item value="Reload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
