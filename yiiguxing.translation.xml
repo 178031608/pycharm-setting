@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="partition" />
+      <item value="k partition" />
       <item value="meta dict" />
       <item value="Upload a buffer to Storage server. arguments: @filebuffer: string @file_ext_name: string, can be null @meta_dict: dictionary, can be null @return dict { 'Group name' : group_name, 'Remote file_id' : remote_file_id, 'Status' : 'Upload successed" />
       <item value="Upload a file to Storage server. arguments: @filename: string, name of file that will be uploaded @meta_dict: dictionary e.g.:{ 'ext_name' : 'jpg', 'file_size' : '10240B', 'width' : '160px', 'hight' : '80px' } meta_dict can be null @return dict { 'Group name' : group_name, 'Remote file_id' : remote_file_id, 'Status' : 'Upload successed.', 'Local file name' : local_file_name, 'Uploaded size' : upload_size, 'Storage IP' : storage_ip } if success else None" />
@@ -49,13 +51,11 @@
       <item value="gmtime([seconds]) -&gt; (tm_year, tm_mon, tm_mday, tm_hour, tm_min, tm_sec, tm_wday, tm_yday, tm_isdst) Convert seconds since the Epoch to a time tuple expressing UTC (a.k.a. GMT). When 'seconds' is not passed in, convert the current time instead. If the platform supports the tm_gmtoff and tm_zone, they are available as attributes only." />
       <item value="gmtime" />
       <item value="# path object (see Issue #27493), but self.baseFilename will be a string" />
-      <item value="The following line added because the filename passed in could be a" />
-      <item value="multiply by units requested" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
