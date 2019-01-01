@@ -1,6 +1,48 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hbase exception: line:94 :TIOError(message=&quot;Failed 1 action: org.apache.hadoop.hbase.regionserver.NoSuchColumnFamilyException: Column family wa does not exist in region BLOCK_TABLE,,1542279902804.888baa261f264515f6c146a658e7ae8d. in table 'BLOCK_TABLE', {NAME =&gt; 'ba', BLOOMFILTER =&gt; 'ROW', VERSIONS =&gt; '2', IN_MEMORY =&gt; 'false', KEEP_DELETED_CELLS =&gt; 'FALSE', DATA_BLOCK_ENCODING =&gt; 'NONE', TTL =&gt; 'FOREVER', COMPRESSION =&gt; 'NONE', MIN_VERSIONS =&gt; '0', BLOCKCACHE =&gt; 'true', BLOCKSIZE =&gt; '65536', REPLICATION_SCOPE =&gt; '0'}\n\tat org.apache.hadoop.hbase.regionserver.RSRpcServices.doBatchOp(RSRpcServices.java:765)\n\tat org.apache.hadoop.hbase.regionserver.RSRpcServices.doNonAtomicRegionMutation(RSRpcServices.java:720)\n\tat org.apache.hadoop.hbase.regionserver.RSRpcServices.multi(RSRpcServices.java:2168)\n\tat org.apache.hadoop.hbase.protobuf.generated.ClientProtos$ClientService$2.callBlockingMethod(ClientProtos.java:33656)\n\tat org.apache.hadoop.hbase.ipc.RpcServer.call(RpcServer.java:2188)\n\tat org.apache.hadoop.hbase.ipc.CallRunner.run(CallRunner.java:112)\n\tat org.apache.hadoop.hbase.ipc.RpcExecutor.consumerLoop(RpcExecutor.java:133)\n\tat org.apache.hadoop.hbase.ipc.RpcExecutor$1.run(RpcExecutor.java:108)\n\tat java.lang.Thread.run(Thread.java:748)\n: 1 time," />
+      <item value="partition" />
+      <item value="k partition" />
+      <item value="meta dict" />
+      <item value="Upload a buffer to Storage server. arguments: @filebuffer: string @file_ext_name: string, can be null @meta_dict: dictionary, can be null @return dict { 'Group name' : group_name, 'Remote file_id' : remote_file_id, 'Status' : 'Upload successed" />
+      <item value="Upload a file to Storage server. arguments: @filename: string, name of file that will be uploaded @meta_dict: dictionary e.g.:{ 'ext_name' : 'jpg', 'file_size' : '10240B', 'width' : '160px', 'hight' : '80px' } meta_dict can be null @return dict { 'Group name' : group_name, 'Remote file_id' : remote_file_id, 'Status' : 'Upload successed.', 'Local file name' : local_file_name, 'Uploaded size' : upload_size, 'Storage IP' : storage_ip } if success else None" />
+      <item value="毫秒" />
+      <item value="秒" />
+      <item value="分钟" />
+      <item value="print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False) Prints the values to a stream, or to sys.stdout by default. Optional keyword arguments: file: a file-like object (stream); defaults to the current sys.stdout. sep: string inserted between values, default a space. end: string appended after the last value, default a newline. flush: whether to forcibly flush the stream." />
+      <item value="spider key" />
+      <item value="其他" />
+      <item value="The message in the transport are encoded as this: 4 bytes represents the length of the json object and immediately followed by the json object. '\x00\x00\x00+' '{&quot;payload&quot;: {}, &quot;metadata&quot;: {&quot;version&quot;: 1}}' the 4 bytes are the bytes representation of an integer and is encoded in big-endian." />
+      <item value="failed" />
+      <item value="exception" />
+      <item value="T Application Exception" />
+      <item value="https" />
+      <item value="http" />
+      <item value="hriftPy does not support generating module ' 'with path in protocol" />
+      <item value="include dir" />
+      <item value="module name" />
+      <item value="Load thrift file as a module. The module loaded and objects inside may only be pickled if module_name was provided. Note: `include_dir` will be depreacated in the future, use `include_dirs` instead. If `include_dir` was provided (not None), it will be appended to `include_dirs`." />
+      <item value="resource filename" />
+      <item value="_pkg resources" />
+      <item value="protocol" />
+      <item value="module" />
+      <item value="generating" />
+      <item value="support" />
+      <item value="Thrift Parser Error" />
+      <item value="parser" />
+      <item value="thriftpy" />
+      <item value="Access Control" />
+      <item value="_descriptor" />
+      <item value="zkquorum (str): Zookeeper quorum. Comma-separated list of hosts to connect to." />
+      <item value="zkquorum" />
+      <item value="Closes the scanner. Should be called to free server side resources timely. Typically close once the scanner is not needed anymore, i.e. after looping over it to get all the required rows. Parameters: - scannerId: the Id of the Scanner to cl" />
+      <item value="Throws a TIOError if any of the deletes fail. Always returns an empty list for backwards compatibility. Parameters: - table: the table to delete from - tdeletes: list of TDeletes to de" />
+      <item value="Commit a List of Puts to the table. Parameters: - table: the table to put data in - tputs: a list of TPuts to commit &quot;&quot;&quot;" />
+      <item value="Method for getting multiple rows. If a row cannot be found there will be a null value in the result list for that TGet at the same position. So the Results are in the same order as the TGets. Parameters:" />
+      <item value="Method for getting data from a row. If the row cannot be found an empty Result is returned. This can be checked by the empty field of the TResult @return the result Parameters:" />
+      <item value="# Autogenerated by Thrift Compiler (0.10.0)&#10;#&#10;# DO NOT EDIT UNLESS YOU ARE SURE THAT YOU KNOW WHAT YOU ARE DOING&#10;#&#10;# options string: py" />
+      <item value="T Binary Protocol" />
       <item value="verify" />
       <item value="json.decoder.JSONDecodeError: Expecting value: line 1 column 1837 (char 1836)" />
       <item value="If the cursor is between the parentheses of a method call, pressing Ctrl+P brings up a list of valid parameters." />
@@ -9,25 +51,14 @@
       <item value="_MIDNIGHT" />
       <item value="gmtime([seconds]) -&gt; (tm_year, tm_mon, tm_mday, tm_hour, tm_min, tm_sec, tm_wday, tm_yday, tm_isdst) Convert seconds since the Epoch to a time tuple expressing UTC (a.k.a. GMT). When 'seconds' is not passed in, convert the current time instead. If the platform supports the tm_gmtoff and tm_zone, they are available as attributes only." />
       <item value="gmtime" />
-      <item value="# path object (see Issue #27493), but self.baseFilename will be a string" />
-      <item value="The following line added because the filename passed in could be a" />
-      <item value="multiply by units requested" />
-      <item value="interval" />
-      <item value="'begin_test' is not allowed to run in parallel.&#10;Would you like to stop the running one" />
-      <item value="Reload" />
-      <item value="This plugin shows name and Win/Mac shortcuts of any action you invoke (View | Descriptions of Actions)" />
-      <item value="adds a terminal icon to the IDE toolbar to open a project directory in your favorite terminal. By default, it uses OS native terminal: Windows - Command Prompt (cmd) Linux - gnome-terminal macOS - Terminal.app If you want to use another terminal instead - you can! Just specify your favorite one in the IDE Settings / Preferences. *PowerShell, ConEmu, Bash (WSL), GitBash, RXVT, iTerm are also supported." />
-      <item value="str' object does not support item assignment" />
-      <item value="rics, insights, and time tracking automatically generated from your programming activity. Installation 1. Inside your IDE, select Preferences -&gt; Plugins -&gt; Browse Repositories.... 2. Search for iTimeTrack. 3. Click the green Install Plugin button and confirm the installation. 4. Re-launch your IDE. 5. Enter your api key, then click Save. 6. Use your IDE like you normally do and your time will be tracked for you automatically. 7. Visit https://iTimeTrack.com to see your logged time. Source Code: https://github.com/iTimeTrack/iTimeTrack-jetbrains&#10;Change Notes" />
-      <item value="If a git repository is detected in the parent directory of a module, the current branch name is appended to the project name in the window title. If no git repository is present, the default behaviour / project name is used. This can be used to automate time allocation to ticketing systems via window managers such as WiseTime. Change Notes Version 0.5.2 - Improved description and docs. Version 0.5.0 - Initial release." />
-      <item value="If a git repository is detected in the parent directory of a module, the current branch name is appended to the project name in the window title. If no git repository is present, the default behaviour / project name is used. This can be used to automate time allocation to ticketing systems via window managers such as WiseTime.&#10;Change Notes&#10;Version 0.5.2 - Improved description and docs. Version 0.5.0 - Initial release." />
-      <item value="Track the time spent on a project. Adds a single status bar widget. Click or type to start counting, click again to stop. Pauses the timer automatically when idle (after two minutes of inactivity by default). Time is saved in IDE's workspace files, does not clutter project's directory. Right click timer widget for options. Optional git integration, injects the time it took to create the commit into the commit message.&#10;Change Notes&#10;Fixed &quot;Reset to defaults&quot; and &quot;Save as defaults&quot; incorrectly saving tracked time as well" />
-      <item value="fans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
+        <entry key="GALICIAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="LUXEMBOURGISH" value="1" />
       </map>
     </option>
   </component>
