@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="service Providers" />
+      <item value="area" />
       <item value="record" />
       <item value="site" />
       <item value="inner" />
@@ -49,13 +51,11 @@
       <item value="verify" />
       <item value="json.decoder.JSONDecodeError: Expecting value: line 1 column 1837 (char 1836)" />
       <item value="If the cursor is between the parentheses of a method call, pressing Ctrl+P brings up a list of valid parameters." />
-      <item value="15:01&#9;Help Make Material Theme UI Better: We are asking your permission to send information about your configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using a feature). This data is anonymous, does not contain any personal information, collected for use only by the Material Theme Plugin Team and will never be transmitted to any third party." />
-      <item value="15:01&#9;Ignored files found that are tracked: .ignore plugin found some files that are tracked with Git which are also listed in .gitignore file. Show details Don't show" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
