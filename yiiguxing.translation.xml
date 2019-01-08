@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="host Unit Type" />
       <item value="result" />
       <item value="DJANGO URL" />
       <item value="serialize" />
       <item value="succeed" />
       <item value="succen list" />
       <item value="succend" />
-      <item value="host Unit Type" />
       <item value="record" />
       <item value="service Providers" />
       <item value="area" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
