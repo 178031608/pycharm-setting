@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You are trying to add a non-nullable field 'shudi_ptr' to inner without a default; we can't do that (the database needs something to populate existing rows). Please select a fix:  1) Provide a one-off default now (will be set on all existing rows with a null value for this column)  2) Quit, and let me add a default in models.py Select an option: " />
       <item value="block addrsss" />
       <item value="SCOPE" />
       <item value="but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings." />
@@ -50,11 +51,10 @@
       <item value="Access Control" />
       <item value="_descriptor" />
       <item value="zkquorum (str): Zookeeper quorum. Comma-separated list of hosts to connect to." />
-      <item value="zkquorum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
