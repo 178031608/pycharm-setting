@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an iterator equivalent to map(fn, iter). Args: fn: A callable that will take as many arguments as there are passed iterables. timeout: The maximum number of seconds to wait. If None, then there is no limit on the wait time. chunksize: If greater than one, the iterables will be chopped into chunks of size chunksize and submitted to the process pool. If set to one, the items in the list will be sent one at a time. Returns: An iterator equivalent to: map(func, *iterables) but the calls may be evaluated out-of-order. Raises: TimeoutError: If the entire result iterator could not be generated before the given timeout. Exception: If fn(*args) raises for any values." />
       <item value="You are trying to add a non-nullable field 'shudi_ptr' to inner without a default; we can't do that (the database needs something to populate existing rows). Please select a fix:  1) Provide a one-off default now (will be set on all existing rows with a null value for this column)  2) Quit, and let me add a default in models.py Select an option: " />
       <item value="block addrsss" />
       <item value="SCOPE" />
@@ -50,12 +51,11 @@
       <item value="thriftpy" />
       <item value="Access Control" />
       <item value="_descriptor" />
-      <item value="zkquorum (str): Zookeeper quorum. Comma-separated list of hosts to connect to." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
