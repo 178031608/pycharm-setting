@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return list of up to limit pre-processed entries from traceback. This is useful for alternate formatting of stack traces. If 'limit' is omitted or None, all entries are extracted. A pre-processed stack trace entry is a quadruple (filename, line number, function name, text) representing the information that is usually printed for a stack trace. The text is a string with leading and trailing whitespace stripped; if the source is not available it is None." />
+      <item value="tb" />
+      <item value="A shorthand for 'format_list(extract_tb(tb, limit))" />
       <item value="extract stack" />
       <item value="format exception" />
       <item value="extract tb" />
@@ -48,17 +51,15 @@
       <item value="parser" />
       <item value="thriftpy" />
       <item value="Access Control" />
-      <item value="_descriptor" />
-      <item value="zkquorum (str): Zookeeper quorum. Comma-separated list of hosts to connect to." />
-      <item value="zkquorum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
