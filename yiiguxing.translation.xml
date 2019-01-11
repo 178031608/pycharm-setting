@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Received more bytes than download warn size (8388608) in request" />
       <item value="count insert num failed. 520:local variable 'video_url' referenced before assignment" />
       <item value="FIELD" />
       <item value="FIELDS" />
@@ -50,12 +51,11 @@
       <item value="generating" />
       <item value="support" />
       <item value="Thrift Parser Error" />
-      <item value="parser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
