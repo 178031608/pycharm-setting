@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DATABASES" />
       <item value="Visual Studio Team Services is a plugin to enable working with Git and TFVC repositories on Visual Studio Team Services (VSTS) or Team Foundation Server (TFS) 2015+. GitHub | Documentation | Issues | Twitter @VSTS Features Supports authenticating with Team Services and TFS 2015+ to work with source code in Git and TFVC repositories. Checkout code from Git and TFVC repositories on Visual Studio Team Services and TFS 2015+. Git specific features: Import IntelliJ projects into Git repositories on Team Services and TFS 2015+. Create pull requests and view your active pull requests. Create a new branch and associate it with the work item you are working on. Quickly browse to file history or commit details on the web from the IDE. TFVC specific features: Execute all basic version control actions such as add, delete, rename, move, etc. View local changes and history for your files. Lock and unlock files and directories. Add labels to files and directories. Create, view, manage, and edit a workspace. Supports using a TFS proxy. Local workspace support only." />
       <item value="Visual Studio Team Services is a plugin to enable working with Git and TFVC repositories on Visual Studio Team Services (VSTS) or Team Foundation Server (TFS) 2015+. GitHub | Documentation | Issues | Twitter @VSTS Features Supports authenticating with Team Services and TFS 2015+ to work with source code in Git and TFVC repositories.&#10;Checkout code from Git and TFVC repositories on Visual Studio Team Services and TFS 2015+.&#10;Git specific features:&#10;Import IntelliJ projects into Git repositories on Team Services and TFS 2015+.&#10;Create pull requests and view your active pull requests.&#10;Create a new branch and associate it with the work item you are working on.&#10;Quickly browse to file history or commit details on the web from the IDE.&#10;TFVC specific features:&#10;Execute all basic version control actions such as add, delete, rename, move, etc.&#10;View local changes and history for your files.&#10;Lock and unlock files and directories.&#10;Add labels to files and directories.&#10;Create, view, manage, and edit a workspace.&#10;Supports using a TFS proxy.&#10;Local workspace support only." />
       <item value="Support for Idea build 183 #210 (@opherv) Feature: Bugfix support #122 (@straurob) Feature: pushOnFinish to feature options (@bmwsedee) Bugfix UI freeze on custom gitflow init #198 (@bmwsedee) Implementation: plugin is now built with gradle (@straurob)" />
@@ -50,12 +51,11 @@
       <item value="秒" />
       <item value="分钟" />
       <item value="print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False) Prints the values to a stream, or to sys.stdout by default. Optional keyword arguments: file: a file-like object (stream); defaults to the current sys.stdout. sep: string inserted between values, default a space. end: string appended after the last value, default a newline. flush: whether to forcibly flush the stream." />
-      <item value="spider key" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
