@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name" />
+      <item value="Document.Doucuments: (models.E015) 'ordering' refers to the nonexistent field 'app_document'." />
+      <item value="fields" />
+      <item value="注册" />
       <item value="EACH PAGE BLOGS NUMBER" />
       <item value="Getting Started" />
       <item value="toggle" />
@@ -47,15 +51,11 @@
       <item value="service Providers" />
       <item value="area" />
       <item value="site" />
-      <item value="inner" />
-      <item value="hbase exception: line:94 :TIOError(message=&quot;Failed 1 action: org.apache.hadoop.hbase.regionserver.NoSuchColumnFamilyException: Column family wa does not exist in region BLOCK_TABLE,,1542279902804.888baa261f264515f6c146a658e7ae8d. in table 'BLOCK_TABLE', {NAME =&gt; 'ba', BLOOMFILTER =&gt; 'ROW', VERSIONS =&gt; '2', IN_MEMORY =&gt; 'false', KEEP_DELETED_CELLS =&gt; 'FALSE', DATA_BLOCK_ENCODING =&gt; 'NONE', TTL =&gt; 'FOREVER', COMPRESSION =&gt; 'NONE', MIN_VERSIONS =&gt; '0', BLOCKCACHE =&gt; 'true', BLOCKSIZE =&gt; '65536', REPLICATION_SCOPE =&gt; '0'}\n\tat org.apache.hadoop.hbase.regionserver.RSRpcServices.doBatchOp(RSRpcServices.java:765)\n\tat org.apache.hadoop.hbase.regionserver.RSRpcServices.doNonAtomicRegionMutation(RSRpcServices.java:720)\n\tat org.apache.hadoop.hbase.regionserver.RSRpcServices.multi(RSRpcServices.java:2168)\n\tat org.apache.hadoop.hbase.protobuf.generated.ClientProtos$ClientService$2.callBlockingMethod(ClientProtos.java:33656)\n\tat org.apache.hadoop.hbase.ipc.RpcServer.call(RpcServer.java:2188)\n\tat org.apache.hadoop.hbase.ipc.CallRunner.run(CallRunner.java:112)\n\tat org.apache.hadoop.hbase.ipc.RpcExecutor.consumerLoop(RpcExecutor.java:133)\n\tat org.apache.hadoop.hbase.ipc.RpcExecutor$1.run(RpcExecutor.java:108)\n\tat java.lang.Thread.run(Thread.java:748)\n: 1 time," />
-      <item value="partition" />
-      <item value="k partition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="POLISH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
