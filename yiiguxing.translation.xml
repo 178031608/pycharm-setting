@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: context must be a dict rather than QuerySet." />
       <item value="Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name" />
       <item value="Document.Doucuments: (models.E015) 'ordering' refers to the nonexistent field 'app_document'." />
       <item value="fields" />
@@ -50,12 +51,11 @@
       <item value="record" />
       <item value="service Providers" />
       <item value="area" />
-      <item value="site" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="POLISH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
