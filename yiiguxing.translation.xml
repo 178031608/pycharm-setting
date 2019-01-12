@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: int() argument must be a string, a bytes-like object or a number, not 'builtin_function_or_method'" />
+      <item value="TypeError: cliassify() got an unexpected keyword argument 'api_id'" />
       <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'cliassify' not found. 'cliassify' is not a valid view function or pattern name." />
       <item value="django.core.exceptions.FieldError: Cannot resolve keyword 'classify_id' into field. Choices are: app_id, app_id_id, content, createtime, id, name, updatetime" />
       <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'system' not found. 'system' is not a valid view function or pattern name." />
@@ -49,13 +51,11 @@
       <item value="tb" />
       <item value="A shorthand for 'format_list(extract_tb(tb, limit))" />
       <item value="extract stack" />
-      <item value="format exception" />
-      <item value="extract tb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="POLISH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
