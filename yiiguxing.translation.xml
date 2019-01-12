@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="0 files committed, 2 files failed to commit: www On branch dev Your branch is ahead of 'origin/dev' by 3 commits. (use &quot;git push&quot; to publish your local commits) Changes not staged for commit: modified: sinaSpider/spiders/weibo_spider_quickly.py no changes added to commit" />
       <item value="algo" />
       <item value="algo_" />
       <item value="Update canceled" />
@@ -50,7 +51,6 @@
       <item value="module" />
       <item value="generating" />
       <item value="support" />
-      <item value="Thrift Parser Error" />
     </histories>
     <option name="languageScores">
       <map>
