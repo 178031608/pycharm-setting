@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jango.core.exceptions.FieldError: Cannot resolve keyword 'app_names' into field. Choices are: api_name, api_url, app_name, content, createtime, id, updatetime" />
+      <item value="context" />
+      <item value="strong" />
       <item value="TypeError: context must be a dict rather than QuerySet." />
       <item value="Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name" />
       <item value="Document.Doucuments: (models.E015) 'ordering' refers to the nonexistent field 'app_document'." />
@@ -48,14 +51,11 @@
       <item value="succen list" />
       <item value="succend" />
       <item value="host Unit Type" />
-      <item value="record" />
-      <item value="service Providers" />
-      <item value="area" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="POLISH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
