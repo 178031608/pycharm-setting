@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'system' not found. 'system' is not a valid view function or pattern name." />
       <item value="CASCADE" />
       <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'detail' with arguments '('',)' not found. 1 pattern(s) tried: ['(?P&lt;api_id&gt;[0-9]+)/$']" />
       <item value="TypeError: cannot unpack non-iterable int object" />
@@ -50,12 +51,11 @@
       <item value="extract tb" />
       <item value="result" />
       <item value="DJANGO URL" />
-      <item value="serialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="POLISH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
