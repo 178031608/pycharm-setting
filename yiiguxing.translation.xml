@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'app' with arguments '(1,)' not found. 1 pattern(s) tried: ['app/(?P&lt;cliassify_id&gt;[0-9]+)/(?P&lt;app_id&gt;[0-9]+)$']" />
       <item value="prettify" />
       <item value="TypeError: int() argument must be a string, a bytes-like object or a number, not 'builtin_function_or_method'" />
       <item value="TypeError: cliassify() got an unexpected keyword argument 'api_id'" />
@@ -50,12 +51,11 @@
       <item value="Update canceled" />
       <item value="Return list of up to limit pre-processed entries from traceback. This is useful for alternate formatting of stack traces. If 'limit' is omitted or None, all entries are extracted. A pre-processed stack trace entry is a quadruple (filename, line number, function name, text) representing the information that is usually printed for a stack trace. The text is a string with leading and trailing whitespace stripped; if the source is not available it is None." />
       <item value="tb" />
-      <item value="A shorthand for 'format_list(extract_tb(tb, limit))" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="POLISH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
