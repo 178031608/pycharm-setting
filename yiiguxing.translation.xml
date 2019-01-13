@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="container" />
+      <item value="This documentation template is provided free by eGrappler.com. Opineo is a feedback collection widget and is available for free download here" />
       <item value="Manager" />
       <item value="TypeError: int() argument must be a string, a bytes-like object or a number, not 'Classify'" />
       <item value="TypeError: app() missing 1 required positional argument: 'cliassify_id'" />
@@ -49,13 +51,11 @@
       <item value="Quickly create Merge Request for GitLab projects Quickly create merge requests with default settings and submit them with a single click&#10;Specify your favourite merge request assignees&#10;Supports GitLab API v4&#10;Change Notes&#10;Add Access Token button to conveniently open GitLab token management webpage&#10;GitLab URL handling Fixes" />
       <item value="The setting dialog was mess so I finally redone it. Unfortunately due to data mess in the old dialog all the plugin settings will be lost with this update. It's impossible to migrate them. Now it's correctly listed under Version Control menu. The server list now has it's own add/edit dialog. Allows to set if default checkout method should be SSH or HTTP. Checkout dialog The normal git checkout dialog will no list only repository urls from your preferred checkout method. Can be changed in settings dialog. Other changes All the actions now correctly mark if they are opening dialo" />
       <item value="0 files committed, 2 files failed to commit: www On branch dev Your branch is ahead of 'origin/dev' by 3 commits. (use &quot;git push&quot; to publish your local commits) Changes not staged for commit: modified: sinaSpider/spiders/weibo_spider_quickly.py no changes added to commit" />
-      <item value="algo" />
-      <item value="algo_" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="POLISH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
