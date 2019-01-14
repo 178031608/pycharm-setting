@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="active" />
+      <item value="section" />
       <item value="introduce" />
       <item value="Received more bytes than download warn size (8388608) in request" />
       <item value="count insert num failed. 520:local variable 'video_url' referenced before assignment" />
@@ -49,13 +51,11 @@
       <item value="_pkg resources" />
       <item value="protocol" />
       <item value="module" />
-      <item value="generating" />
-      <item value="support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
