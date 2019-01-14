@@ -1,13 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="X FRAME OPTIONS" />
+      <item value="math Jax Lib" />
+      <item value="toolbar" />
+      <item value="devtools" />
       <item value="introduce" />
       <item value="Classify" />
       <item value="office 2013" />
       <item value="skin" />
       <item value="Your Custom Toolbar Config" />
       <item value="put selected toolbar config here" />
-      <item value="devtools" />
       <item value="'devtools" />
       <item value="your extra plugins here" />
       <item value="active" />
@@ -48,14 +51,11 @@
       <item value="The message in the transport are encoded as this: 4 bytes represents the length of the json object and immediately followed by the json object. '\x00\x00\x00+' '{&quot;payload&quot;: {}, &quot;metadata&quot;: {&quot;version&quot;: 1}}' the 4 bytes are the bytes representation of an integer and is encoded in big-endian." />
       <item value="failed" />
       <item value="exception" />
-      <item value="T Application Exception" />
-      <item value="https" />
-      <item value="http" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
