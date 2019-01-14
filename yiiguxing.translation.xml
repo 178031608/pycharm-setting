@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All changes from 7db3f8f have already been reverted" />
       <item value="revert" />
       <item value="container" />
       <item value="This documentation template is provided free by eGrappler.com. Opineo is a feedback collection widget and is available for free download here" />
@@ -50,7 +51,6 @@
       <item value="Lets you interact with gitlab from within your IDE. Features: List projects (by namespaces) and their issues&#10;Filter issues by author, assignee or custom text&#10;Re-open / close issues (right click)&#10;Edit issues (double click) Please, leave a comment or drop me an email with any issues/reports. After plugin install, go to IDE preferences, and look for Gitlab Integration. You'll need the host and your API key from your gitlab (which you can find under Profile Settings -&gt; Account) Change Notes&#10;( 2018-11-17 ) v1.1.1 Minor improvements to the plugin initialization&#10;Minor improvements to the plugin settings view&#10;( 2018-11-13 ) v1.1.0 Redone plugin to use Gitlab API v4&#10;( 2014-10-14 ) v1.0.6 Java 6 / 7 versions&#10;displaying issue Iid instead of Id&#10;( 2014-07-08 ) v1.0.5 Fixed possible ssl error (ignoring certificate errors by default)&#10;( 2014-07-07 ) v1.0.4 bug fixes&#10;( 2014-06-23 ) v1.0.3 Issues list filter&#10;minor improvements&#10;( 2014-04-29 ) v1.0.2 Set plugin dependency to build 133 (IntelliJ IDEA 13, PyCharm 3.1, WebStorm 7, PhpStorm 7) - intellij 13 was the first to support java7&#10;( 2014-04-29 ) v1.0.1 Improves in the issue editing view&#10;( 2014-04-25 ) v1.0 Plugin creation&#10;Vendor&#10;Diogo Neves diogo.sousa.neves@gmail.com" />
       <item value="Quickly create Merge Request for GitLab projects Quickly create merge requests with default settings and submit them with a single click Specify your favourite merge request assignees Supports GitLab API v4 Change Notes Add Access Token button to conveniently open GitLab token management webpage GitLab URL handling Fixes" />
       <item value="Quickly create Merge Request for GitLab projects Quickly create merge requests with default settings and submit them with a single click&#10;Specify your favourite merge request assignees&#10;Supports GitLab API v4&#10;Change Notes&#10;Add Access Token button to conveniently open GitLab token management webpage&#10;GitLab URL handling Fixes" />
-      <item value="The setting dialog was mess so I finally redone it. Unfortunately due to data mess in the old dialog all the plugin settings will be lost with this update. It's impossible to migrate them. Now it's correctly listed under Version Control menu. The server list now has it's own add/edit dialog. Allows to set if default checkout method should be SSH or HTTP. Checkout dialog The normal git checkout dialog will no list only repository urls from your preferred checkout method. Can be changed in settings dialog. Other changes All the actions now correctly mark if they are opening dialo" />
     </histories>
     <option name="languageScores">
       <map>
