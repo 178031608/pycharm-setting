@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="color" />
+      <item value="background" />
+      <item value="text-align" />
+      <item value="padding" />
       <item value="X FRAME OPTIONS" />
       <item value="math Jax Lib" />
       <item value="toolbar" />
@@ -47,15 +51,11 @@
       <item value="分钟" />
       <item value="print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False) Prints the values to a stream, or to sys.stdout by default. Optional keyword arguments: file: a file-like object (stream); defaults to the current sys.stdout. sep: string inserted between values, default a space. end: string appended after the last value, default a newline. flush: whether to forcibly flush the stream." />
       <item value="spider key" />
-      <item value="其他" />
-      <item value="The message in the transport are encoded as this: 4 bytes represents the length of the json object and immediately followed by the json object. '\x00\x00\x00+' '{&quot;payload&quot;: {}, &quot;metadata&quot;: {&quot;version&quot;: 1}}' the 4 bytes are the bytes representation of an integer and is encoded in big-endian." />
-      <item value="failed" />
-      <item value="exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
