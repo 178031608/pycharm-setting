@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="introduce" />
+      <item value="Classify" />
+      <item value="office 2013" />
+      <item value="skin" />
+      <item value="Your Custom Toolbar Config" />
+      <item value="put selected toolbar config here" />
+      <item value="devtools" />
+      <item value="'devtools" />
+      <item value="your extra plugins here" />
       <item value="active" />
       <item value="section" />
-      <item value="introduce" />
       <item value="Received more bytes than download warn size (8388608) in request" />
       <item value="count insert num failed. 520:local variable 'video_url' referenced before assignment" />
       <item value="FIELD" />
@@ -43,19 +51,11 @@
       <item value="T Application Exception" />
       <item value="https" />
       <item value="http" />
-      <item value="hriftPy does not support generating module ' 'with path in protocol" />
-      <item value="include dir" />
-      <item value="module name" />
-      <item value="Load thrift file as a module. The module loaded and objects inside may only be pickled if module_name was provided. Note: `include_dir` will be depreacated in the future, use `include_dirs` instead. If `include_dir` was provided (not None), it will be appended to `include_dirs`." />
-      <item value="resource filename" />
-      <item value="_pkg resources" />
-      <item value="protocol" />
-      <item value="module" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
