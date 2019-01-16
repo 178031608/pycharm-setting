@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use redis pipeline execution" />
+      <item value="Returns a request to be scheduled or none." />
+      <item value="encoding" />
+      <item value="batch size" />
+      <item value="Reading start URLs from redis ke" />
+      <item value="redis batch size" />
+      <item value="redis_key must not be empty" />
+      <item value="e allow optional crawler argument to keep backwards # compatibility. # XXX: Raise a deprecation warning." />
+      <item value="Setup redis connection and idle signal. This should be called after the spider has set its crawler object." />
+      <item value="Returns a batch of start requests from redis" />
+      <item value="Mixin class to implement reading urls from a redis queue&quot;" />
+      <item value="Mixin class to implement reading urls from a redis queue" />
+      <item value="Returns a Request instance from data coming from Redis. By default, ``data`` is an encoded URL. You can override this method to provide your own message decoding. Parameters ---------- data : bytes Message from redis." />
+      <item value="Spider that reads urls from redis queue when idle. Attributes ---------- redis_key : str (default: REDIS_START_URLS_KEY) Redis key where to fetch start URLs from.. redis_batch_size : int (default: CONCURRENT_REQUESTS) Number of messages to fetch from redis on each attempt. redis_encoding : str (default: REDIS_ENCODING) Encoding to use when decoding messages from redis queue. Settings -------- REDIS_START_URLS_KEY : str (default: &quot;&lt;spider.name&gt;:start_urls&quot;) Default Redis key where to fetch start URLs from.. REDIS_START_URLS_BATCH_SIZE : int (deprecated by CONCURRENT_REQUESTS) Default number of messages to fetch from redis on each attempt. REDIS_START_URLS_AS_SET : bool (default: True) Use SET operations to retrieve messages from the redis queue. REDIS_ENCODING : str (default: &quot;utf-8&quot;) Default encoding to use when decoding messages from redis queue." />
+      <item value="pider that reads urls from redis queue when idle. Attributes ---------- redis_key : str (default: REDIS_START_URLS_KEY) Redis key where to fetch start URLs from.. redis_batch_size : int (default: CONCURRENT_REQUESTS) Number of messages to fetch from redis on each attempt. redis_encoding : str (default: REDIS_ENCODING) Encoding to use when decoding messages from redis queue. Settings -------- REDIS_START_URLS_KEY : str (default: &quot;&lt;spider.name&gt;:start_urls&quot;) Default Redis key where to fetch start URLs from.. REDIS_START_URLS_BATCH_SIZE : int (deprecated by CONCURRENT_REQUESTS) Default number of messages to fetch from redis on each attempt. REDIS_START_URLS_AS_SET : bool (default: False) Use SET operations to retrieve messages from the redis queue. If False, the messages are retrieve using the LPOP command. REDIS_ENCODING : str (default: &quot;utf-8&quot;) Default encoding to use when decoding messages from redis queue." />
       <item value="me" />
       <item value="current" />
       <item value="cureent" />
@@ -10,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
