@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="freq" />
+      <item value="freq words" />
+      <item value="We get" />
+      <item value="We get {update} {level} freq words,' 'compare with words exist,' '{insert} will be inserted,' '{delete} will be deleted.' 'Now we have {count} word" />
       <item value="local variable 'FDFS_CLIENT' referenced before assignment" />
       <item value="extract the snap for fastdfs, which should not be inserted into hbase. :param item: :return: the bytes of snap." />
       <item value="attach column" />
@@ -31,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
