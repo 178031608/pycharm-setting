@@ -1,71 +1,58 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="All changes from 7db3f8f have already been reverted" />
-      <item value="revert" />
-      <item value="container" />
-      <item value="This documentation template is provided free by eGrappler.com. Opineo is a feedback collection widget and is available for free download here" />
-      <item value="Manager" />
-      <item value="TypeError: int() argument must be a string, a bytes-like object or a number, not 'Classify'" />
-      <item value="TypeError: app() missing 1 required positional argument: 'cliassify_id'" />
-      <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'app' with arguments '(1,)' not found. 1 pattern(s) tried: ['app/(?P&lt;cliassify_id&gt;[0-9]+)/(?P&lt;app_id&gt;[0-9]+)$']" />
-      <item value="prettify" />
-      <item value="TypeError: int() argument must be a string, a bytes-like object or a number, not 'builtin_function_or_method'" />
-      <item value="TypeError: cliassify() got an unexpected keyword argument 'api_id'" />
-      <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'cliassify' not found. 'cliassify' is not a valid view function or pattern name." />
-      <item value="django.core.exceptions.FieldError: Cannot resolve keyword 'classify_id' into field. Choices are: app_id, app_id_id, content, createtime, id, name, updatetime" />
-      <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'system' not found. 'system' is not a valid view function or pattern name." />
-      <item value="CASCADE" />
-      <item value="django.urls.exceptions.NoReverseMatch: Reverse for 'detail' with arguments '('',)' not found. 1 pattern(s) tried: ['(?P&lt;api_id&gt;[0-9]+)/$']" />
-      <item value="TypeError: cannot unpack non-iterable int object" />
-      <item value="django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 18: 'api.app_name', expected 'endblock'. Did you forget to register or load" />
-      <item value="jango.core.exceptions.FieldError: Cannot resolve keyword 'app_names' into field. Choices are: api_name, api_url, app_name, content, createtime, id, updatetime" />
-      <item value="context" />
-      <item value="strong" />
-      <item value="TypeError: context must be a dict rather than QuerySet." />
-      <item value="Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name" />
-      <item value="Document.Doucuments: (models.E015) 'ordering' refers to the nonexistent field 'app_document'." />
-      <item value="fields" />
-      <item value="注册" />
-      <item value="EACH PAGE BLOGS NUMBER" />
-      <item value="Getting Started" />
-      <item value="toggle" />
-      <item value="Documentation" />
-      <item value="Opineo" />
-      <item value="Website" />
-      <item value="asset" />
-      <item value="DATABASES" />
-      <item value="Visual Studio Team Services is a plugin to enable working with Git and TFVC repositories on Visual Studio Team Services (VSTS) or Team Foundation Server (TFS) 2015+. GitHub | Documentation | Issues | Twitter @VSTS Features Supports authenticating with Team Services and TFS 2015+ to work with source code in Git and TFVC repositories. Checkout code from Git and TFVC repositories on Visual Studio Team Services and TFS 2015+. Git specific features: Import IntelliJ projects into Git repositories on Team Services and TFS 2015+. Create pull requests and view your active pull requests. Create a new branch and associate it with the work item you are working on. Quickly browse to file history or commit details on the web from the IDE. TFVC specific features: Execute all basic version control actions such as add, delete, rename, move, etc. View local changes and history for your files. Lock and unlock files and directories. Add labels to files and directories. Create, view, manage, and edit a workspace. Supports using a TFS proxy. Local workspace support only." />
-      <item value="Visual Studio Team Services is a plugin to enable working with Git and TFVC repositories on Visual Studio Team Services (VSTS) or Team Foundation Server (TFS) 2015+. GitHub | Documentation | Issues | Twitter @VSTS Features Supports authenticating with Team Services and TFS 2015+ to work with source code in Git and TFVC repositories.&#10;Checkout code from Git and TFVC repositories on Visual Studio Team Services and TFS 2015+.&#10;Git specific features:&#10;Import IntelliJ projects into Git repositories on Team Services and TFS 2015+.&#10;Create pull requests and view your active pull requests.&#10;Create a new branch and associate it with the work item you are working on.&#10;Quickly browse to file history or commit details on the web from the IDE.&#10;TFVC specific features:&#10;Execute all basic version control actions such as add, delete, rename, move, etc.&#10;View local changes and history for your files.&#10;Lock and unlock files and directories.&#10;Add labels to files and directories.&#10;Create, view, manage, and edit a workspace.&#10;Supports using a TFS proxy.&#10;Local workspace support only." />
-      <item value="Support for Idea build 183 #210 (@opherv) Feature: Bugfix support #122 (@straurob) Feature: pushOnFinish to feature options (@bmwsedee) Bugfix UI freeze on custom gitflow init #198 (@bmwsedee) Implementation: plugin is now built with gradle (@straurob)" />
-      <item value="Support for Idea build 183 #210 (@opherv)&#10;Feature: Bugfix support #122 (@straurob)&#10;Feature: pushOnFinish to feature options (@bmwsedee)&#10;Bugfix UI freeze on custom gitflow init #198 (@bmwsedee)&#10;Implementation: plugin is now built with gradle (@straurob)" />
-      <item value="Change Notes ### Features * suggest previously used scopes ([4c4f3e2](https://github.com/MobileTribe/commit-template-idea-plugin/commit/4c4f3e2)), closes [#7](https://github.com/MobileTribe/commit-template-idea-plugin/issues/7) * wrap commit message to 72 characters ([ea10dd8](https://github.com/MobileTribe/commit-template-idea-plugin/commit/ea10dd8)) Vendor" />
-      <item value="Change Notes&#10;### Features * suggest previously used scopes ([4c4f3e2](https://github.com/MobileTribe/commit-template-idea-plugin/commit/4c4f3e2)), closes [#7](https://github.com/MobileTribe/commit-template-idea-plugin/issues/7) * wrap commit message to 72 characters ([ea10dd8](https://github.com/MobileTribe/commit-template-idea-plugin/commit/ea10dd8))&#10;Vendor" />
-      <item value="reate Git commit messages. The structure is defined within a template, that is customized by the user himself. Ticket names are extracted from current git branches, that is defined by a RegEx e.g. feature/JiraId-1234 (git branch) - JiraId-1234 (ticket) Donate using PayPal Change Notes New feature: The Git or HG Mercurial Branch can be parsed by an regular expression. Vendor" />
-      <item value="reate Git commit messages. The structure is defined within a template, that is customized by the user himself. Ticket names are extracted from current git branches, that is defined by a RegEx e.g. feature/JiraId-1234 (git branch) - JiraId-1234 (ticket) Donate using PayPal&#10;Change Notes&#10;New feature: The Git or HG Mercurial Branch can be parsed by an regular expression.&#10;Vendor" />
-      <item value="lease note that Linky is not officially supported by Atlassian. Linky automatically detects repositories hosted on Bitbucket Cloud or Bitbucket Server. Both Git and Mercurial repositories are supported. In most cases, no configuration is required. However, if Linky can't detect your repository automatically, you can manually point it to the repository in the IDE settings. Linky uses Git integration and hg4idea plugins to integrate with Git and Mercurial, respectively. These plugins come with every JetBrains IDE, but you might need to enable them in order to use Bitbucket Linky actions. Both dependencies are optional though, so you can enable only one for the VCS you are using. Copy the link / Open in the Browser Copies or opens a link to the selected f" />
-      <item value="lease note that Linky is not officially supported by Atlassian.&#10;Linky automatically detects repositories hosted on Bitbucket Cloud or Bitbucket Server. Both Git and Mercurial repositories are supported. In most cases, no configuration is required. However, if Linky can't detect your repository automatically, you can manually point it to the repository in the IDE settings.&#10;Linky uses Git integration and hg4idea plugins to integrate with Git and Mercurial, respectively. These plugins come with every JetBrains IDE, but you might need to enable them in order to use Bitbucket Linky actions. Both dependencies are optional though, so you can enable only one for the VCS you are using.&#10;Copy the link / Open in the Browser&#10;Copies or opens a link to the selected f" />
-      <item value=".ignore is a plugin for .gitignore (Git), .hgignore (Mercurial), .npmignore (NPM), .dockerignore (Docker), .chefignore (Chef), .cvsignore (CVS), .bzrignore (Bazaar), .boringignore (Darcs), .mtn-ignore (Monotone), ignore-glob (Fossil), .jshintignore (JSHint), .tfignore (Team Foundation), .p4ignore (Perforce), .prettierignore (Prettier), .flooignore (Floobits), .eslintignore (ESLint), .cfignore (Cloud Foundry), .jpmignore (Jetpack), .stylelintignore (StyleLint), .stylintignore (Stylint), .swagger-codegen-ignore (Swagger Codegen), .helmignore (Kubernetes Helm), .upignore (Up), .prettierignore (Prettier), .ebignore (ElasticBeanstalk) files in your project." />
-      <item value="Search code with Github: Please contact me if you have any questions: ForDeer Preview" />
-      <item value="Lets you interact with gitlab from within your IDE. Features: List projects (by namespaces) and their issues Filter issues by author, assignee or custom text Re-open / close issues (right click) Edit issues (double click) Please, leave a comment or drop me an email with any issues/reports. After plugin install, go to IDE preferences, and look for Gitlab Integration. You'll need the host and your API key from your gitlab (which you can find under Profile Settings -&gt; Account) Change Notes ( 2018-11-17 ) v1.1.1 Minor improvements to the plugin initialization Minor improvements to the plugin settings view ( 2018-11-13 ) v1.1.0 Redone plugin to use Gitlab API v4 ( 2014-10-14 ) v1.0.6 Java 6 / 7 versions displaying issue Iid instead of Id ( 2014-07-08 ) v1.0.5 Fixed possible ssl error (ignoring certificate errors by default) ( 2014-07-07 ) v1.0.4 bug fixes ( 2014-06-23 ) v1.0.3 Issues list filter minor improvements ( 2014-04-29 ) v1.0.2 Set plugin dependency to build 133 (IntelliJ IDEA 13, PyCharm 3.1, WebStorm 7, PhpStorm 7) - intellij 13 was the first to support java7 ( 2014-04-29 ) v1.0.1 Improves in the issue editing view ( 2014-04-25 ) v1.0 Plugin creation Vendor Diogo Neves diogo.sousa.neves@gmail.com" />
-      <item value="Lets you interact with gitlab from within your IDE. Features: List projects (by namespaces) and their issues&#10;Filter issues by author, assignee or custom text&#10;Re-open / close issues (right click)&#10;Edit issues (double click) Please, leave a comment or drop me an email with any issues/reports. After plugin install, go to IDE preferences, and look for Gitlab Integration. You'll need the host and your API key from your gitlab (which you can find under Profile Settings -&gt; Account) Change Notes&#10;( 2018-11-17 ) v1.1.1 Minor improvements to the plugin initialization&#10;Minor improvements to the plugin settings view&#10;( 2018-11-13 ) v1.1.0 Redone plugin to use Gitlab API v4&#10;( 2014-10-14 ) v1.0.6 Java 6 / 7 versions&#10;displaying issue Iid instead of Id&#10;( 2014-07-08 ) v1.0.5 Fixed possible ssl error (ignoring certificate errors by default)&#10;( 2014-07-07 ) v1.0.4 bug fixes&#10;( 2014-06-23 ) v1.0.3 Issues list filter&#10;minor improvements&#10;( 2014-04-29 ) v1.0.2 Set plugin dependency to build 133 (IntelliJ IDEA 13, PyCharm 3.1, WebStorm 7, PhpStorm 7) - intellij 13 was the first to support java7&#10;( 2014-04-29 ) v1.0.1 Improves in the issue editing view&#10;( 2014-04-25 ) v1.0 Plugin creation&#10;Vendor&#10;Diogo Neves diogo.sousa.neves@gmail.com" />
-      <item value="Quickly create Merge Request for GitLab projects Quickly create merge requests with default settings and submit them with a single click Specify your favourite merge request assignees Supports GitLab API v4 Change Notes Add Access Token button to conveniently open GitLab token management webpage GitLab URL handling Fixes" />
-      <item value="Quickly create Merge Request for GitLab projects Quickly create merge requests with default settings and submit them with a single click&#10;Specify your favourite merge request assignees&#10;Supports GitLab API v4&#10;Change Notes&#10;Add Access Token button to conveniently open GitLab token management webpage&#10;GitLab URL handling Fixes" />
+      <item value="Please switch to the latest stable if merging failed." />
+      <item value="It seems that your ffmpeg is a nightly build" />
+      <item value="upload file to dfs failure,path" />
+      <item value="can not find path" />
+      <item value="accept unknow value" />
+      <item value="terminate" />
+      <item value="url in queue now" />
+      <item value="Unexpected" />
+      <item value="full_search_list count is" />
+      <item value="Ready to Add words for" />
+      <item value="urls are waiting" />
+      <item value="Crawl slow" />
+      <item value="Now we have" />
+      <item value="will be inserted" />
+      <item value="compare with words exist" />
+      <item value="freq" />
+      <item value="freq words" />
+      <item value="We get" />
+      <item value="We get {update} {level} freq words,' 'compare with words exist,' '{insert} will be inserted,' '{delete} will be deleted.' 'Now we have {count} word" />
+      <item value="local variable 'FDFS_CLIENT' referenced before assignment" />
+      <item value="extract the snap for fastdfs, which should not be inserted into hbase. :param item: :return: the bytes of snap." />
+      <item value="attach column" />
+      <item value="attach columns which could be get from existing column. This method depend on different info type. :param item: :return:" />
+      <item value="batch check by boom filter. :param check_list: :return:the data not in the filter." />
+      <item value="TypeError: analysis() missing 1 required positional argument: 'meta'" />
+      <item value="Use redis pipeline execution" />
+      <item value="Returns a request to be scheduled or none." />
+      <item value="encoding" />
+      <item value="batch size" />
+      <item value="Reading start URLs from redis ke" />
+      <item value="redis batch size" />
+      <item value="redis_key must not be empty" />
+      <item value="e allow optional crawler argument to keep backwards # compatibility. # XXX: Raise a deprecation warning." />
+      <item value="Setup redis connection and idle signal. This should be called after the spider has set its crawler object." />
+      <item value="Returns a batch of start requests from redis" />
+      <item value="Mixin class to implement reading urls from a redis queue&quot;" />
+      <item value="Mixin class to implement reading urls from a redis queue" />
+      <item value="Returns a Request instance from data coming from Redis. By default, ``data`` is an encoded URL. You can override this method to provide your own message decoding. Parameters ---------- data : bytes Message from redis." />
+      <item value="Spider that reads urls from redis queue when idle. Attributes ---------- redis_key : str (default: REDIS_START_URLS_KEY) Redis key where to fetch start URLs from.. redis_batch_size : int (default: CONCURRENT_REQUESTS) Number of messages to fetch from redis on each attempt. redis_encoding : str (default: REDIS_ENCODING) Encoding to use when decoding messages from redis queue. Settings -------- REDIS_START_URLS_KEY : str (default: &quot;&lt;spider.name&gt;:start_urls&quot;) Default Redis key where to fetch start URLs from.. REDIS_START_URLS_BATCH_SIZE : int (deprecated by CONCURRENT_REQUESTS) Default number of messages to fetch from redis on each attempt. REDIS_START_URLS_AS_SET : bool (default: True) Use SET operations to retrieve messages from the redis queue. REDIS_ENCODING : str (default: &quot;utf-8&quot;) Default encoding to use when decoding messages from redis queue." />
+      <item value="pider that reads urls from redis queue when idle. Attributes ---------- redis_key : str (default: REDIS_START_URLS_KEY) Redis key where to fetch start URLs from.. redis_batch_size : int (default: CONCURRENT_REQUESTS) Number of messages to fetch from redis on each attempt. redis_encoding : str (default: REDIS_ENCODING) Encoding to use when decoding messages from redis queue. Settings -------- REDIS_START_URLS_KEY : str (default: &quot;&lt;spider.name&gt;:start_urls&quot;) Default Redis key where to fetch start URLs from.. REDIS_START_URLS_BATCH_SIZE : int (deprecated by CONCURRENT_REQUESTS) Default number of messages to fetch from redis on each attempt. REDIS_START_URLS_AS_SET : bool (default: False) Use SET operations to retrieve messages from the redis queue. If False, the messages are retrieve using the LPOP command. REDIS_ENCODING : str (default: &quot;utf-8&quot;) Default encoding to use when decoding messages from redis queue." />
+      <item value="me" />
+      <item value="current" />
+      <item value="cureent" />
+      <item value="NEVER REDIS TIMEOUT" />
+      <item value="BACKEND" />
+      <item value="You can change your mind later. Git integration will append time spent on commit into commit messages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="108" />
-        <entry key="POLISH" value="2" />
-        <entry key="GALICIAN" value="1" />
-        <entry key="LATIN" value="2" />
-        <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="PORTUGUESE" value="1" />
-        <entry key="SPANISH" value="2" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
