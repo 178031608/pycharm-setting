@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pages" />
+      <item value="Crawled" />
       <item value="scope" />
       <item value="Receive" />
       <item value="Please switch to the latest stable if merging failed." />
@@ -52,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
