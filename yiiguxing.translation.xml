@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="function accepting a :class:`pykafka.broker.Broker` as its sole argument that returns a :class:`pykafka.protocol.Response`. The argument to this function will be the each of the brokers discoverable via `broker_connects` in turn." />
+      <item value="ake a request to any broker in broker_connects Returns the result of the first successful request :param broker_connects: The set of brokers to which to attempt to connect :type broker_connects: Iterable of two-element sequences of the format (broker_host, broker_port) :param req_fn: A function accepting a :class:`pykafka.broker.Broker` as its sole argument that returns a :class:`pykafka.protocol.Response`. The argument to this function will be the each of the brokers discoverable via `broker_connects` in turn. :type req_fn: function" />
+      <item value="property" />
+      <item value="Establish a connection to the broker server. Creates a new :class:`pykafka.connection.BrokerConnection` and a new :class:`pykafka.handlers.RequestHandler` for this broker" />
+      <item value="The primary :class:`pykafka.handlers.RequestHandler` for this broker This handler handles all requests outside of the commit/fetch api" />
+      <item value="nsures that self._req_handler is not None before calling fn" />
       <item value="Socket disconnected during request for &quot; &quot;broker %s:%s. Continuing" />
       <item value="Make a request to any broker in broker_connects Returns the result of the first successful request :param broker_connects: The set of brokers to which to attempt to connect :type broker_connects: Iterable of two-element sequences of the format (broker_host, broker_port) :param req_fn: A function accepting a :class:`pykafka.broker.Broker` as its sole argument that returns a :class:`pykafka.protocol.Response`. The argument to this function will be the each of the brokers discoverable via `broker_connects` in turn. :type req_fn: function" />
       <item value="Get a list of host:port pairs representing possible broker connections For use only when self.brokers is not populated (ie at startup)" />
@@ -45,17 +51,11 @@
       <item value="Returns a batch of start requests from redis" />
       <item value="Mixin class to implement reading urls from a redis queue&quot;" />
       <item value="Mixin class to implement reading urls from a redis queue" />
-      <item value="Returns a Request instance from data coming from Redis. By default, ``data`` is an encoded URL. You can override this method to provide your own message decoding. Parameters ---------- data : bytes Message from redis." />
-      <item value="Spider that reads urls from redis queue when idle. Attributes ---------- redis_key : str (default: REDIS_START_URLS_KEY) Redis key where to fetch start URLs from.. redis_batch_size : int (default: CONCURRENT_REQUESTS) Number of messages to fetch from redis on each attempt. redis_encoding : str (default: REDIS_ENCODING) Encoding to use when decoding messages from redis queue. Settings -------- REDIS_START_URLS_KEY : str (default: &quot;&lt;spider.name&gt;:start_urls&quot;) Default Redis key where to fetch start URLs from.. REDIS_START_URLS_BATCH_SIZE : int (deprecated by CONCURRENT_REQUESTS) Default number of messages to fetch from redis on each attempt. REDIS_START_URLS_AS_SET : bool (default: True) Use SET operations to retrieve messages from the redis queue. REDIS_ENCODING : str (default: &quot;utf-8&quot;) Default encoding to use when decoding messages from redis queue." />
-      <item value="pider that reads urls from redis queue when idle. Attributes ---------- redis_key : str (default: REDIS_START_URLS_KEY) Redis key where to fetch start URLs from.. redis_batch_size : int (default: CONCURRENT_REQUESTS) Number of messages to fetch from redis on each attempt. redis_encoding : str (default: REDIS_ENCODING) Encoding to use when decoding messages from redis queue. Settings -------- REDIS_START_URLS_KEY : str (default: &quot;&lt;spider.name&gt;:start_urls&quot;) Default Redis key where to fetch start URLs from.. REDIS_START_URLS_BATCH_SIZE : int (deprecated by CONCURRENT_REQUESTS) Default number of messages to fetch from redis on each attempt. REDIS_START_URLS_AS_SET : bool (default: False) Use SET operations to retrieve messages from the redis queue. If False, the messages are retrieve using the LPOP command. REDIS_ENCODING : str (default: &quot;utf-8&quot;) Default encoding to use when decoding messages from redis queue." />
-      <item value="me" />
-      <item value="current" />
-      <item value="cureent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
