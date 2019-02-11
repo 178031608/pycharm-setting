@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval count" />
       <item value="The primary :class:`pykafka.handlers.RequestHandler` for this broker This handler handles all requests outside of the commit/fetch api" />
       <item value="property" />
       <item value="produce_request: a request object indicating the messages to produce" />
@@ -50,12 +51,11 @@
       <item value="e allow optional crawler argument to keep backwards # compatibility. # XXX: Raise a deprecation warning." />
       <item value="Setup redis connection and idle signal. This should be called after the spider has set its crawler object." />
       <item value="Returns a batch of start requests from redis" />
-      <item value="Mixin class to implement reading urls from a redis queue&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
