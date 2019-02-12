@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wait result only if non-oneway" />
+      <item value="thriftpy.thrift.T Application Exception" />
+      <item value="stop Row" />
+      <item value="start Row" />
+      <item value="Any timestamps in the columns are ignored, use timeRange to select by timestamp. Max versions defaults to 1. Attributes: - startRow - stopRow - columns - caching - maxVersions - timeRange - filterString - batchSize - attributes - authorizations - reversed" />
       <item value="Grabs multiple rows from a Scanner. @return Between zero and numRows TResults Parameters: - scannerId: the Id of the Scanner to return rows from. This is an Id returned from the openScanner function. - numRows: number of rows to return" />
       <item value="Given a table and a row get the location of the region that would contain the given row key. reload = true means the cache will be cleared and the location will be fetched from meta. Parameters: - table - row - reload" />
       <item value="@return between zero and numRows TResults Parameters: - table: the table to get the Scanner for - tscan: the scan object to get a Scanner for - numRows: number of rows to return" />
@@ -46,16 +51,11 @@
       <item value="attach column" />
       <item value="attach columns which could be get from existing column. This method depend on different info type. :param item: :return:" />
       <item value="batch check by boom filter. :param check_list: :return:the data not in the filter." />
-      <item value="TypeError: analysis() missing 1 required positional argument: 'meta'" />
-      <item value="Use redis pipeline execution" />
-      <item value="Returns a request to be scheduled or none." />
-      <item value="encoding" />
-      <item value="batch size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
