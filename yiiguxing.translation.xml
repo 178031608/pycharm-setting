@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="py4j.protocol.Py4JJavaError: An error occurred while calling z:org.apache.spark.api.python.PythonRDD.newAPIHadoopRDD.&#10;: java.lang.ClassNotFoundException: org.apache.hadoop.hbase.io.ImmutableBytesWritable" />
       <item value="wait result only if non-oneway" />
       <item value="thriftpy.thrift.T Application Exception" />
       <item value="stop Row" />
@@ -50,12 +51,11 @@
       <item value="extract the snap for fastdfs, which should not be inserted into hbase. :param item: :return: the bytes of snap." />
       <item value="attach column" />
       <item value="attach columns which could be get from existing column. This method depend on different info type. :param item: :return:" />
-      <item value="batch check by boom filter. :param check_list: :return:the data not in the filter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
