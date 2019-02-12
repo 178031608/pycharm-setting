@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Grabs multiple rows from a Scanner. @return Between zero and numRows TResults Parameters: - scannerId: the Id of the Scanner to return rows from. This is an Id returned from the openScanner function. - numRows: number of rows to return" />
+      <item value="Given a table and a row get the location of the region that would contain the given row key. reload = true means the cache will be cleared and the location will be fetched from meta. Parameters: - table - row - reload" />
+      <item value="@return between zero and numRows TResults Parameters: - table: the table to get the Scanner for - tscan: the scan object to get a Scanner for - numRows: number of rows to return" />
+      <item value="Get results for the provided TScan object. This helper function opens a scanner, get the results and close the scanner. @return between zero and numRows TResults Parameters: - table: the table to get the Scanner for - tscan: the scan object to get a Scanner for - numRows: number of rows to return" />
+      <item value="Closes the scanner. Should be called to free server side resources timely. Typically close once the scanner is not needed anymore, i.e. after looping over it to get all the required rows. Parameters: - scannerId: the Id of the Scanner to close *" />
+      <item value="Get a Scanner for the provided TScan object. @return Scanner Id to be used with other scanner procedures Parameters: - table: the table to get the Scanner for - tscan: the scan object to get a Scanner for" />
       <item value="interval count" />
       <item value="The primary :class:`pykafka.handlers.RequestHandler` for this broker This handler handles all requests outside of the commit/fetch api" />
       <item value="property" />
@@ -45,17 +51,11 @@
       <item value="Returns a request to be scheduled or none." />
       <item value="encoding" />
       <item value="batch size" />
-      <item value="Reading start URLs from redis ke" />
-      <item value="redis batch size" />
-      <item value="redis_key must not be empty" />
-      <item value="e allow optional crawler argument to keep backwards # compatibility. # XXX: Raise a deprecation warning." />
-      <item value="Setup redis connection and idle signal. This should be called after the spider has set its crawler object." />
-      <item value="Returns a batch of start requests from redis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
