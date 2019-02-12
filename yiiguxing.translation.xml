@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get return value" />
+      <item value=":param inputFormatClass: fully qualified classname of Hadoop InputFormat (e.g. &quot;org.apache.hadoop.mapreduce.lib.input.TextInputFormat&quot;) :param keyClass: fully qualified classname of key Writable class (e.g. &quot;org.apache.hadoop.io.Text&quot;) :param valueClass: fully qualified classname of value Writable class (e.g. &quot;org.apache.hadoop.io.LongWritable&quot;) :param keyConverter: (None by default) :param valueConverter: (None by default) :param conf: Hadoop configuration, passed in as a dict (None by default) :param batchSize: The number of Python objects represented as a single Java object. (default 0, choose batchSize automatically)" />
+      <item value="Read a 'new API' Hadoop InputFormat with arbitrary key and value class, from an arbitrary Hadoop configuration, which is passed in as a Python dict. This will be converted into a Configuration in Java. The mechanism is the same as for sc.sequenceFile." />
+      <item value="Exception: Java gateway process exited before sending its port number" />
       <item value="py4j.protocol.Py4JJavaError: An error occurred while calling z:org.apache.spark.api.python.PythonRDD.newAPIHadoopRDD.&#10;: java.lang.ClassNotFoundException: org.apache.hadoop.hbase.io.ImmutableBytesWritable" />
       <item value="wait result only if non-oneway" />
       <item value="thriftpy.thrift.T Application Exception" />
@@ -47,15 +51,11 @@
       <item value="freq words" />
       <item value="We get" />
       <item value="We get {update} {level} freq words,' 'compare with words exist,' '{insert} will be inserted,' '{delete} will be deleted.' 'Now we have {count} word" />
-      <item value="local variable 'FDFS_CLIENT' referenced before assignment" />
-      <item value="extract the snap for fastdfs, which should not be inserted into hbase. :param item: :return: the bytes of snap." />
-      <item value="attach column" />
-      <item value="attach columns which could be get from existing column. This method depend on different info type. :param item: :return:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
       </map>
     </option>
   </component>
