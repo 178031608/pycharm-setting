@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: can only concatenate list (not &quot;dict&quot;) to list" />
       <item value="TypeError: a bytes-like object is required, not 'str'" />
       <item value="snapshot" />
       <item value="IndexError: pop from empty list" />
@@ -50,12 +51,11 @@
       <item value="scope" />
       <item value="Receive" />
       <item value="Please switch to the latest stable if merging failed." />
-      <item value="It seems that your ffmpeg is a nightly build" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
