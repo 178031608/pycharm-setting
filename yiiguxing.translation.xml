@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attach column" />
+      <item value="prepare process" />
+      <item value="snapshot" />
       <item value="extensions" />
       <item value="logstats" />
       <item value="gnore" />
       <item value="TypeError: can only concatenate list (not &quot;dict&quot;) to list" />
       <item value="TypeError: a bytes-like object is required, not 'str'" />
-      <item value="snapshot" />
       <item value="IndexError: pop from empty list" />
       <item value="NFO: Received SIG_SETMASK, shutting down gracefully. Send again to force" />
       <item value="SIG SETMASK" />
@@ -49,13 +51,11 @@
       <item value="Socket disconnected during request for &quot; &quot;broker %s:%s. Continuing" />
       <item value="Make a request to any broker in broker_connects Returns the result of the first successful request :param broker_connects: The set of brokers to which to attempt to connect :type broker_connects: Iterable of two-element sequences of the format (broker_host, broker_port) :param req_fn: A function accepting a :class:`pykafka.broker.Broker` as its sole argument that returns a :class:`pykafka.protocol.Response`. The argument to this function will be the each of the brokers discoverable via `broker_connects` in turn. :type req_fn: function" />
       <item value="Get a list of host:port pairs representing possible broker connections For use only when self.brokers is not populated (ie at startup)" />
-      <item value="pages" />
-      <item value="Crawled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="LATVIAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="ITALIAN" value="1" />
