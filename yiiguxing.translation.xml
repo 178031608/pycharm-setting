@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extensions" />
+      <item value="logstats" />
       <item value="gnore" />
       <item value="TypeError: can only concatenate list (not &quot;dict&quot;) to list" />
       <item value="TypeError: a bytes-like object is required, not 'str'" />
@@ -49,13 +51,12 @@
       <item value="Get a list of host:port pairs representing possible broker connections For use only when self.brokers is not populated (ie at startup)" />
       <item value="pages" />
       <item value="Crawled" />
-      <item value="scope" />
-      <item value="Receive" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="ENGLISH" value="96" />
+        <entry key="LATVIAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
