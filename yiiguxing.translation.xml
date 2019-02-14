@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Redis Spider" />
+      <item value="getattr" />
+      <item value="We allow optional crawler argument to keep backwards" />
+      <item value="Raise a deprecation warning" />
+      <item value="compatibility" />
+      <item value="setup redis" />
+      <item value="Setup redis connection and idle signal" />
+      <item value="Returns a batch of start requests from redis" />
       <item value="get return value" />
       <item value=":param inputFormatClass: fully qualified classname of Hadoop InputFormat (e.g. &quot;org.apache.hadoop.mapreduce.lib.input.TextInputFormat&quot;) :param keyClass: fully qualified classname of key Writable class (e.g. &quot;org.apache.hadoop.io.Text&quot;) :param valueClass: fully qualified classname of value Writable class (e.g. &quot;org.apache.hadoop.io.LongWritable&quot;) :param keyConverter: (None by default) :param valueConverter: (None by default) :param conf: Hadoop configuration, passed in as a dict (None by default) :param batchSize: The number of Python objects represented as a single Java object. (default 0, choose batchSize automatically)" />
       <item value="Read a 'new API' Hadoop InputFormat with arbitrary key and value class, from an arbitrary Hadoop configuration, which is passed in as a Python dict. This will be converted into a Configuration in Java. The mechanism is the same as for sc.sequenceFile." />
@@ -43,19 +51,11 @@
       <item value="full_search_list count is" />
       <item value="Ready to Add words for" />
       <item value="urls are waiting" />
-      <item value="Crawl slow" />
-      <item value="Now we have" />
-      <item value="will be inserted" />
-      <item value="compare with words exist" />
-      <item value="freq" />
-      <item value="freq words" />
-      <item value="We get" />
-      <item value="We get {update} {level} freq words,' 'compare with words exist,' '{insert} will be inserted,' '{delete} will be deleted.' 'Now we have {count} word" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
       </map>
     </option>
   </component>
