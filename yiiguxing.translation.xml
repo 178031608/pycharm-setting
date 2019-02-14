@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NFO: Received SIG_SETMASK, shutting down gracefully. Send again to force" />
+      <item value="SIG SETMASK" />
+      <item value="denied" />
+      <item value="Permission" />
+      <item value="Default server work@192.168.129.17:22 has no valid mappings.&#10;Automatic upload is not enabled." />
       <item value="Enable this inspection if you need your code to be compatible with a range of Python versions (for example, if you're building a library). The range of Python versions with which the code needs to be compatible can be specified in the inspection settings." />
       <item value="Redis Spider" />
       <item value="getattr" />
@@ -46,16 +51,12 @@
       <item value="upload file to dfs failure,path" />
       <item value="can not find path" />
       <item value="accept unknow value" />
-      <item value="terminate" />
-      <item value="url in queue now" />
-      <item value="Unexpected" />
-      <item value="full_search_list count is" />
-      <item value="Ready to Add words for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
