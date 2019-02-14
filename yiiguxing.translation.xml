@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IndexError: pop from empty list" />
       <item value="NFO: Received SIG_SETMASK, shutting down gracefully. Send again to force" />
       <item value="SIG SETMASK" />
       <item value="denied" />
@@ -50,12 +51,11 @@
       <item value="It seems that your ffmpeg is a nightly build" />
       <item value="upload file to dfs failure,path" />
       <item value="can not find path" />
-      <item value="accept unknow value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
