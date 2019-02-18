@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mapping" />
       <item value="iteritems" />
       <item value="get data store type" />
       <item value="Redis Stats Server" />
@@ -50,12 +51,11 @@
       <item value="Get a Scanner for the provided TScan object. @return Scanner Id to be used with other scanner procedures Parameters: - table: the table to get the Scanner for - tscan: the scan object to get a Scanner for" />
       <item value="interval count" />
       <item value="The primary :class:`pykafka.handlers.RequestHandler` for this broker This handler handles all requests outside of the commit/fetch api" />
-      <item value="property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="DANISH" value="1" />
         <entry key="LATVIAN" value="1" />
         <entry key="SWEDISH" value="1" />
