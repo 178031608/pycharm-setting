@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inspection" />
+      <item value="monitoring" />
+      <item value="read" />
+      <item value="error: no commands supplied" />
       <item value="``nx`` forces ZADD to only create new elements and not to update scores for elements that already exist." />
       <item value="Set any number of element-name, score pairs to the key ``name``. Pairs are specified as a dict of element-names keys to score values. ``nx`` forces ZADD to only create new elements and not to update scores for elements that already exist. ``xx`` forces ZADD to only update scores of elements that already exist. New elements will not be added. ``ch`` modifies the return value to be the numbers of elements changed. Changed elements include new elements that were added and elements whose scores changed. ``incr`` modifies ZADD to behave like ZINCRBY. In this mode only a single element/score pair can be specified and the score is the amount the existing score will be incremented by. When using this mode the return value of ZADD will be the new score of the element. The return value of ZADD varies based on the mode specified. With no options, ZADD returns the number of new elements added to the sorted set." />
       <item value="nx" />
@@ -47,15 +51,11 @@
       <item value="wait result only if non-oneway" />
       <item value="thriftpy.thrift.T Application Exception" />
       <item value="stop Row" />
-      <item value="start Row" />
-      <item value="Any timestamps in the columns are ignored, use timeRange to select by timestamp. Max versions defaults to 1. Attributes: - startRow - stopRow - columns - caching - maxVersions - timeRange - filterString - batchSize - attributes - authorizations - reversed" />
-      <item value="Grabs multiple rows from a Scanner. @return Between zero and numRows TResults Parameters: - scannerId: the Id of the Scanner to return rows from. This is an Id returned from the openScanner function. - numRows: number of rows to return" />
-      <item value="Given a table and a row get the location of the region that would contain the given row key. reload = true means the cache will be cleared and the location will be fetched from meta. Parameters: - table - row - reload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="DANISH" value="1" />
         <entry key="LATVIAN" value="1" />
         <entry key="SWEDISH" value="1" />
