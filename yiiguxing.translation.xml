@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="devices attached" />
+      <item value="devices acttached" />
+      <item value="devices" />
       <item value="foobar" />
       <item value="Runs redisboard in an ad-hoc django project" />
       <item value="Argument Parser" />
@@ -48,9 +51,6 @@
       <item value="compatibility" />
       <item value="setup redis" />
       <item value="Setup redis connection and idle signal" />
-      <item value="Returns a batch of start requests from redis" />
-      <item value="get return value" />
-      <item value=":param inputFormatClass: fully qualified classname of Hadoop InputFormat (e.g. &quot;org.apache.hadoop.mapreduce.lib.input.TextInputFormat&quot;) :param keyClass: fully qualified classname of key Writable class (e.g. &quot;org.apache.hadoop.io.Text&quot;) :param valueClass: fully qualified classname of value Writable class (e.g. &quot;org.apache.hadoop.io.LongWritable&quot;) :param keyConverter: (None by default) :param valueConverter: (None by default) :param conf: Hadoop configuration, passed in as a dict (None by default) :param batchSize: The number of Python objects represented as a single Java object. (default 0, choose batchSize automatically)" />
     </histories>
     <option name="languageScores">
       <map>
