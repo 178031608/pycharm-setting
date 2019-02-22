@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="focused" />
       <item value="搜索" />
       <item value="解锁" />
       <item value="HTTP protocol error in client request: Invalid HTTP request form (expected: authority or absolute, got: relative)" />
@@ -50,12 +51,11 @@
       <item value="Redis Spider" />
       <item value="getattr" />
       <item value="We allow optional crawler argument to keep backwards" />
-      <item value="Raise a deprecation warning" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="DANISH" value="1" />
         <entry key="LATVIAN" value="1" />
         <entry key="SWEDISH" value="1" />
