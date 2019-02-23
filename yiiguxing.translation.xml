@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fling" />
+      <item value="fling backward vertically" />
       <item value="# Passing max_length to forms.CharField means that the value's length # will be validated twice. This is considered acceptable since we want # the value in the form field (to pass into widget for example)." />
       <item value="手机" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
