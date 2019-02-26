@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Counter" />
       <item value="abnormal termination" />
       <item value="startswith" />
       <item value="TypeError: Object of type QuerySet is not JSON serializable " />
@@ -16,7 +17,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
