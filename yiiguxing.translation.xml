@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cchardet" />
+      <item value="strip ALL Scipt" />
+      <item value="re compile bj" />
+      <item value="process pool" />
+      <item value="control process" />
       <item value="A fast, lightweight IPv4/IPv6 manipulation library in Python. This library is used to create/poke/manipulate IPv4 and IPv6 addresses&#10;and networks." />
       <item value="region" />
       <item value="carrier" />
@@ -20,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
