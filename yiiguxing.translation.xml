@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A fast, lightweight IPv4/IPv6 manipulation library in Python. This library is used to create/poke/manipulate IPv4 and IPv6 addresses&#10;and networks." />
       <item value="region" />
       <item value="carrier" />
       <item value="carrier_region" />
@@ -20,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
