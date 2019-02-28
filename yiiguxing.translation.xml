@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Look up an object with the given kwargs, updating one with defaults if it exists, otherwise create a new one. Return a tuple (object, created), where created is a boolean specifying whether an object was created." />
+      <item value="datasources" />
+      <item value="数据来源" />
+      <item value="数据类型" />
+      <item value="缺少参数" />
+      <item value="缺少=参数" />
+      <item value="缺少的" />
+      <item value="Demand" />
+      <item value="parameter" />
+      <item value="需求参数" />
+      <item value="filter horizontal" />
       <item value="Attention Article" />
       <item value="Article" />
       <item value="Att Article" />
@@ -41,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="4" />
       </map>
