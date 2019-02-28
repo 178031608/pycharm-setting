@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sources" />
+      <item value="datasources" />
       <item value="some kind of function" />
       <item value="Return whether the object is callable (i.e., some kind of function). Note that classes are callable, as are instances of classes with a __call__() method." />
       <item value="callable" />
@@ -21,7 +23,6 @@
       <item value="Perform a SELECT COUNT() and return the number of records as an integer. If the QuerySet is already fully cached, return the length of the cached results set to avoid multiple SELECT COUNT(*) calls." />
       <item value="Delete the records in the current QuerySet." />
       <item value="Look up an object with the given kwargs, updating one with defaults if it exists, otherwise create a new one. Return a tuple (object, created), where created is a boolean specifying whether an object was created." />
-      <item value="datasources" />
       <item value="数据来源" />
       <item value="数据类型" />
       <item value="缺少参数" />
@@ -50,12 +51,11 @@
       <item value="cchardet" />
       <item value="strip ALL Scipt" />
       <item value="re compile bj" />
-      <item value="process pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="4" />
