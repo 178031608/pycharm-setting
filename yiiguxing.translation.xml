@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="some kind of function" />
+      <item value="Return whether the object is callable (i.e., some kind of function). Note that classes are callable, as are instances of classes with a __call__() method." />
+      <item value="callable" />
+      <item value="app uninstall all" />
+      <item value="uiautomator" />
+      <item value="pkg name" />
+      <item value="Runtime Error" />
+      <item value="package Name" />
+      <item value="message" />
+      <item value="installing" />
+      <item value="installed" />
+      <item value="{u'message': u'downloading', &quot;progress&quot;: {u'totalSize': 407992690, u'copiedSize': 49152}} Returns: packageName Raises: RuntimeError" />
+      <item value="installing callback" />
+      <item value="server" />
+      <item value="upgrade" />
+      <item value="升级" />
       <item value="query" />
       <item value="Perform a SELECT COUNT() and return the number of records as an integer. If the QuerySet is already fully cached, return the length of the cached results set to avoid multiple SELECT COUNT(*) calls." />
       <item value="Delete the records in the current QuerySet." />
@@ -35,28 +51,13 @@
       <item value="strip ALL Scipt" />
       <item value="re compile bj" />
       <item value="process pool" />
-      <item value="control process" />
-      <item value="A fast, lightweight IPv4/IPv6 manipulation library in Python. This library is used to create/poke/manipulate IPv4 and IPv6 addresses&#10;and networks." />
-      <item value="region" />
-      <item value="carrier" />
-      <item value="carrier_region" />
-      <item value="Counter" />
-      <item value="abnormal termination" />
-      <item value="startswith" />
-      <item value="TypeError: Object of type QuerySet is not JSON serializable " />
-      <item value="thriftpy.thrift.TApplicationException: &lt;exception str() failed&gt;" />
-      <item value="解析" />
-      <item value="Not Implemented Error" />
-      <item value="Automatic click all popups TODO: need fix" />
-      <item value="fling" />
-      <item value="fling backward vertically" />
-      <item value="# Passing max_length to forms.CharField means that the value's length # will be validated twice. This is considered acceptable since we want # the value in the form field (to pass into widget for example)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="FRENCH" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="4" />
       </map>
     </option>
