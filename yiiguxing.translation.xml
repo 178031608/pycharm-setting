@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="att account" />
+      <item value="账号" />
+      <item value="att search" />
+      <item value="attention" />
+      <item value="备份" />
       <item value="shuffle" />
       <item value="cchardet" />
       <item value="strip ALL Scipt" />
@@ -26,8 +31,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="SWEDISH" value="2" />
       </map>
     </option>
   </component>
