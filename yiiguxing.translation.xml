@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attention Article" />
+      <item value="Article" />
+      <item value="Att Article" />
+      <item value="Attarticle" />
+      <item value="article" />
+      <item value="Essay" />
+      <item value="Att Essay" />
+      <item value="essay" />
+      <item value="文章" />
+      <item value="verbose name" />
       <item value="att account" />
       <item value="账号" />
       <item value="att search" />
@@ -31,9 +41,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
-        <entry key="SWEDISH" value="2" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="FRENCH" value="1" />
+        <entry key="SWEDISH" value="4" />
       </map>
     </option>
   </component>
