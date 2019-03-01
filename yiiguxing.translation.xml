@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="level" />
+      <item value="lever" />
       <item value="monitor" />
       <item value="账号" />
-      <item value="level" />
       <item value="等级" />
       <item value="add" />
       <item value="监测" />
@@ -50,7 +51,6 @@
       <item value="essay" />
       <item value="文章" />
       <item value="verbose name" />
-      <item value="att account" />
     </histories>
     <option name="languageScores">
       <map>
