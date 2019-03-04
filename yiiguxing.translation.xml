@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do not really get a url" />
       <item value=":param username: :param password: :return:" />
       <item value="showpin" />
       <item value="get server data" />
@@ -50,12 +51,11 @@
       <item value="缺少=参数" />
       <item value="缺少的" />
       <item value="parameter" />
-      <item value="需求参数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="4" />
