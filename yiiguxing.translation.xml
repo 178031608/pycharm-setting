@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No changes detected" />
       <item value="redis.exceptions.ResponseError: WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="Spider error processing" />
       <item value="do not really get a url" />
@@ -50,11 +51,10 @@
       <item value="数据来源" />
       <item value="数据类型" />
       <item value="缺少参数" />
-      <item value="缺少=参数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
