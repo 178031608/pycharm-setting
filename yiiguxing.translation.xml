@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use" />
+      <item value="already" />
+      <item value="Address" />
       <item value="srandmember" />
       <item value="No changes detected" />
       <item value="redis.exceptions.ResponseError: WRONGTYPE Operation against a key holding the wrong kind of value" />
@@ -48,14 +51,11 @@
       <item value="query" />
       <item value="Perform a SELECT COUNT() and return the number of records as an integer. If the QuerySet is already fully cached, return the length of the cached results set to avoid multiple SELECT COUNT(*) calls." />
       <item value="Delete the records in the current QuerySet." />
-      <item value="Look up an object with the given kwargs, updating one with defaults if it exists, otherwise create a new one. Return a tuple (object, created), where created is a boolean specifying whether an object was created." />
-      <item value="数据来源" />
-      <item value="数据类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="4" />
