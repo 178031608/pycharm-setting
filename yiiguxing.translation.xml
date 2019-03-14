@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="harmful degree formula" />
+      <item value="harmful degree" />
+      <item value="place" />
+      <item value="municipality" />
       <item value="use" />
       <item value="already" />
       <item value="Address" />
@@ -47,15 +51,11 @@
       <item value="installing callback" />
       <item value="server" />
       <item value="upgrade" />
-      <item value="升级" />
-      <item value="query" />
-      <item value="Perform a SELECT COUNT() and return the number of records as an integer. If the QuerySet is already fully cached, return the length of the cached results set to avoid multiple SELECT COUNT(*) calls." />
-      <item value="Delete the records in the current QuerySet." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="4" />
