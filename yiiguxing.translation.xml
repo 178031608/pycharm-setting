@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="来源" />
       <item value="harmful degree formula" />
       <item value="harmful degree" />
       <item value="place" />
@@ -50,7 +51,6 @@
       <item value="{u'message': u'downloading', &quot;progress&quot;: {u'totalSize': 407992690, u'copiedSize': 49152}} Returns: packageName Raises: RuntimeError" />
       <item value="installing callback" />
       <item value="server" />
-      <item value="upgrade" />
     </histories>
     <option name="languageScores">
       <map>
