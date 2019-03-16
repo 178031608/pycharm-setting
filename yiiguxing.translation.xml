@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="替换" />
+      <item value="resplonse" />
       <item value="TypeError: 'NoneType' object is not callable" />
       <item value="redis.exceptions.ResponseError: NOAUTH Authentication required." />
       <item value="普通的" />
@@ -49,15 +51,13 @@
       <item value="Demand" />
       <item value="totle Page" />
       <item value="page Index" />
-      <item value="sources" />
-      <item value="datasources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="FRENCH" value="1" />
-        <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="TURKISH" value="1" />
