@@ -5,6 +5,7 @@
       <mapping pattern="add__info" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping ext="2018-12-20" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
     </extensionMap>
