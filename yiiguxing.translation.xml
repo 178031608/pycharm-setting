@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="内容" />
+      <item value="内筒" />
       <item value="owner" />
       <item value="reply info" />
       <item value="configparser.NoOptionError: No option 'connect_timeout' in section: '__config__'" />
@@ -49,8 +51,6 @@
       <item value="monitor" />
       <item value="账号" />
       <item value="等级" />
-      <item value="add" />
-      <item value="监测" />
     </histories>
     <option name="languageScores">
       <map>
