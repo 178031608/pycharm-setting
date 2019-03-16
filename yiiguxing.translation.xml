@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="follow" />
+      <item value="fans" />
       <item value="joindate" />
       <item value="constellation" />
       <item value="Nomal" />
@@ -49,13 +51,11 @@
       <item value="callable" />
       <item value="app uninstall all" />
       <item value="uiautomator" />
-      <item value="pkg name" />
-      <item value="Runtime Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="1" />
