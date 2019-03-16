@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stats" />
       <item value="tasks" />
       <item value="follow" />
       <item value="fans" />
@@ -50,12 +51,11 @@
       <item value="some kind of function" />
       <item value="Return whether the object is callable (i.e., some kind of function). Note that classes are callable, as are instances of classes with a __call__() method." />
       <item value="callable" />
-      <item value="app uninstall all" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="1" />
