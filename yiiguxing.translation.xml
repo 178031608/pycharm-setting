@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CommandError: App 'Schedulings' does not have migrations. " />
       <item value="Args: pkg_name (str): package name activity (str): app activity stop (bool): Stop app before starting the activity. (require activity)" />
       <item value="If ``number`` is None, returns a random member of set ``name``. If ``number`` is supplied, returns a list of ``number`` random memebers of set ``name``. Note this is only available when running Redis 2.6+." />
       <item value="srandmember" />
@@ -50,11 +51,10 @@
       <item value="do not really get a url" />
       <item value=":param username: :param password: :return:" />
       <item value="showpin" />
-      <item value="get server data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
+        <entry key="CHINESE" value="95" />
         <entry key="ENGLISH" value="95" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
