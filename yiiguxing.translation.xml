@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If ``number`` is None, returns a random member of set ``name``. If ``number`` is supplied, returns a list of ``number`` random memebers of set ``name``. Note this is only available when running Redis 2.6+." />
+      <item value="srandmember" />
       <item value="recent" />
       <item value="原创" />
       <item value="ori" />
@@ -41,7 +43,6 @@
       <item value="use" />
       <item value="already" />
       <item value="Address" />
-      <item value="srandmember" />
       <item value="No changes detected" />
       <item value="redis.exceptions.ResponseError: WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="Spider error processing" />
@@ -50,12 +51,11 @@
       <item value="showpin" />
       <item value="get server data" />
       <item value="get su" />
-      <item value="sever data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="ROMANIAN" value="2" />
