@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mconf" />
+      <item value="place" />
+      <item value="placefinder" />
+      <item value="pf" />
       <item value="CommandError: App 'Schedulings' does not have migrations. " />
       <item value="Args: pkg_name (str): package name activity (str): app activity stop (bool): Stop app before starting the activity. (require activity)" />
       <item value="If ``number`` is None, returns a random member of set ``name``. If ``number`` is supplied, returns a list of ``number`` random memebers of set ``name``. Note this is only available when running Redis 2.6+." />
@@ -40,7 +44,6 @@
       <item value="来源" />
       <item value="harmful degree formula" />
       <item value="harmful degree" />
-      <item value="place" />
       <item value="municipality" />
       <item value="use" />
       <item value="already" />
@@ -48,14 +51,11 @@
       <item value="No changes detected" />
       <item value="redis.exceptions.ResponseError: WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="Spider error processing" />
-      <item value="do not really get a url" />
-      <item value=":param username: :param password: :return:" />
-      <item value="showpin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="ROMANIAN" value="2" />
