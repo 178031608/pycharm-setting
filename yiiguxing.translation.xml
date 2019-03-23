@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finished processing dependencies for python-utils==0.1 " />
       <item value="  Could not find a version that satisfies the requirement setup.py (from versions: ) No matching distribution found for setup.py " />
       <item value="IsADirectoryError: [Errno 21] Is a directory:" />
       <item value="TypeError: the JSON object must be str, bytes or bytearray, not list" />
@@ -50,7 +51,6 @@
       <item value="Nomal" />
       <item value="mal" />
       <item value="redis batch size" />
-      <item value="local" />
     </histories>
     <option name="languageScores">
       <map>
