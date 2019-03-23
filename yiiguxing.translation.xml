@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NEW" />
+      <item value="old" />
       <item value="cf name" />
       <item value="You can see this Friendly Tips when error type for key" />
       <item value="nit Kafka Producer Args: topic: Type --&gt; bytes `Produce msg what topic You want`. Raises: ParameterError: When type of topic isn't bytes." />
@@ -49,13 +51,11 @@
       <item value="do not really get a url" />
       <item value=":param username: :param password: :return:" />
       <item value="showpin" />
-      <item value="get server data" />
-      <item value="get su" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
