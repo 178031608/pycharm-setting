@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tools" />
+      <item value="Task" />
+      <item value="ch" />
       <item value="Stream Handler" />
       <item value="the logger get ready" />
       <item value="level of log you wanna see. Default info cause ... I like" />
@@ -48,15 +51,13 @@
       <item value="handle it manually" />
       <item value="referer header" />
       <item value="Swipe from one point to another point." />
-      <item value="province" />
-      <item value="show full result count" />
-      <item value="actions selection counter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="88" />
         <entry key="DANISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="ROMANIAN" value="1" />
