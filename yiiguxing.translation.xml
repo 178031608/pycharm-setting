@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="System check identified no issues (0 silenced). " />
       <item value="减法" />
       <item value="muscodey" />
       <item value="redis.exceptions.ResponseError: MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error." />
@@ -50,11 +51,10 @@
       <item value="普通的" />
       <item value="SCOPE" />
       <item value="stats" />
-      <item value="tasks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
+        <entry key="CHINESE" value="116" />
         <entry key="ENGLISH" value="116" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
