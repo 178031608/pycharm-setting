@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="账号" />
       <item value="abnormal termination" />
       <item value="Error: Another program is already listening on a port that one of our HTTP servers is configured to use.  Shut this program down first before starting supervisord. For help, use /usr/bin/supervisord -h" />
       <item value="System check identified no issues (0 silenced). " />
@@ -50,12 +51,11 @@
       <item value="resplonse" />
       <item value="TypeError: 'NoneType' object is not callable" />
       <item value="redis.exceptions.ResponseError: NOAUTH Authentication required." />
-      <item value="普通的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="ROMANIAN" value="2" />
