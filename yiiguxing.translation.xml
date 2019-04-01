@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="     HINT: It seems you set a fixed date / time / datetime value as default for this field. This may not be what you want. If you want to have the current date as default, use `django.utils.timezone.now` douyin_phone.DouyinUser.expires_at: (fields.W161) Fixed default value provided. " />
       <item value="导出" />
       <item value="模糊" />
       <item value=" HINT: Add or change a related_name argument to the definition for 'OneReport.levelid' or 'KeyWords.levelid'." />
@@ -50,11 +51,10 @@
       <item value="pf" />
       <item value="CommandError: App 'Schedulings' does not have migrations. " />
       <item value="Args: pkg_name (str): package name activity (str): app activity stop (bool): Stop app before starting the activity. (require activity)" />
-      <item value="If ``number`` is None, returns a random member of set ``name``. If ``number`` is supplied, returns a list of ``number`` random memebers of set ``name``. Note this is only available when running Redis 2.6+." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
+        <entry key="CHINESE" value="122" />
         <entry key="ENGLISH" value="122" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
