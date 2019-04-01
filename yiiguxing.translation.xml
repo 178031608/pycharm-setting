@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="导出" />
+      <item value="模糊" />
       <item value=" HINT: Add or change a related_name argument to the definition for 'OneReport.levelid' or 'KeyWords.levelid'." />
       <item value="ScopeManagement.OneReport.levelid: (fields.E312) The to_field '&lt;built-in function id&gt;' doesn't exist on the related model 'ScopeManagement.Accountclassification'. " />
       <item value="?: (urls.W005) URL namespace 'admin' isn't unique. You may not be able to reverse all URLs in this namespace " />
@@ -49,13 +51,11 @@
       <item value="CommandError: App 'Schedulings' does not have migrations. " />
       <item value="Args: pkg_name (str): package name activity (str): app activity stop (bool): Stop app before starting the activity. (require activity)" />
       <item value="If ``number`` is None, returns a random member of set ``name``. If ``number`` is supplied, returns a list of ``number`` random memebers of set ``name``. Note this is only available when running Redis 2.6+." />
-      <item value="srandmember" />
-      <item value="recent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
