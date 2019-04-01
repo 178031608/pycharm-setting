@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监测" />
+      <item value="监测关注" />
+      <item value="关注" />
       <item value="ScopeManagement" />
       <item value="Scope management" />
       <item value="范围管理" />
@@ -48,14 +51,11 @@
       <item value="afp interface" />
       <item value="chinaaid interface" />
       <item value="reuters interface" />
-      <item value="washingtonpost interface" />
-      <item value="washingtonpost spider" />
-      <item value="内容" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
