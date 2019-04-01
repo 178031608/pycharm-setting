@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上报" />
+      <item value="提供者" />
       <item value="账号" />
       <item value="abnormal termination" />
       <item value="Error: Another program is already listening on a port that one of our HTTP servers is configured to use.  Shut this program down first before starting supervisord. For help, use /usr/bin/supervisord -h" />
@@ -49,8 +51,6 @@
       <item value="configparser.NoOptionError: No option 'connect_timeout' in section: '__config__'" />
       <item value="替换" />
       <item value="resplonse" />
-      <item value="TypeError: 'NoneType' object is not callable" />
-      <item value="redis.exceptions.ResponseError: NOAUTH Authentication required." />
     </histories>
     <option name="languageScores">
       <map>
