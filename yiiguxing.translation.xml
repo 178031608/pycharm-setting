@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ValueError: Cannot assign &quot;1&quot;: &quot;AccountNumber.levelid&quot; must be a &quot;Accountclassification&quot; instance." />
       <item value="     HINT: It seems you set a fixed date / time / datetime value as default for this field. This may not be what you want. If you want to have the current date as default, use `django.utils.timezone.now` douyin_phone.DouyinUser.expires_at: (fields.W161) Fixed default value provided. " />
       <item value="导出" />
       <item value="模糊" />
@@ -50,12 +51,11 @@
       <item value="place" />
       <item value="pf" />
       <item value="CommandError: App 'Schedulings' does not have migrations. " />
-      <item value="Args: pkg_name (str): package name activity (str): app activity stop (bool): Stop app before starting the activity. (require activity)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
