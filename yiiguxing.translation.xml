@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="totle Page" />
+      <item value="page Size" />
+      <item value="page Index" />
       <item value="CASCADE" />
       <item value="django.db.utils.IntegrityError: (1451, 'Cannot delete or update a parent row: a foreign key constraint fails (`monitor_database`.`ScopeManagement_accountnumber`, CONSTRAINT `ScopeManagement_acco_levelid_id_1551a85b_fk_ScopeMana` FOREIGN KEY (`levelid_id`) REFERENCES `ScopeManagement_accountclassificat" />
       <item value="ScopeManagement.AccountNumber: (models.E004) 'id' can only be used as a field name if the field also sets 'primary_key=True'." />
@@ -48,14 +51,11 @@
       <item value="update" />
       <item value="placefinder" />
       <item value="terminate" />
-      <item value="process" />
-      <item value="harmful degree formula" />
-      <item value="harmful degree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
