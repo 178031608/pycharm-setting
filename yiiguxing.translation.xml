@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ScopeManagement.AccountNumber: (models.E004) 'id' can only be used as a field name if the field also sets 'primary_key=True'." />
+      <item value="Provide a many-to-one relation by adding a column to the local model to hold the remote value. By default ForeignKey will target the pk of the remote model but this behavior can be changed by using the ``to_field`` argument." />
       <item value="ValueError: Cannot assign &quot;1&quot;: &quot;AccountNumber.levelid&quot; must be a &quot;Accountclassification&quot; instance." />
       <item value="     HINT: It seems you set a fixed date / time / datetime value as default for this field. This may not be what you want. If you want to have the current date as default, use `django.utils.timezone.now` douyin_phone.DouyinUser.expires_at: (fields.W161) Fixed default value provided. " />
       <item value="导出" />
@@ -49,13 +51,11 @@
       <item value="harmful degree" />
       <item value="Mconf" />
       <item value="place" />
-      <item value="pf" />
-      <item value="CommandError: App 'Schedulings' does not have migrations. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="124" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
