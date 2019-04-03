@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scp: /home/programs//utils/yundama.py: No space left on device scp: /home/programs//utils/zkr_utils: No space left on device scp: /home/programs//utils/zkrutils.egg-info: No space left on device scp: /home/programs//utils/build: No space left on device scp: /home/programs//utils/dist: No space left on devic" />
       <item value="&gt; generated 103 bytes in 47 msecs (HTTP/1.1 200) 3 headers in 101 byte" />
       <item value="leach" />
       <item value="过滤" />
@@ -50,7 +51,6 @@
       <item value="IsADirectoryError: [Errno 21] Is a directory:" />
       <item value="TypeError: the JSON object must be str, bytes or bytearray, not list" />
       <item value="登录" />
-      <item value="init classifier or" />
     </histories>
     <option name="languageScores">
       <map>
