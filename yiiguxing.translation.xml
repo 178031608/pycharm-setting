@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&gt; generated 103 bytes in 47 msecs (HTTP/1.1 200) 3 headers in 101 byte" />
       <item value="leach" />
       <item value="过滤" />
       <item value="totle Page" />
@@ -50,7 +51,6 @@
       <item value="TypeError: the JSON object must be str, bytes or bytearray, not list" />
       <item value="登录" />
       <item value="init classifier or" />
-      <item value="update" />
     </histories>
     <option name="languageScores">
       <map>
