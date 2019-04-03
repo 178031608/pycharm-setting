@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="leach" />
+      <item value="过滤" />
       <item value="totle Page" />
       <item value="page Size" />
       <item value="page Index" />
@@ -49,12 +51,10 @@
       <item value="登录" />
       <item value="init classifier or" />
       <item value="update" />
-      <item value="placefinder" />
-      <item value="terminate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
+        <entry key="CHINESE" value="132" />
         <entry key="ENGLISH" value="132" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
