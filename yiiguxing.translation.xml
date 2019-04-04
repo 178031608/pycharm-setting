@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="APPEND SLASH" />
       <item value=" supervisor: couldn't chdir to /home/programs/django_py/Monitor_Service: ENOENT supervisor: child process was not spawned " />
       <item value="scp: /home/programs//utils/yundama.py: No space left on device scp: /home/programs//utils/zkr_utils: No space left on device scp: /home/programs//utils/zkrutils.egg-info: No space left on device scp: /home/programs//utils/build: No space left on device scp: /home/programs//utils/dist: No space left on devic" />
       <item value="&gt; generated 103 bytes in 47 msecs (HTTP/1.1 200) 3 headers in 101 byte" />
@@ -50,12 +51,11 @@
       <item value="Finished processing dependencies for python-utils==0.1 " />
       <item value="  Could not find a version that satisfies the requirement setup.py (from versions: ) No matching distribution found for setup.py " />
       <item value="IsADirectoryError: [Errno 21] Is a directory:" />
-      <item value="TypeError: the JSON object must be str, bytes or bytearray, not list" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
