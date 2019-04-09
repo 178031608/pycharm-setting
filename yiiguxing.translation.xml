@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A scheduler that runs in the foreground (:meth:`~apscheduler.schedulers.base.BaseScheduler.start` will block)." />
       <item value="verify" />
       <item value="验证" />
       <item value="datasources" />
@@ -50,12 +51,11 @@
       <item value="abnormal termination" />
       <item value="Error: Another program is already listening on a port that one of our HTTP servers is configured to use.  Shut this program down first before starting supervisord. For help, use /usr/bin/supervisord -h" />
       <item value="System check identified no issues (0 silenced). " />
-      <item value="减法" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
