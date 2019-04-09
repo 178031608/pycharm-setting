@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
+      <item value="验证" />
       <item value="datasources" />
       <item value="Leach" />
       <item value="热词" />
@@ -49,12 +51,10 @@
       <item value="Error: Another program is already listening on a port that one of our HTTP servers is configured to use.  Shut this program down first before starting supervisord. For help, use /usr/bin/supervisord -h" />
       <item value="System check identified no issues (0 silenced). " />
       <item value="减法" />
-      <item value="muscodey" />
-      <item value="redis.exceptions.ResponseError: MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
+        <entry key="CHINESE" value="136" />
         <entry key="ENGLISH" value="136" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
