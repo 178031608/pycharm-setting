@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name." />
       <item value=" Unable to revive connection: http://localhost:9200/   log   [05:24:56.143] [warning][admin][elasticsearch] No living connections " />
       <item value="eController] [QwKnsvc] Native controller process has stopped - no new native processes can be started " />
       <item value="AllocationService] [QwKnsvc] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana_1][0]] ...])." />
@@ -50,7 +51,6 @@
       <item value="管理范围" />
       <item value="opre" />
       <item value="oper" />
-      <item value="上报" />
     </histories>
     <option name="languageScores">
       <map>
