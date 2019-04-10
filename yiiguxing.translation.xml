@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="noprealloc may hurt performance in many applications" />
       <item value="inspection" />
       <item value="检查" />
       <item value="theme" />
@@ -50,7 +51,6 @@
       <item value="关注" />
       <item value="ScopeManagement" />
       <item value="Scope management" />
-      <item value="范围管理" />
     </histories>
     <option name="languageScores">
       <map>
