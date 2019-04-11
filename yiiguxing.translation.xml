@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Harm" />
       <item value="noprealloc may hurt performance in many applications" />
       <item value="inspection" />
       <item value="检查" />
@@ -50,12 +51,11 @@
       <item value="监测关注" />
       <item value="关注" />
       <item value="ScopeManagement" />
-      <item value="Scope management" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
