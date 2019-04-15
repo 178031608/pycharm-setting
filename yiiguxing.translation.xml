@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Monitor" />
+      <item value="关注" />
+      <item value="attetion" />
+      <item value="attetions" />
+      <item value="上报" />
+      <item value="low" />
+      <item value="middle" />
+      <item value="midele" />
+      <item value="account" />
+      <item value="账号" />
       <item value="ContentCount" />
       <item value="contentcount" />
       <item value="content" />
@@ -41,21 +51,11 @@
       <item value="page Size" />
       <item value="page Index" />
       <item value="CASCADE" />
-      <item value="django.db.utils.IntegrityError: (1451, 'Cannot delete or update a parent row: a foreign key constraint fails (`monitor_database`.`ScopeManagement_accountnumber`, CONSTRAINT `ScopeManagement_acco_levelid_id_1551a85b_fk_ScopeMana` FOREIGN KEY (`levelid_id`) REFERENCES `ScopeManagement_accountclassificat" />
-      <item value="ScopeManagement.AccountNumber: (models.E004) 'id' can only be used as a field name if the field also sets 'primary_key=True'." />
-      <item value="Provide a many-to-one relation by adding a column to the local model to hold the remote value. By default ForeignKey will target the pk of the remote model but this behavior can be changed by using the ``to_field`` argument." />
-      <item value="ValueError: Cannot assign &quot;1&quot;: &quot;AccountNumber.levelid&quot; must be a &quot;Accountclassification&quot; instance." />
-      <item value="     HINT: It seems you set a fixed date / time / datetime value as default for this field. This may not be what you want. If you want to have the current date as default, use `django.utils.timezone.now` douyin_phone.DouyinUser.expires_at: (fields.W161) Fixed default value provided. " />
-      <item value="导出" />
-      <item value="模糊" />
-      <item value=" HINT: Add or change a related_name argument to the definition for 'OneReport.levelid' or 'KeyWords.levelid'." />
-      <item value="ScopeManagement.OneReport.levelid: (fields.E312) The to_field '&lt;built-in function id&gt;' doesn't exist on the related model 'ScopeManagement.Accountclassification'. " />
-      <item value="?: (urls.W005) URL namespace 'admin' isn't unique. You may not be able to reverse all URLs in this namespace " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="145" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
