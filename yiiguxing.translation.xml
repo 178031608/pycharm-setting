@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="when" />
+      <item value="MIDNIGHT" />
       <item value="切割日志" />
       <item value="compute Rollover" />
       <item value="Work out the rollover time based on the specified time." />
@@ -49,13 +51,11 @@
       <item value=" supervisor: couldn't chdir to /home/programs/django_py/Monitor_Service: ENOENT supervisor: child process was not spawned " />
       <item value="scp: /home/programs//utils/yundama.py: No space left on device scp: /home/programs//utils/zkr_utils: No space left on device scp: /home/programs//utils/zkrutils.egg-info: No space left on device scp: /home/programs//utils/build: No space left on device scp: /home/programs//utils/dist: No space left on devic" />
       <item value="&gt; generated 103 bytes in 47 msecs (HTTP/1.1 200) 3 headers in 101 byte" />
-      <item value="leach" />
-      <item value="过滤" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
