@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="切割日志" />
+      <item value="compute Rollover" />
+      <item value="Work out the rollover time based on the specified time." />
+      <item value="Determine if rollover should occur. record is not used, as we are just comparing times, but it is needed so the method signatures are the same" />
       <item value="Monitor" />
       <item value="关注" />
       <item value="attetion" />
@@ -47,15 +51,11 @@
       <item value="&gt; generated 103 bytes in 47 msecs (HTTP/1.1 200) 3 headers in 101 byte" />
       <item value="leach" />
       <item value="过滤" />
-      <item value="totle Page" />
-      <item value="page Size" />
-      <item value="page Index" />
-      <item value="CASCADE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
