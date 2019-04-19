@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="django.db.utils.OperationalError: (1045, &quot;Access denied for user 'zkr_cj'@'192.168.120.47' (using password: YES)&quot;) " />
+      <item value="ScopeManagement.OneReport.LevelId: (fields.E305) Reverse query name for 'OneReport.LevelId' clashes with reverse query name for 'KeyWords.LevelId'.         HINT: Add or change a related_name argument to the definition for 'OneReport.LevelId' or 'KeyWords.LevelId'. " />
       <item value="黑名单" />
       <item value="latency" />
       <item value="latency " />
@@ -49,12 +51,10 @@
       <item value="datasources" />
       <item value="Leach" />
       <item value="热词" />
-      <item value="High" />
-      <item value="scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
+        <entry key="CHINESE" value="153" />
         <entry key="ENGLISH" value="153" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
