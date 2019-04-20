@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="already started" />
       <item value="Look for an application configuration to attach the model to." />
       <item value="django.core.exceptions.ImproperlyConfigured: Requested setting INSTALLED_APPS, but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings. " />
       <item value="django.db.utils.OperationalError: (1045, &quot;Access denied for user 'zkr_cj'@'192.168.120.47' (using password: YES)&quot;) " />
@@ -50,11 +51,10 @@
       <item value="A scheduler that runs in the foreground (:meth:`~apscheduler.schedulers.base.BaseScheduler.start` will block)." />
       <item value="verify" />
       <item value="验证" />
-      <item value="datasources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
+        <entry key="CHINESE" value="154" />
         <entry key="ENGLISH" value="154" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
