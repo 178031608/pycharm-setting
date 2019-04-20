@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pykafka.exceptions.UnknownTopicOrPartition: Failed to auto-create topic 'b'sc_kafka_content''" />
       <item value="DOWNLOAD DELAY" />
       <item value="already started" />
       <item value="Look for an application configuration to attach the model to." />
@@ -50,11 +51,10 @@
       <item value="Return all members of the set ``name" />
       <item value="json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2) " />
       <item value="A scheduler that runs in the foreground (:meth:`~apscheduler.schedulers.base.BaseScheduler.start` will block)." />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
+        <entry key="CHINESE" value="155" />
         <entry key="ENGLISH" value="155" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
