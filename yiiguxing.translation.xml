@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: ModelBase object got multiple values for keyword argument 'DataType'" />
+      <item value="TypeError: ModelBase object got multiple values for keyword argument 'DataType' " />
       <item value="监测" />
       <item value="关注" />
       <item value="crawl" />
@@ -49,12 +51,10 @@
       <item value="contentcount" />
       <item value="content" />
       <item value="contentscount" />
-      <item value="elasticsearch.exceptions.TransportError: TransportError(503, '') Traceback (most recent call last):   File &quot;NewsInfo.py&quot;, line 99, in &lt;module&gt;     getInfo.run()   File &quot;NewsInfo.py&quot;, line 53, in run     boo = self.es.exists(&quot;xw_info&quot;, &quot;sino&quot;, _id)   File &quot;/usr/local/lib/python3.5/site-packages/elasticsearch/client/utils.py&quot;, line 76, in _wrapped     return func(*args, params=params, **kwargs)   File &quot;/usr/local/lib/python3.5/site-packages/elasticsearch/client/__init__.py&quot;, line 338, in exists     doc_type, id), params=params)   File &quot;/usr/local/lib/python3.5/site-packages/elasticsearch/transport.py&quot;, line 314, in perform_request     status, headers_response, data = connection.perform_request(method, url, params, body, headers=headers, ignore=ignore, timeout=timeout)   File &quot;/usr/local/lib/python3.5/site-packages/elasticsearch/connection/http_urllib3.py&quot;, line 163, in perform_request     self._raise_error(response.status, raw_data)   File &quot;/usr/local/lib/python3.5/site-packages/elasticsearch/connection/base.py&quot;, line 125, in _raise_error     raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info) elasticsearch.exceptions.TransportError: TransportError(503, '')" />
-      <item value="identify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
+        <entry key="CHINESE" value="161" />
         <entry key="ENGLISH" value="161" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
