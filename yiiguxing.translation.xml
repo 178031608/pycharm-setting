@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="zookeeper.ClientCnxn: Session establishment complete on server newnode12/192.168.129.12:2181, sessionid = 0x369e100b6e60088, negotiated timeout = 9000" />
       <item value="TypeError: ModelBase object got multiple values for keyword argument 'DataType'" />
       <item value="TypeError: ModelBase object got multiple values for keyword argument 'DataType' " />
       <item value="监测" />
@@ -50,7 +51,6 @@
       <item value="ContentCount" />
       <item value="contentcount" />
       <item value="content" />
-      <item value="contentscount" />
     </histories>
     <option name="languageScores">
       <map>
