@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="article" />
+      <item value="sino" />
       <item value="django.core.exceptions.RequestDataTooBig: Request body exceeded settings.DATA_UPLOAD_MAX_MEMORY_SIZE." />
       <item value="zookeeper.ClientCnxn: Session establishment complete on server newnode12/192.168.129.12:2181, sessionid = 0x369e100b6e60088, negotiated timeout = 9000" />
       <item value="TypeError: ModelBase object got multiple values for keyword argument 'DataType'" />
@@ -49,13 +51,11 @@
       <item value="midele" />
       <item value="account" />
       <item value="账号" />
-      <item value="ContentCount" />
-      <item value="contentcount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
@@ -63,6 +63,7 @@
         <entry key="SWEDISH" value="4" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
