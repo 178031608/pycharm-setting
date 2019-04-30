@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Supplement" />
+      <item value="supplement" />
+      <item value="补充" />
+      <item value="conclusion" />
+      <item value="Completion" />
+      <item value="补全" />
+      <item value="Content" />
+      <item value="字段" />
       <item value="判断" />
       <item value="article" />
       <item value="sino" />
@@ -43,19 +51,11 @@
       <item value="compute Rollover" />
       <item value="Work out the rollover time based on the specified time." />
       <item value="Determine if rollover should occur. record is not used, as we are just comparing times, but it is needed so the method signatures are the same" />
-      <item value="Monitor" />
-      <item value="attetion" />
-      <item value="attetions" />
-      <item value="上报" />
-      <item value="low" />
-      <item value="middle" />
-      <item value="midele" />
-      <item value="account" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
