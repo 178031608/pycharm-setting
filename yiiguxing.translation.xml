@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="django.core.exceptions.FieldError: Unsupported lookup 'ne' for CharField or join on the field not permitted." />
       <item value="weibo-WeiboSpider* request cookie is" />
       <item value="Http get failed, cause" />
       <item value="Supplement" />
@@ -50,11 +51,10 @@
       <item value="when" />
       <item value="MIDNIGHT" />
       <item value="切割日志" />
-      <item value="compute Rollover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
+        <entry key="CHINESE" value="172" />
         <entry key="ENGLISH" value="172" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
