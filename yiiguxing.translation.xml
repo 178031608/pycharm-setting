@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ssh_exchange_identification: Connection closed by remote host lost connection expect: spawn id exp6 not open     while executing &quot;expect &quot;100%&quot;&quot; " />
       <item value="spider" />
       <item value="close spider" />
       <item value="crawler" />
@@ -50,11 +51,10 @@
       <item value="django.core.exceptions.ImproperlyConfigured: Requested setting INSTALLED_APPS, but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings. " />
       <item value="django.db.utils.OperationalError: (1045, &quot;Access denied for user 'zkr_cj'@'192.168.120.47' (using password: YES)&quot;) " />
       <item value="ScopeManagement.OneReport.LevelId: (fields.E305) Reverse query name for 'OneReport.LevelId' clashes with reverse query name for 'KeyWords.LevelId'.         HINT: Add or change a related_name argument to the definition for 'OneReport.LevelId' or 'KeyWords.LevelId'. " />
-      <item value="黑名单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
+        <entry key="CHINESE" value="182" />
         <entry key="ENGLISH" value="182" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
