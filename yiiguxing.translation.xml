@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2019/05/13 12:06:46 [crit] 724#0: *224361 open() &quot;/usr/local/nginx/client_body_temp/0000103061&quot; failed (13: Permission denied), client: 192.168.125.68, server: 192.168.129.17, request: &quot;POST /douyinphone/insert HTTP/1.1&quot;, host: &quot;60.28.140.210:10065&quot; " />
       <item value="hidden" />
       <item value="paramiko.ssh_exception.SSHException: Error reading SSH protocol banner" />
       <item value="ssh_exchange_identification: Connection closed by remote host lost connection expect: spawn id exp6 not open     while executing &quot;expect &quot;100%&quot;&quot; " />
@@ -50,7 +51,6 @@
       <item value="DOWNLOAD DELAY" />
       <item value="already started" />
       <item value="Look for an application configuration to attach the model to." />
-      <item value="django.core.exceptions.ImproperlyConfigured: Requested setting INSTALLED_APPS, but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings. " />
     </histories>
     <option name="languageScores">
       <map>
