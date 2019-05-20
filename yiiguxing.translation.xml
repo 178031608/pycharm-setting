@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parameters: - table: the table to append the value on - tappend: the TAppend to append" />
       <item value="elasticsearch.exceptions.RequestError: RequestError(400, 'parsing_exception', '[term] query does not support array of values')" />
       <item value="elasticsearch.exceptions.AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for REST request [/wb_info/sino/_search]')" />
       <item value="security exception" />
@@ -50,12 +51,11 @@
       <item value="parsing_exception" />
       <item value="mapper" />
       <item value="mapper_parsing_exception" />
-      <item value="http://media.china.com.cn" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
