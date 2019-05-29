@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provider" />
       <item value="{address space usage: 530145280 bytes/505MB} {rss usage: 53854208 bytes/51MB} [pid: 28769|app: 0|req: 7/8] 10.10.10.43 () {38 vars in 650 bytes} [Mon May 27 13:42:29 2019] GET /article?url=https://weibo.com/6491728198/Hw7bg3oF2?refer_flag=1001030103_&amp;type=comment =&gt; generated 32 bytes in 1471 msecs (HTTP/1.1 200) 3 headers in 111 bytes (1 switches on core 1) " />
       <item value="org.apache.hadoop.hbase.regionserver.NoSuchColumnFamilyException: Column family wb does not exist in region WEIBO_USER_TABLE,6450585192,1558500977607.87aae1175568fcec14731ee8a689ba3d. in table 'WEIBO_USER_TABLE', {NAME =&gt; 'wa', BLOOMFILTER =&gt; 'ROW', VERSIONS =&gt; '2', IN_MEMORY =&gt; 'false', KEEP_DELETED_CELLS =&gt; 'FALSE', DATA_BLOCK_ENCODING =&gt; 'NONE', TTL =&gt; 'FOREVER', COMPRESSION =&gt; 'NONE', MIN_VERSIONS =&gt; '0', BLOCKCACHE =&gt; 'true', BLOCKSIZE =&gt; '65536', REPLICATION_SCOPE =&gt; '1'}" />
       <item value="TypeError: not all arguments converted during string formatting" />
@@ -50,12 +51,11 @@
       <item value="ssh_exchange_identification: Connection closed by remote host lost connection expect: spawn id exp6 not open     while executing &quot;expect &quot;100%&quot;&quot; " />
       <item value="spider" />
       <item value="close spider" />
-      <item value="crawler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
