@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="清理" />
       <item value="Error: Could not open client transport with JDBC Uri: jdbc:hive2://192.168.129.10:10000: Failed to open new session: java.lang.RuntimeException: org.apache.hadoop.ipc.RemoteException(org.apache.hadoop.security.authorize.AuthorizationException): User: root is not allowed to impersonate root (state=08S01,code=0) " />
       <item value="Use with auth='KERBEROS' only" />
       <item value="A dictionary of Hive settings (functionally same as the `set` command)" />
@@ -50,12 +51,11 @@
       <item value="Tue" />
       <item value="reward scheme" />
       <item value="单独的" />
-      <item value="statuses" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
