@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="脚本" />
       <item value="rate" />
       <item value="Return whether the object has an attribute with the given name. This is done by calling getattr(obj, name) and catching AttributeError." />
       <item value="Return whether an object is an instance of a class or of a subclass thereof. A tuple, as in ``isinstance(x, (A, B, ...))``, may be given as the target to check against. This is equivalent to ``isinstance(x, A) or isinstance(x, B) or ...`` etc." />
@@ -50,12 +51,11 @@
       <item value="elasticsearch.exceptions.RequestError: RequestError(400, 'parsing_exception', '[term] query does not support array of values')" />
       <item value="elasticsearch.exceptions.AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for REST request [/wb_info/sino/_search]')" />
       <item value="security exception" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="ENGLISH" value="216" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
