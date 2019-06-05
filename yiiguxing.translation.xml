@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symbol SSL_set_alpn_protos, version libssl.so.10 not defined in file libssl.so.10 with link time reference " />
       <item value="squid: relocation error: squid: symbol SSL_set_alpn_protos, version libssl.so.10 not defined in file libssl.so.10 with link time reference " />
       <item value="Unregistered Authentication Agent for unix-process:26260:3587956604 (system bus name :1.427291, object path /org/freedesktop/PolicyKit1/Authenticatio" />
       <item value="Job for squid.service failed because the control process exited with error code. See &quot;systemctl status squid.service&quot; and &quot;journalctl -xe&quot; for details. " />
@@ -50,7 +51,6 @@
       <item value="weiwb" />
       <item value="sign" />
       <item value="ModuleNotFoundError: No module named '_bz2'" />
-      <item value="redis.exceptions.ResponseError: wrong number of arguments for 'lpush' command" />
     </histories>
     <option name="languageScores">
       <map>
