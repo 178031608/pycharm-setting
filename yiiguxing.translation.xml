@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UnboundLocalError: local variable 'CLIENT' referenced before assignment" />
+      <item value="fdfs_client.exceptions.DataError: Error: 2, No such file or directory" />
       <item value="清理" />
       <item value="Error: Could not open client transport with JDBC Uri: jdbc:hive2://192.168.129.10:10000: Failed to open new session: java.lang.RuntimeException: org.apache.hadoop.ipc.RemoteException(org.apache.hadoop.security.authorize.AuthorizationException): User: root is not allowed to impersonate root (state=08S01,code=0) " />
       <item value="Use with auth='KERBEROS' only" />
@@ -49,13 +51,11 @@
       <item value="montch" />
       <item value="May" />
       <item value="Tue" />
-      <item value="reward scheme" />
-      <item value="单独的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
