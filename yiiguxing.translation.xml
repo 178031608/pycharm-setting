@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thrift.transport.TTransport.TTransportException: TSocket read 0 bytes" />
+      <item value="thrift.transport.TTransport.TTransportException: Could not start SASL: b'Error in sasl_client_start (-4) SASL(-4): no mechanism available: Unable to find a callback: 2'" />
       <item value="脚本" />
       <item value="rate" />
       <item value="Return whether the object has an attribute with the given name. This is done by calling getattr(obj, name) and catching AttributeError." />
@@ -49,13 +51,11 @@
       <item value="wait result only if non-oneway" />
       <item value="Parameters: - table: the table to append the value on - tappend: the TAppend to append" />
       <item value="elasticsearch.exceptions.RequestError: RequestError(400, 'parsing_exception', '[term] query does not support array of values')" />
-      <item value="elasticsearch.exceptions.AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for REST request [/wb_info/sino/_search]')" />
-      <item value="security exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
