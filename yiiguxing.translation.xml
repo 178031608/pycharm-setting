@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: argument of type 'DataError' is not iterable" />
+      <item value="directory" />
+      <item value="SyntaxError: name 'CLIENT' is used prior to global declaration" />
+      <item value="SyntaxError: name 'CLIENT' is used prior to global declaratio" />
       <item value="UnboundLocalError: local variable 'CLIENT' referenced before assignment" />
       <item value="fdfs_client.exceptions.DataError: Error: 2, No such file or directory" />
       <item value="清理" />
@@ -47,15 +51,11 @@
       <item value="scheme" />
       <item value="reward" />
       <item value="reward_scheme" />
-      <item value="月份" />
-      <item value="montch" />
-      <item value="May" />
-      <item value="Tue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
