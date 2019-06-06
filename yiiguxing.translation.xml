@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监控" />
+      <item value="就爱你空" />
+      <item value="健康" />
       <item value="FATAL: Unable to open configuration file: /etc/squid/squid.conf: (13) Permission denied Squid Cache (Version 3.5.20): Terminated abnormally." />
       <item value="symbol SSL_set_alpn_protos, version libssl.so.10 not defined in file libssl.so.10 with link time reference " />
       <item value="squid: relocation error: squid: symbol SSL_set_alpn_protos, version libssl.so.10 not defined in file libssl.so.10 with link time reference " />
@@ -48,14 +51,11 @@
       <item value="field" />
       <item value="record" />
       <item value="REPEATED TITLE DETECTION" />
-      <item value="SITE RECORD" />
-      <item value="weiwb" />
-      <item value="sign" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
