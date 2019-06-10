@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通用" />
       <item value="2019/06/06 14:01:41 [W] [control.go:113] login to server failed: dial tcp 0.0.0.0:7000: connect: connection refused dial tcp 0.0.0.0:7000: connect: connection refused" />
       <item value="监控" />
       <item value="就爱你空" />
@@ -44,7 +45,6 @@
       <item value="Arguments" />
       <item value="Message" />
       <item value="interchangeable" />
-      <item value="通用" />
       <item value="通用的" />
       <item value="ait for child process to terminate.  Returns returncode " />
       <item value="ait for child process to terminate.  Returns returncode             attribute" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
