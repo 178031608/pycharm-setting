@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maximum number of connections that should be kept open at one time" />
       <item value="not all arguments converted during string formattin" />
       <item value="通用" />
       <item value="2019/06/06 14:01:41 [W] [control.go:113] login to server failed: dial tcp 0.0.0.0:7000: connect: connection refused dial tcp 0.0.0.0:7000: connect: connection refused" />
@@ -50,12 +51,11 @@
       <item value="ait for child process to terminate.  Returns returncode " />
       <item value="ait for child process to terminate.  Returns returncode             attribute" />
       <item value="REPEATED" />
-      <item value="field" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
