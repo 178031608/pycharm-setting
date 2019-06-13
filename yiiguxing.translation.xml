@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An Expectation for checking an element is visible and enabled such that you can click it" />
       <item value="button" />
       <item value="object does not support item assignmen" />
       <item value="Creates a new instance of the chrome driver. Starts the service and then creates new instance of chrome driver. :Args: - executable_path - path to the executable. If the default is used it assumes the executable is in the $PATH - port - port you would like the service to run, if left as 0, a free port will be found. - options - this takes an instance of ChromeOptions - service_args - List of args to pass to the driver service - desired_capabilities - Dictionary object with non-browser specific capabilities only, such as &quot;proxy&quot; or &quot;loggingPref&quot;. - service_log_path - Where to log information from the driver. - chrome_options - Deprecated argument for options - keep_alive - Whether to configure ChromeRemoteConnection to use HTTP keep-alive." />
@@ -50,12 +51,11 @@
       <item value="Arguments" />
       <item value="Message" />
       <item value="interchangeable" />
-      <item value="通用的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
