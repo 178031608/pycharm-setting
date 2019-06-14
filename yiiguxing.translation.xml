@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place" />
       <item value="get window rect" />
       <item value="set window position" />
       <item value="get window size" />
@@ -50,12 +51,11 @@
       <item value="execute cdp cmd" />
       <item value="Sets Chrome network emulation settings. :Args: - network_conditions: A dict with conditions specification. :Usage: driver.set_network_conditions( offline=False, latency=5, # additional latency (ms) download_throughput=500 * 1024, # maximal throughput upload_throughput=500 * 1024) # maximal throughput Note: 'throughput' can be used to set both (for download and upload)." />
       <item value="Gets Chrome network emulation settings. :Returns: A dict. For example: {'latency': 4, 'download_throughput': 2, 'upload_throughput': 2, 'offline': False}" />
-      <item value="An Expectation for checking an element is visible and enabled such that you can click it" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
