@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ends a command to be executed by a command.CommandExecutor. :Args: - driver_command: The name of the command to execute as a string. - params: A dictionary of named parameters to send with the command. :Returns: The command's JSON response loaded into a dictionary object." />
+      <item value="install addon" />
       <item value="Class for Pack or Unpack tracker header struct tracker_header{ char pkg_len[FDFS_PROTO_PKG_LEN_SIZE], char cmd, char status, }" />
       <item value="Create a compiled struct object. Return a new Struct object which writes and reads binary data according to the format string. See help(struct) for more on format strings." />
       <item value="Return a tuple containing unpacked values. Unpack according to the format string Struct.format. The buffer's size in bytes must be Struct.size. See help(struct) for more on format strings. &quot;&quot;&quot;" />
@@ -49,13 +51,11 @@
       <item value="thrift.transport.TTransport.TTransportException: TSocket read 0 bytes" />
       <item value="thrift.transport.TTransport.TTransportException: Could not start SASL: b'Error in sasl_client_start (-4) SASL(-4): no mechanism available: Unable to find a callback: 2'" />
       <item value="脚本" />
-      <item value="rate" />
-      <item value="Return whether the object has an attribute with the given name. This is done by calling getattr(obj, name) and catching AttributeError." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
