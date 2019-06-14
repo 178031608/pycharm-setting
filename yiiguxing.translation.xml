@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Synchronously Executes JavaScript in the current window/frame. :Args: - script: The JavaScript to execute. - \*args: Any applicable arguments for your JavaScript. :Usage: driver.execute_script('return document.title;')" />
+      <item value="Finds an element by link text. :Args: - link_text: The text of the element to be found. :Returns: - WebElement - the element if it was found :Raises: - NoSuchElementException - if the element wasn't found :Usage: element = driver.find_element_by_link_text('Sign In')" />
+      <item value="Sends a command to be executed by a command.CommandExecutor. :Args: - driver_command: The name of the command to execute as a string. - params: A dictionary of named parameters to send with the command. :Returns: The command's JSON response loaded into a dictionary object." />
+      <item value="reates a web element with the specified `element_id`" />
+      <item value="Creates a new session with the desired capabilities. :Args: - browser_name - The name of the browser to request. - version - Which browser version to request. - platform - Which platform to request the browser on. - javascript_enabled - Whether the new session should support JavaScript. - browser_profile - A selenium.webdriver.firefox.firefox_profile.FirefoxProfile object. Only used if Firefox is requested." />
+      <item value="Create a new driver that will issue commands using the wire protocol. :Args: - command_executor - Either a string representing URL of the remote server or a custom remote_connection.RemoteConnection object. Defaults to 'http://127.0.0.1:4444/wd/hub'. - desired_capabilities - A dictionary of capabilities to request when starting the browser session. Required parameter. - browser_profile - A selenium.webdriver.firefox.firefox_profile.FirefoxProfile object. Only used if Firefox is requested. Optional. - proxy - A selenium.webdriver.common.proxy.Proxy object. The browser session will be started with given proxy settings, if possible. Optional. - keep_alive - Whether to configure remote_connection.RemoteConnection to use HTTP keep-alive. Defaults to False. - file_detector - Pass custom file detector object during instantiation. If None, then default LocalFileDetector() will be used. - options - instance of a driver options.Options class" />
+      <item value="Controls a browser by sending commands to a remote server. This server is expected to be running the WebDriver wire protocol as defined at https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol :Attributes: - session_id - String ID of the browser session started and controlled by this WebDriver. - capabilities - Dictionaty of effective capabilities of this browser session as returned by the remote server. See https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities - command_executor - remote_connection.RemoteConnection object used to execute commands. - error_handler - errorhandler.ErrorHandler object used to handle errors." />
+      <item value="Installs Firefox addon. Returns identifier of installed addon. This identifier can later be used to uninstall addon. :param path: Absolute path to the addon that will be installed. :Usage: driver.install_addon('/path/to/firebug.xpi')" />
+      <item value="execute cdp cmd" />
+      <item value="Sets Chrome network emulation settings. :Args: - network_conditions: A dict with conditions specification. :Usage: driver.set_network_conditions( offline=False, latency=5, # additional latency (ms) download_throughput=500 * 1024, # maximal throughput upload_throughput=500 * 1024) # maximal throughput Note: 'throughput' can be used to set both (for download and upload)." />
+      <item value="Gets Chrome network emulation settings. :Returns: A dict. For example: {'latency': 4, 'download_throughput': 2, 'upload_throughput': 2, 'offline': False}" />
       <item value="An Expectation for checking an element is visible and enabled such that you can click it" />
       <item value="button" />
       <item value="object does not support item assignmen" />
@@ -40,22 +51,11 @@
       <item value="ERROR: spyder 3.3.2 has requirement pyqt5&lt;5.10; python_version &gt;= &quot;3&quot;, but you'll have pyqt5 5.10.1 which is incompatible. ERROR: spyder 3.3.2 has requirement spyder-kernels&lt;1.0, but you'll have spyder-kernels 1.3.2 which is incompatible. " />
       <item value="=&gt; WARNING: A newer version of conda exists. &lt;== current version: 4.6.8 latest version: 4.6.14 Please update conda by running $ conda update -n base -c defaults conda" />
       <item value="RemoveError: 'setuptools' is a dependency of conda and cannot be removed from" />
-      <item value="tendent" />
-      <item value="shown" />
-      <item value="Provisional " />
-      <item value="No space left on device" />
-      <item value="provider" />
-      <item value="{address space usage: 530145280 bytes/505MB} {rss usage: 53854208 bytes/51MB} [pid: 28769|app: 0|req: 7/8] 10.10.10.43 () {38 vars in 650 bytes} [Mon May 27 13:42:29 2019] GET /article?url=https://weibo.com/6491728198/Hw7bg3oF2?refer_flag=1001030103_&amp;type=comment =&gt; generated 32 bytes in 1471 msecs (HTTP/1.1 200) 3 headers in 111 bytes (1 switches on core 1) " />
-      <item value="org.apache.hadoop.hbase.regionserver.NoSuchColumnFamilyException: Column family wb does not exist in region WEIBO_USER_TABLE,6450585192,1558500977607.87aae1175568fcec14731ee8a689ba3d. in table 'WEIBO_USER_TABLE', {NAME =&gt; 'wa', BLOOMFILTER =&gt; 'ROW', VERSIONS =&gt; '2', IN_MEMORY =&gt; 'false', KEEP_DELETED_CELLS =&gt; 'FALSE', DATA_BLOCK_ENCODING =&gt; 'NONE', TTL =&gt; 'FOREVER', COMPRESSION =&gt; 'NONE', MIN_VERSIONS =&gt; '0', BLOCKCACHE =&gt; 'true', BLOCKSIZE =&gt; '65536', REPLICATION_SCOPE =&gt; '1'}" />
-      <item value="TypeError: not all arguments converted during string formatting" />
-      <item value="Arguments" />
-      <item value="Message" />
-      <item value="interchangeable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
