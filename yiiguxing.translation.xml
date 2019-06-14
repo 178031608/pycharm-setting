@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get window rect" />
+      <item value="set window position" />
+      <item value="get window size" />
+      <item value="window Handle" />
+      <item value="Sets the width and height of the current window. (window.resizeTo)" />
+      <item value="get screenshot as png" />
+      <item value="Saves a screenshot of the current window to a PNG image file. Returns False if there is any IOError, else returns True. Use full paths in your filename. :Args: - filename: The full path you wish to save your screenshot to. This should end with a `.png` extension. :Usage: driver.save_screenshot('/Screenshots/foo.png')" />
+      <item value="save screenshot" />
+      <item value="Saves a screenshot of the current window to a PNG image file. Returns False if there is any IOError, else returns True. Use full paths in your filename. :Args: - filename: The full path you wish to save your screenshot to. This should end with a `.png` extension. :Usage: driver.get_screenshot_as_file('/Screenshots/foo.png')" />
+      <item value="returns the drivers current desired capabilities being used" />
+      <item value="desired capabilities" />
+      <item value="find elements" />
+      <item value="find element" />
+      <item value="set page load timeout" />
+      <item value="set script timeout" />
+      <item value="implicitly wait" />
+      <item value="Adds a cookie to your current session. :Args: - cookie_dict: A dictionary object, with required keys - &quot;name&quot; and &quot;value&quot;; optional keys - &quot;path&quot;, &quot;domain&quot;, &quot;secure&quot;, &quot;expiry&quot; Usage: driver.add_cookie({'name' : 'foo', 'value' : 'bar'}) driver.add_cookie({'name' : 'foo', 'value' : 'bar', 'path' : '/'}) driver.add_cookie({'name' : 'foo', 'value' : 'bar', 'path' : '/', 'secure':True})" />
+      <item value="Get a single cookie by name. Returns the cookie if found, None if not. :Usage: driver.get_cookie('my_cookie')" />
+      <item value="Returns a set of dictionaries, corresponding to cookies visible in the current session. :Usage: driver.get_cookies()" />
+      <item value="refresh" />
       <item value="switch to default content" />
       <item value="switch to alert" />
       <item value="Deprecated use driver.switch_to.default_content" />
@@ -31,31 +51,11 @@
       <item value="Sets Chrome network emulation settings. :Args: - network_conditions: A dict with conditions specification. :Usage: driver.set_network_conditions( offline=False, latency=5, # additional latency (ms) download_throughput=500 * 1024, # maximal throughput upload_throughput=500 * 1024) # maximal throughput Note: 'throughput' can be used to set both (for download and upload)." />
       <item value="Gets Chrome network emulation settings. :Returns: A dict. For example: {'latency': 4, 'download_throughput': 2, 'upload_throughput': 2, 'offline': False}" />
       <item value="An Expectation for checking an element is visible and enabled such that you can click it" />
-      <item value="button" />
-      <item value="object does not support item assignmen" />
-      <item value="Creates a new instance of the chrome driver. Starts the service and then creates new instance of chrome driver. :Args: - executable_path - path to the executable. If the default is used it assumes the executable is in the $PATH - port - port you would like the service to run, if left as 0, a free port will be found. - options - this takes an instance of ChromeOptions - service_args - List of args to pass to the driver service - desired_capabilities - Dictionary object with non-browser specific capabilities only, such as &quot;proxy&quot; or &quot;loggingPref&quot;. - service_log_path - Where to log information from the driver. - chrome_options - Deprecated argument for options - keep_alive - Whether to configure ChromeRemoteConnection to use HTTP keep-alive." />
-      <item value="Maximum number of connections that should be kept open at one time" />
-      <item value="not all arguments converted during string formattin" />
-      <item value="通用" />
-      <item value="2019/06/06 14:01:41 [W] [control.go:113] login to server failed: dial tcp 0.0.0.0:7000: connect: connection refused dial tcp 0.0.0.0:7000: connect: connection refused" />
-      <item value="监控" />
-      <item value="就爱你空" />
-      <item value="健康" />
-      <item value="FATAL: Unable to open configuration file: /etc/squid/squid.conf: (13) Permission denied Squid Cache (Version 3.5.20): Terminated abnormally." />
-      <item value="symbol SSL_set_alpn_protos, version libssl.so.10 not defined in file libssl.so.10 with link time reference " />
-      <item value="squid: relocation error: squid: symbol SSL_set_alpn_protos, version libssl.so.10 not defined in file libssl.so.10 with link time reference " />
-      <item value="Unregistered Authentication Agent for unix-process:26260:3587956604 (system bus name :1.427291, object path /org/freedesktop/PolicyKit1/Authenticatio" />
-      <item value="Job for squid.service failed because the control process exited with error code. See &quot;systemctl status squid.service&quot; and &quot;journalctl -xe&quot; for details. " />
-      <item value="TypeError: argument of type 'DataError' is not iterable" />
-      <item value="directory" />
-      <item value="SyntaxError: name 'CLIENT' is used prior to global declaration" />
-      <item value="SyntaxError: name 'CLIENT' is used prior to global declaratio" />
-      <item value="UnboundLocalError: local variable 'CLIENT' referenced before assignment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
