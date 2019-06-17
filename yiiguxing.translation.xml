@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: 'float' object cannot be interpreted as an integer" />
       <item value="imread" />
       <item value="error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor" />
       <item value="reset actions" />
@@ -50,11 +51,10 @@
       <item value="Synchronously Executes JavaScript in the current window/frame. :Args: - script: The JavaScript to execute. - \*args: Any applicable arguments for your JavaScript. :Usage: driver.execute_script('return document.title;')" />
       <item value="Finds an element by link text. :Args: - link_text: The text of the element to be found. :Returns: - WebElement - the element if it was found :Raises: - NoSuchElementException - if the element wasn't found :Usage: element = driver.find_element_by_link_text('Sign In')" />
       <item value="Sends a command to be executed by a command.CommandExecutor. :Args: - driver_command: The name of the command to execute as a string. - params: A dictionary of named parameters to send with the command. :Returns: The command's JSON response loaded into a dictionary object." />
-      <item value="reates a web element with the specified `element_id`" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
+        <entry key="CHINESE" value="299" />
         <entry key="ENGLISH" value="299" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
