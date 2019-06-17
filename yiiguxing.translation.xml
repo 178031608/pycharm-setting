@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Releasing a held mouse button on an element. :Args: - on_element: The element to mouse up. If None, releases on current mouse position." />
+      <item value="pause" />
       <item value="TypeError: 'float' object cannot be interpreted as an integer" />
       <item value="imread" />
       <item value="error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor" />
@@ -49,13 +51,11 @@
       <item value="Return a tuple containing unpacked values. Unpack according to the format string Struct.format. The buffer's size in bytes must be Struct.size. See help(struct) for more on format strings. &quot;&quot;&quot;" />
       <item value="Return a tuple containing unpacked values. Unpack according to the format string Struct.format. The buffer's size in bytes must be Struct.size. See help(struct) for more on format strings." />
       <item value="Synchronously Executes JavaScript in the current window/frame. :Args: - script: The JavaScript to execute. - \*args: Any applicable arguments for your JavaScript. :Usage: driver.execute_script('return document.title;')" />
-      <item value="Finds an element by link text. :Args: - link_text: The text of the element to be found. :Returns: - WebElement - the element if it was found :Raises: - NoSuchElementException - if the element wasn't found :Usage: element = driver.find_element_by_link_text('Sign In')" />
-      <item value="Sends a command to be executed by a command.CommandExecutor. :Args: - driver_command: The name of the command to execute as a string. - params: A dictionary of named parameters to send with the command. :Returns: The command's JSON response loaded into a dictionary object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
