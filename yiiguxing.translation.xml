@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=".pause( random.randint(4, 10))" />
+      <item value="分开两步进行书写" />
+      <item value="selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document" />
+      <item value="frombuffer" />
+      <item value="wait Key" />
+      <item value="scaimg" />
       <item value="frombuffer(buffer, dtype=float, count=-1, offset=0) Interpret a buffer as a 1-dimensional array. Parameters ---------- buffer : buffer_like An object that exposes the buffer interface. dtype : data-type, optional Data-type of the returned array; default: float. count : int, optional Number of items to read. ``-1`` means all data in the buffer. offset : int, optional Start reading the buffer from this offset (in bytes); default: 0. Notes ----- If the buffer has data that is not in machine byte-order, this should be specified as part of the data-type, e.g.:: &gt;&gt;&gt; dt = np.dtype(int) &gt;&gt;&gt; dt = dt.newbyteorder('&gt;')" />
       <item value="Move mouse by using given track" />
       <item value="location" />
@@ -45,27 +51,22 @@
       <item value="eprecated use driver.switch_to.frame" />
       <item value="switch to frame" />
       <item value="switch to active element" />
-      <item value="switch to window" />
-      <item value=":Returns: - SwitchTo: an object containing all options to switch focus into :Usage: element = driver.switch_to.active_element alert = driver.switch_to.alert driver.switch_to.default_content() driver.switch_to.frame('frame_name') driver.switch_to.frame(1) driver.switch_to.frame(driver.find_elements_by_tag_name(&quot;iframe&quot;)[0]) driver.switch_to.parent_frame() driver.switch_to.window('main')" />
-      <item value="switch to" />
-      <item value="fullscreen window" />
-      <item value="Invokes the window manager-specific 'minimize' operation" />
-      <item value="ends a command to be executed by a command.CommandExecutor. :Args: - driver_command: The name of the command to execute as a string. - params: A dictionary of named parameters to send with the command. :Returns: The command's JSON response loaded into a dictionary object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
+        <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="4" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
-        <entry key="HINDI" value="2" />
+        <entry key="HINDI" value="3" />
       </map>
     </option>
   </component>
