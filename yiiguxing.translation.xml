@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: Expected cv::UMat for argument 'image'" />
       <item value=".pause( random.randint(4, 10))" />
       <item value="分开两步进行书写" />
       <item value="selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document" />
@@ -50,12 +51,11 @@
       <item value="Deprecated use driver.switch_to.frame" />
       <item value="eprecated use driver.switch_to.frame" />
       <item value="switch to frame" />
-      <item value="switch to active element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
