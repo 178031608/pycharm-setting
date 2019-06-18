@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="frombuffer(buffer, dtype=float, count=-1, offset=0) Interpret a buffer as a 1-dimensional array. Parameters ---------- buffer : buffer_like An object that exposes the buffer interface. dtype : data-type, optional Data-type of the returned array; default: float. count : int, optional Number of items to read. ``-1`` means all data in the buffer. offset : int, optional Start reading the buffer from this offset (in bytes); default: 0. Notes ----- If the buffer has data that is not in machine byte-order, this should be specified as part of the data-type, e.g.:: &gt;&gt;&gt; dt = np.dtype(int) &gt;&gt;&gt; dt = dt.newbyteorder('&gt;')" />
       <item value="Move mouse by using given track" />
       <item value="location" />
       <item value="diff" />
@@ -50,12 +51,11 @@
       <item value="fullscreen window" />
       <item value="Invokes the window manager-specific 'minimize' operation" />
       <item value="ends a command to be executed by a command.CommandExecutor. :Args: - driver_command: The name of the command to execute as a string. - params: A dictionary of named parameters to send with the command. :Returns: The command's JSON response loaded into a dictionary object." />
-      <item value="install addon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
