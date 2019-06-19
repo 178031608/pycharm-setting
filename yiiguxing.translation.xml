@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="firefox_binary: Instance of ``FirefoxBinary`` or full path to the Firefox binary. If undefined, the system default Firefox installation will be used." />
+      <item value="firefox binary" />
       <item value="Initialises a new instance of a Firefox Profile :args: - profile_directory: Directory of profile that you want to use. If a directory is passed in it will be cloned and the cloned directory will be used by the driver when instantiated. This defaults to None and will create a new directory when object is created." />
       <item value="sets the preference that we want in the profile." />
       <item value="Firefox Profile" />
@@ -49,13 +51,11 @@
       <item value="save screenshot" />
       <item value="Saves a screenshot of the current window to a PNG image file. Returns False if there is any IOError, else returns True. Use full paths in your filename. :Args: - filename: The full path you wish to save your screenshot to. This should end with a `.png` extension. :Usage: driver.get_screenshot_as_file('/Screenshots/foo.png')" />
       <item value="returns the drivers current desired capabilities being used" />
-      <item value="desired capabilities" />
-      <item value="find elements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
