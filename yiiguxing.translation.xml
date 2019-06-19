@@ -2,7 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="Initialises a new instance of a Firefox Profile :args: - profile_directory: Directory of profile that you want to use. If a directory is passed in it will be cloned and the cloned directory will be used by the driver when instantiated. This defaults to None and will create a new directory when object is created." />
+      <item value="sets the preference that we want in the profile." />
       <item value="Firefox Profile" />
+      <item value="Options" />
       <item value="set window position" />
       <item value="Firefox Options" />
       <item value="Based on the combination and specificity of the various keyword arguments, a capabilities dictionary will be constructed that is passed to the remote end. The keyword arguments given to this constructor are helpers to more easily allow Firefox WebDriver sessions to be customised with different options. They are mapped on to a capabilities dictionary that is passed on to the remote end. As some of the options, such as `firefox_profile` and `options.profile` are mutually exclusive, precedence is given from how specific the setting is. `capabilities` is the least specific keyword argument, followed by `options`, followed by `firefox_binary` and `firefox_profile`. In practice this means that if `firefox_profile` and `options.profile` are both set, the selected profile instance will always come from the most specific variable. In this case that would be `firefox_profile`. This will result in `options.profile` to be ignored because it is considered a less specific setting than the top-level `firefox_profile` keyword argument. Similarily, if you had specified a `capabilities[&quot;moz:firefoxOptions&quot;][&quot;profile&quot;]` Base64 string, this would rank below `options.profile`." />
@@ -49,13 +51,11 @@
       <item value="returns the drivers current desired capabilities being used" />
       <item value="desired capabilities" />
       <item value="find elements" />
-      <item value="find element" />
-      <item value="set page load timeout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
