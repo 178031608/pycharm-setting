@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initialises a new instance of a Firefox Profile :args: - profile_directory: Directory of profile that you want to use. If a directory is passed in it will be cloned and the cloned directory will be used by the driver when instantiated. This defaults to None and will create a new directory when object is created." />
+      <item value="Firefox Profile" />
+      <item value="set window position" />
+      <item value="Firefox Options" />
+      <item value="Based on the combination and specificity of the various keyword arguments, a capabilities dictionary will be constructed that is passed to the remote end. The keyword arguments given to this constructor are helpers to more easily allow Firefox WebDriver sessions to be customised with different options. They are mapped on to a capabilities dictionary that is passed on to the remote end. As some of the options, such as `firefox_profile` and `options.profile` are mutually exclusive, precedence is given from how specific the setting is. `capabilities` is the least specific keyword argument, followed by `options`, followed by `firefox_binary` and `firefox_profile`. In practice this means that if `firefox_profile` and `options.profile` are both set, the selected profile instance will always come from the most specific variable. In this case that would be `firefox_profile`. This will result in `options.profile` to be ignored because it is considered a less specific setting than the top-level `firefox_profile` keyword argument. Similarily, if you had specified a `capabilities[&quot;moz:firefoxOptions&quot;][&quot;profile&quot;]` Base64 string, this would rank below `options.profile`." />
       <item value="Path for phantomjs service to log to." />
       <item value="A List of command line arguments to pass to PhantomJS" />
       <item value="Creates a new instance of the PhantomJS / Ghostdriver. Starts the service and then creates new instance of the driver. :Args: - executable_path - path to the executable. If the default is used it assumes the executable is in the $PATH - port - port you would like the service to run, if left as 0, a free port will be found. - desired_capabilities: Dictionary object with non-browser specific capabilities only, such as &quot;proxy&quot; or &quot;loggingPref&quot;. - service_args : A List of command line arguments to pass to PhantomJS - service_log_path: Path for phantomjs service to log to." />
@@ -34,7 +39,6 @@
       <item value="content xj placename" />
       <item value="place" />
       <item value="get window rect" />
-      <item value="set window position" />
       <item value="get window size" />
       <item value="window Handle" />
       <item value="Sets the width and height of the current window. (window.resizeTo)" />
@@ -47,15 +51,11 @@
       <item value="find elements" />
       <item value="find element" />
       <item value="set page load timeout" />
-      <item value="set script timeout" />
-      <item value="implicitly wait" />
-      <item value="Adds a cookie to your current session. :Args: - cookie_dict: A dictionary object, with required keys - &quot;name&quot; and &quot;value&quot;; optional keys - &quot;path&quot;, &quot;domain&quot;, &quot;secure&quot;, &quot;expiry&quot; Usage: driver.add_cookie({'name' : 'foo', 'value' : 'bar'}) driver.add_cookie({'name' : 'foo', 'value' : 'bar', 'path' : '/'}) driver.add_cookie({'name' : 'foo', 'value' : 'bar', 'path' : '/', 'secure':True})" />
-      <item value="Get a single cookie by name. Returns the cookie if found, None if not. :Usage: driver.get_cookie('my_cookie')" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="317" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
