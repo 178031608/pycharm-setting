@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INFO: Attempt 0: failed to connect to 10.10.30.136:9092" />
+      <item value="Cannot assign requested address" />
       <item value="complete" />
       <item value="完成" />
       <item value="等待" />
@@ -49,8 +51,6 @@
       <item value="get window size" />
       <item value="window Handle" />
       <item value="Sets the width and height of the current window. (window.resizeTo)" />
-      <item value="get screenshot as png" />
-      <item value="Saves a screenshot of the current window to a PNG image file. Returns False if there is any IOError, else returns True. Use full paths in your filename. :Args: - filename: The full path you wish to save your screenshot to. This should end with a `.png` extension. :Usage: driver.save_screenshot('/Screenshots/foo.png')" />
     </histories>
     <option name="languageScores">
       <map>
