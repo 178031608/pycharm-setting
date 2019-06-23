@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="按钮" />
       <item value="操作" />
       <item value="installing callback" />
       <item value="{u'message': u'downloading', &quot;progress&quot;: {u'totalSize': 407992690, u'copiedSize': 49152}} Returns: packageName Raises: RuntimeError" />
@@ -50,7 +51,6 @@
       <item value="reset actions" />
       <item value="Safe Rotating" />
       <item value="delay" />
-      <item value="content has" />
     </histories>
     <option name="languageScores">
       <map>
