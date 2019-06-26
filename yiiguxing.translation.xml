@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="屏幕截图" />
       <item value="init producer" />
       <item value="partitioner" />
       <item value="&quot;&quot;&quot;Returns a random partition out of all of the available partitions. Uses a non-random incrementing counter to provide even distribution across partitions without wasting CPU cycles" />
@@ -50,12 +51,11 @@
       <item value="Move mouse by using given track" />
       <item value="location" />
       <item value="diff" />
-      <item value="Holds down the left mouse button on the source element, then moves to the target offset and releases the mouse button. :Args: - source: The element to mouse down. - xoffset: X offset to move to. - yoffset: Y offset to move to." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
