@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="^&#10;SyntaxError: EOL while scanning string literal" />
       <item value="libraries" />
       <item value="librar" />
       <item value="lib" />
@@ -50,12 +51,11 @@
       <item value=".pause( random.randint(4, 10))" />
       <item value="分开两步进行书写" />
       <item value="selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document" />
-      <item value="frombuffer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
