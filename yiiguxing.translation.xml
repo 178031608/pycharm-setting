@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="misfire grace time" />
       <item value="too many values to unpack" />
       <item value="open() &quot;/usr/local/nginx/html/updateCategory&quot; failed (2: No such file or directory), client: 192.168.125.22, server: 192.168.129.17, request: &quot;POST /updateCategory?rowkey=7016904548-HwIyAc9lG&amp;type=weibo&amp;category=0 HTTP/1.1&quot;, host: &quot;192.168.129.17:7171&quot; " />
       <item value="report" />
@@ -50,12 +51,11 @@
       <item value="sets the preference that we want in the profile." />
       <item value="Firefox Profile" />
       <item value="Options" />
-      <item value="set window position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
