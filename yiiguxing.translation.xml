@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gethostbyname ex" />
+      <item value="gethostname" />
       <item value="push time" />
       <item value="Connection refused " />
       <item value="get" />
@@ -49,13 +51,11 @@
       <item value="完成" />
       <item value="等待" />
       <item value="firefox_binary: Instance of ``FirefoxBinary`` or full path to the Firefox binary. If undefined, the system default Firefox installation will be used." />
-      <item value="firefox binary" />
-      <item value="Initialises a new instance of a Firefox Profile :args: - profile_directory: Directory of profile that you want to use. If a directory is passed in it will be cloned and the cloned directory will be used by the driver when instantiated. This defaults to None and will create a new directory when object is created." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
