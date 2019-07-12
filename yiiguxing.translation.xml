@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STANDARD OPTIONS activebackground, activeforeground, anchor, background, bitmap, borderwidth, cursor, disabledforeground, font, foreground highlightbackground, highlightcolor, highlightthickness, image, justify, padx, pady, relief, repeatdelay, repeatinterval, takefocus, text, textvariable, underline, wraplength WIDGET-SPECIFIC OPTIONS command, compound, default, height, overrelief, state, width" />
+      <item value="def wm_resizable(self, width=None, height=None): &quot;&quot;&quot;Instruct the window manager whether this width can be resized in WIDTH or HEIGHT. Both values are boolean values.&quot;&quot;&quot;" />
       <item value="B.isdigit() -&gt; bool Return True if all characters in B are digits and there is at least one character in B, False otherwise. &quot;&quot;&quot;" />
       <item value="If timeout is 0, then block indefinitely." />
       <item value="automatic reloading as this is badly supported. Instead you should be using the :command:`flask` command line script's ``run`` support. .. admonition:: Keep in Mind Flask will suppress any server error w" />
@@ -49,13 +51,11 @@
       <item value="partitioner" />
       <item value="&quot;&quot;&quot;Returns a random partition out of all of the available partitions. Uses a non-random incrementing counter to provide even distribution across partitions without wasting CPU cycles" />
       <item value="partition key" />
-      <item value=" Parameter" />
-      <item value="update Prompt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="366" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
