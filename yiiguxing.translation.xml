@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: sequence item 0: expected str instance, int found" />
+      <item value="Remove first occurrence of value. Raises ValueError if the value is not presen" />
       <item value="STANDARD OPTIONS activebackground, activeforeground, anchor, background, bitmap, borderwidth, cursor, disabledforeground, font, foreground highlightbackground, highlightcolor, highlightthickness, image, justify, padx, pady, relief, repeatdelay, repeatinterval, takefocus, text, textvariable, underline, wraplength WIDGET-SPECIFIC OPTIONS command, compound, default, height, overrelief, state, width" />
       <item value="def wm_resizable(self, width=None, height=None): &quot;&quot;&quot;Instruct the window manager whether this width can be resized in WIDTH or HEIGHT. Both values are boolean values.&quot;&quot;&quot;" />
       <item value="B.isdigit() -&gt; bool Return True if all characters in B are digits and there is at least one character in B, False otherwise. &quot;&quot;&quot;" />
@@ -49,13 +51,11 @@
       <item value="屏幕截图" />
       <item value="init producer" />
       <item value="partitioner" />
-      <item value="&quot;&quot;&quot;Returns a random partition out of all of the available partitions. Uses a non-random incrementing counter to provide even distribution across partitions without wasting CPU cycles" />
-      <item value="partition key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
