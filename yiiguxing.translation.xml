@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="境内访问失败" />
+      <item value="symbol" />
+      <item value="ValueError: not enough values to unpack (expected 2, got 0)" />
+      <item value="ImportError: cannot import name 'getTitle'" />
       <item value="500 &lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 3.2 Final//EN&quot;&gt;&#10;&lt;title&gt;500 Internal Server Error&lt;/title&gt;&#10;&lt;h1&gt;Internal Server Error&lt;/h1&gt;&#10;&lt;p&gt;The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.&lt;/p&gt;" />
       <item value="(optional) Dictionary (will be form-encoded), bytes, or file-like object to send in the body of the :class:`Request`." />
       <item value="&quot;&quot;Serialize ``obj`` to a JSON formatted ``str``. If ``skipkeys`` is true then ``dict`` keys that are not basic types (``str``, ``int``, ``float``, ``bool``, ``None``) will be skipped instead of raising a ``TypeError``. If ``ensure_ascii`` is false, then the return value can contain non-ASCII characters if they appear in strings contained in ``obj``. Ot" />
@@ -47,15 +51,11 @@
       <item value="broker_version: str" />
       <item value="The protocol version of the cluster being connected to. If this parameter doesn't match the actual broker version, some pykafka features may not work properly." />
       <item value="parsing" />
-      <item value="parsing_exception" />
-      <item value="mapper" />
-      <item value="mapper_parsing_exception" />
-      <item value=" is different than the one provided" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="386" />
+        <entry key="ENGLISH" value="386" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
