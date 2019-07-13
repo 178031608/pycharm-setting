@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SELECT FAIL ERROE ATTRIBUTE" />
       <item value="境内访问失败" />
       <item value="symbol" />
       <item value="ValueError: not enough values to unpack (expected 2, got 0)" />
@@ -50,12 +51,11 @@
       <item value="broker_version: The protocol version of the cluster being connected to. If this parameter doesn't match the actual broker version, some pykafka features may not work properly." />
       <item value="broker_version: str" />
       <item value="The protocol version of the cluster being connected to. If this parameter doesn't match the actual broker version, some pykafka features may not work properly." />
-      <item value="parsing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="386" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="388" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
