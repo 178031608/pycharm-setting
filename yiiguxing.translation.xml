@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Look up an object with the given kwargs, updating one with defaults if it exists, otherwise create a new one. Return a tuple (object, created), where created is a boolean specifying whether an object was created." />
       <item value="If timeout is 0, then block indefinitely." />
       <item value="Source" />
       <item value="get ymip" />
@@ -50,12 +51,11 @@
       <item value="EARLIEST: Indicates the earliest offset available for a partition :cvar LATEST: Indicates the latest offset available for a partition" />
       <item value="Enum for special values for earliest/latest offsets. :cvar EARLIEST: Indicates the earliest offset available for a partition :cvar LATEST: Indicates the latest offset available for a partition" />
       <item value="Offset Type" />
-      <item value="^&#10;SyntaxError: EOL while scanning string literal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
