@@ -9,6 +9,7 @@
       <mapping ext="2018-12-20" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
