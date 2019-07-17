@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hosts: list of nodes we should connect to. Node should be a dictionary ({&quot;host&quot;: &quot;localhost&quot;, &quot;port&quot;: 9200}), the entire dictionary will be passed to the :class:`~elasticsearch.Connection` class as kwargs, or a string in the format of ``host[:port]`` which will be translated to a dictionary automatically. If no value is given the :class:`~elasticsearch.Urllib3HttpConnection` class defaults will be used. :arg transport_class: :class:`~elasticsearch.Transport` subclass to use. :arg kwargs: any additional arguments will be passed on to the :class:`~elasticsearch.Transport` class and, subsequently, to the :class:`~elasticsearch.Connection` instances." />
       <item value="NOTE: Try --verbose to see response content. HTTPError: 403 Client Error: Invalid or non-existent authentication information. for url: https://upload.pypi.org/legacy/ " />
       <item value="NOTE: Try --verbose to see response content. HTTPError: 400 Client Error: This filename has already been used, use a different version. See https://pypi.org/help/#file-name-reuse for url: https://upload.pypi.org/legacy/ " />
       <item value="issues" />
@@ -50,12 +51,11 @@
       <item value="礼物" />
       <item value="prasent" />
       <item value="段落" />
-      <item value="TypeError: sequence item 0: expected str instance, int found" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
