@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="command" />
       <item value="total" />
       <item value="elasticsearch.exceptions.RequestError: RequestError(400, 'parsing_exception', '[1:24] [match_all] unknown field [query], parser not found')" />
       <item value="parsing exception" />
@@ -50,12 +51,11 @@
       <item value="ValueError: not enough values to unpack (expected 2, got 0)" />
       <item value="ImportError: cannot import name 'getTitle'" />
       <item value="500 &lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 3.2 Final//EN&quot;&gt;&#10;&lt;title&gt;500 Internal Server Error&lt;/title&gt;&#10;&lt;h1&gt;Internal Server Error&lt;/h1&gt;&#10;&lt;p&gt;The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.&lt;/p&gt;" />
-      <item value="(optional) Dictionary (will be form-encoded), bytes, or file-like object to send in the body of the :class:`Request`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="424" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE" value="426" />
+        <entry key="ENGLISH" value="427" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
