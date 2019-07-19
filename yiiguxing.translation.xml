@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INFO:apscheduler.scheduler:Added job &quot;interval_ypzs_account&quot; to job store &quot;default&quot;" />
       <item value="INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts" />
       <item value="LookupError: No trigger by the name &quot;ypzsAccountinterval&quot; was found" />
       <item value="ImportError: cannot import name 'utc'" />
@@ -50,12 +51,11 @@
       <item value="Search request to elasticsearch. :arg using: `Elasticsearch` instance to use :arg index: limit the search to index :arg doc_type: only query this type. All the parameters supplied (or omitted) at creation type can be later overridden by methods (`using`, `index` and `doc_type` respectively)." />
       <item value="Turn the search into a scan search and return a generator that will iterate over all the documents matching the query. Use ``params`` method to specify any additional arguments you with to pass to the underlying ``scan`` helper from ``elasticsearch-py`` - https://elasticsearch-py.readthedocs.io/en/master/helpers.html#elasticsearch.helpers.scan" />
       <item value="elasticsearch.helpers.errors.ScanError: Scroll request has only succeeded on 57 shards out of 99." />
-      <item value="elasticsearch.exceptions.NotFoundError: NotFoundError(404, 'search_phase_execution_exception', 'No search context found for id [15269611]')" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
