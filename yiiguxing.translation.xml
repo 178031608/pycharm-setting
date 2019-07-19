@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="替换" />
       <item value="DBAPI Set" />
       <item value="ERROR: Could not install packages due to an EnvironmentError: [Errno 28] No space left on devic" />
       <item value="ERROR 1045 (28000): Access denied for user 'zkr_cj'@'localhost' (using password: NO)" />
@@ -50,7 +51,6 @@
       <item value="urlparse" />
       <item value="find_packages = PackageFinder.find" />
       <item value="license" />
-      <item value="Your source code contains __future__ imports. Would you like to enable Code compatibility inspection?" />
     </histories>
     <option name="languageScores">
       <map>
