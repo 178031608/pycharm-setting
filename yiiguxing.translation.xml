@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始" />
+      <item value="crawle" />
+      <item value="crawer" />
+      <item value="craw" />
+      <item value="crawler" />
+      <item value="采集管理系统" />
       <item value="存在" />
       <item value="状态" />
       <item value="替换" />
@@ -45,17 +51,11 @@
       <item value="NOTE: Try --verbose to see response content. HTTPError: 403 Client Error: Invalid or non-existent authentication information. for url: https://upload.pypi.org/legacy/ " />
       <item value="issues" />
       <item value="Singleton" />
-      <item value="No schema supplied. Perhaps you meant" />
-      <item value="0 files committed, 9 files failed to commit: 发布pypi版本1.0.0 On branch master Your branch and 'origin/master' have diverged, and have 2 and 1 different commits each, respectively. (use &quot;git pull&quot; to merge the remote branch into yours) Changes not staged for commit: deleted: ScopeManagement/migrations/0001_initial.py deleted: ScopeManagement/migrations/0002_auto_20190422_1333.py deleted: ScopeManagement/migrations/0003_auto_20190422_1709.py deleted: ScopeManagement/migrations/0004_auto_20190424_1717.py no changes added to commit" />
-      <item value="0 files committed, 9 files failed to commit: 发布pypi版本1.0.0 On branch master Your branch and 'origin/master' have diverged, and have 2 and 1 different commits each, respectively. (use &quot;git pull&quot; to merge the remote branch into yours) Changes not staged for commit: deleted: ScopeManagement/migrations/0001_initial.py deleted:" />
-      <item value="metaclass" />
-      <item value=" Invalid or non-existent authentication information." />
-      <item value="urlparse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
