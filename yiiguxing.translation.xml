@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" 'class Meta' got invalid attribute(s): detail_json,list_jso" />
+      <item value="plugin" />
+      <item value="vacuum" />
       <item value="原始" />
       <item value="crawle" />
       <item value="crawer" />
@@ -48,14 +51,11 @@
       <item value="scroll" />
       <item value="Scroll a search request created by specifying the scroll parameter. `&lt;http://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-scroll.html&gt;`_ :arg scroll_id: The scroll ID :arg body: The scroll ID if not passed by URL or query parameter. :arg scroll: Specify how long a consistent view of the index should be maintained for scrolled search" />
       <item value="hosts: list of nodes we should connect to. Node should be a dictionary ({&quot;host&quot;: &quot;localhost&quot;, &quot;port&quot;: 9200}), the entire dictionary will be passed to the :class:`~elasticsearch.Connection` class as kwargs, or a string in the format of ``host[:port]`` which will be translated to a dictionary automatically. If no value is given the :class:`~elasticsearch.Urllib3HttpConnection` class defaults will be used. :arg transport_class: :class:`~elasticsearch.Transport` subclass to use. :arg kwargs: any additional arguments will be passed on to the :class:`~elasticsearch.Transport` class and, subsequently, to the :class:`~elasticsearch.Connection` instances." />
-      <item value="NOTE: Try --verbose to see response content. HTTPError: 403 Client Error: Invalid or non-existent authentication information. for url: https://upload.pypi.org/legacy/ " />
-      <item value="issues" />
-      <item value="Singleton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="449" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
