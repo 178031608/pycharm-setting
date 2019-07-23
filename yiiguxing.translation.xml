@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ValueError: too many values to unpack (expected 2)" />
       <item value="profile Room" />
       <item value="short Channel" />
       <item value="recommend Status" />
@@ -14,7 +15,6 @@
       <item value="game Stream Info List" />
       <item value="profile Home Host" />
       <item value="KeyError: 'UserItem does not support field: itme'" />
-      <item value="ValueError: too many values to unpack (expected 2)" />
       <item value="同步字段" />
       <item value="同步" />
       <item value="builtins.AttributeError: can't set attribute" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="488" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
