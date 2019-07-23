@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="buss Type" />
+      <item value="Channel" />
+      <item value="live Channel" />
+      <item value="channel" />
       <item value="ValueError: too many values to unpack (expected 2)" />
       <item value="profile Room" />
       <item value="short Channel" />
@@ -9,8 +13,6 @@
       <item value="private Host" />
       <item value="activity Count" />
       <item value="screenshot" />
-      <item value="buss Type" />
-      <item value="live Channel" />
       <item value="camera Open" />
       <item value="game Stream Info List" />
       <item value="profile Home Host" />
@@ -49,13 +51,11 @@
       <item value="原始" />
       <item value="crawle" />
       <item value="crawer" />
-      <item value="craw" />
-      <item value="crawler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="492" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
