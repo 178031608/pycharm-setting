@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile Room" />
+      <item value="short Channel" />
+      <item value="recommend Status" />
+      <item value="2089872738" />
+      <item value="private Host" />
+      <item value="activity Count" />
+      <item value="screenshot" />
+      <item value="buss Type" />
+      <item value="live Channel" />
+      <item value="camera Open" />
+      <item value="game Stream Info List" />
+      <item value="profile Home Host" />
       <item value="KeyError: 'UserItem does not support field: itme'" />
       <item value="ValueError: too many values to unpack (expected 2)" />
       <item value="同步字段" />
@@ -39,23 +51,11 @@
       <item value="crawer" />
       <item value="craw" />
       <item value="crawler" />
-      <item value="采集管理系统" />
-      <item value="存在" />
-      <item value="状态" />
-      <item value="替换" />
-      <item value="DBAPI Set" />
-      <item value="ERROR: Could not install packages due to an EnvironmentError: [Errno 28] No space left on devic" />
-      <item value="ERROR 1045 (28000): Access denied for user 'zkr_cj'@'localhost' (using password: NO)" />
-      <item value="403 Forbidden" />
-      <item value="Account" />
-      <item value="更新" />
-      <item value="COW" />
-      <item value="shadowsocks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="475" />
+        <entry key="CHINESE" value="486" />
+        <entry key="ENGLISH" value="487" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
