@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VideoItem does not support field: infoItem'" />
       <item value="DEVNULL" />
       <item value="questHandler worker: exiting cleanly" />
       <item value="2019-07-24 11:42:30 [pykafka.handlers] info: RequestHandler worker: exiting cleanly" />
@@ -50,11 +51,10 @@
       <item value="ImportError: cannot import name 'utc'" />
       <item value="ImportError: MongoDBJobStore requires PyMongo installed" />
       <item value="Py Mongo" />
-      <item value="Mongo DB Job Store" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
+        <entry key="CHINESE" value="498" />
         <entry key="ENGLISH" value="498" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
@@ -62,6 +62,7 @@
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="6" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
