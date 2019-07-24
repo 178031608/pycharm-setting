@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AssertionError: Middleware LivecrawlerChromeMiddleware.process_response must return Response or Request, got &lt;class 'generator'&gt;" />
       <item value="TypeError: 'str' object is not callable" />
       <item value="peError: 'str' object is not callable" />
       <item value="selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[contains(@class,'name')]&quot;}" />
@@ -50,12 +51,11 @@
       <item value="Abstract base class for all schedulers. Takes the following keyword arguments: :param str|logging.Logger logger: logger to use for the scheduler's logging (defaults to apscheduler.scheduler) :param str|datetime.tzinfo timezone: the default time zone (defaults to the local timezone) :param int|float jobstore_retry_interval: the minimum number of seconds to wait between retries in the scheduler's main loop if the job store raises an exception when getting the list of due jobs :param dict job_defaults: default values for newly added jobs :param dict jobstores: a dictionary of job store alias -&gt; job store instance or configuration dict :param dict executors: a dictionary of executor alias -&gt; executor instance or configuration dict :ivar int state: current running state of the scheduler (one of the following constants from ``apscheduler.schedulers.base``: ``STATE_STOPPED``, ``STATE_RUNNING``, ``STATE_PAUSED``) .. seealso:: :ref:`scheduler-config`" />
       <item value="retries in the scheduler's main loop if the job store raises an exception when getting the list of due jobs :param dict job_defaults: default values for newly added jobs :param dict jobstores: a dictionary of job store alias -&gt; job store instance or configuration dict :param dict executors: a dictionary of executor alias -&gt; executor instance or configuration dict :ivar int state: current running state of the scheduler (one of the following constants from ``apscheduler.schedulers.base``: ``STATE_STOPPED``, ``STAT" />
       <item value="INFO:apscheduler.scheduler:Scheduler started&#10;DEBUG:apscheduler.scheduler:Looking for jobs to run" />
-      <item value="cmd transfer web" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="509" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
