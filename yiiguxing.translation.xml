@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="questHandler worker: exiting cleanly" />
       <item value="2019-07-24 11:42:30 [pykafka.handlers] info: RequestHandler worker: exiting cleanly" />
       <item value="UserWarning: There are several spiders with the same name:" />
       <item value="间隔" />
@@ -50,12 +51,11 @@
       <item value="Py Mongo" />
       <item value="Mongo DB Job Store" />
       <item value=" 'class Meta' got invalid attribute(s): detail_json,list_jso" />
-      <item value="plugin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
