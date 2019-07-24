@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content Intro" />
       <item value="record" />
       <item value="communicate" />
       <item value="Wait for child process to terminate. Returns returncode attribute" />
@@ -50,12 +51,11 @@
       <item value="The &quot;db&quot; parameter must not be empty'" />
       <item value="INFO:apscheduler.scheduler:Added job &quot;interval_ypzs_account&quot; to job store &quot;default&quot;" />
       <item value="INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts" />
-      <item value="LookupError: No trigger by the name &quot;ypzsAccountinterval&quot; was found" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
