@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Message: stale element reference: element is not attached to the page document" />
       <item value="发布任务" />
       <item value="发布" />
       <item value="ASSOCIATION" />
@@ -50,12 +51,11 @@
       <item value="ScopeManagement.models.DataClassOne.MultipleObjectsReturned: get() returned more than one DataClassOne -- it returned 2!" />
       <item value="Data Class One" />
       <item value="Error: That port is already in use." />
-      <item value="ment.models.DataClassTwo.DoesNotExist: DataClassTwo matching query does not exist.'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="510" />
-        <entry key="ENGLISH" value="511" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="512" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
