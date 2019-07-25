@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发布任务" />
+      <item value="发布" />
       <item value="ASSOCIATION" />
       <item value="LIVE_ASSOCIATION_TABLE" />
       <item value="association" />
@@ -49,13 +51,11 @@
       <item value="Data Class One" />
       <item value="Error: That port is already in use." />
       <item value="ment.models.DataClassTwo.DoesNotExist: DataClassTwo matching query does not exist.'" />
-      <item value="save Zd Account" />
-      <item value="collect Status" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="510" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="ENGLISH" value="511" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
