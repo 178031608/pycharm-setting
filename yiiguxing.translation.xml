@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="worst" />
       <item value="Message: stale element reference: element is not attached to the page document" />
       <item value="发布任务" />
       <item value="发布" />
@@ -50,12 +51,11 @@
       <item value="copeManagement.models.DataClassTwo.MultipleObjectsReturned: get() returned more than one DataClassTwo -- it returned 3!" />
       <item value="ScopeManagement.models.DataClassOne.MultipleObjectsReturned: get() returned more than one DataClassOne -- it returned 2!" />
       <item value="Data Class One" />
-      <item value="Error: That port is already in use." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
