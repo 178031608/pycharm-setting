@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tringindicesmustbeintegers" />
+      <item value="Type Error:stringindicesmustbeintegers" />
       <item value="classification" />
       <item value="getstatusoutput" />
       <item value="Return (exitcode, output) of executing cmd in a shell. Execute the string 'cmd' in a shell with 'check_output' and return a 2-tuple (status, output). The locale encoding is used to decode the output and process newlines. A trailing newline is stripped from the output. The exit status for the command can be interpreted according to the rules for the function 'wait'. Example: &gt;&gt;&gt; import subprocess &gt;&gt;&gt; subprocess.getstatusoutput('ls /bin/ls') (0, '/bin/ls') &gt;&gt;&gt; subprocess.getstatusoutput('cat /bin/junk') (1, 'cat: /bin/junk: No such file or directory') &gt;&gt;&gt; subprocess.getstatusoutput('/bin/junk') (127, 'sh: /bin/junk: not found') &gt;&gt;&gt; subprocess.getstatusoutput('/bin/kill $$') (-15, '')" />
@@ -49,12 +51,10 @@
       <item value="同步字段" />
       <item value="同步" />
       <item value="builtins.AttributeError: can't set attribute" />
-      <item value="AttributeError: can't set attribute" />
-      <item value="Unknown command: crawl Use &quot;scrapy&quot; to see available commands" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
+        <entry key="CHINESE" value="516" />
         <entry key="ENGLISH" value="516" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="3" />
       </map>
     </option>
