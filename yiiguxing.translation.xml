@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Part" />
       <item value="Brokenpipe " />
       <item value="BrokenPipeError:[Errno32]Brokenpipe " />
       <item value=" was not found" />
@@ -50,12 +51,11 @@
       <item value="activity Count" />
       <item value="screenshot" />
       <item value="camera Open" />
-      <item value="profile Home Host" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="516" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="ENGLISH" value="517" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
