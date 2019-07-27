@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" was not found" />
       <item value="fatal: unable to access 'https://github.com/streamlink/streamlink/': Network file descriptor is not connected " />
       <item value="tringindicesmustbeintegers" />
       <item value="Type Error:stringindicesmustbeintegers" />
@@ -50,7 +51,6 @@
       <item value="profile Home Host" />
       <item value="KeyError: 'UserItem does not support field: itme'" />
       <item value="同步字段" />
-      <item value="同步" />
     </histories>
     <option name="languageScores">
       <map>
