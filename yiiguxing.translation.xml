@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Brokenpipe " />
+      <item value="BrokenPipeError:[Errno32]Brokenpipe " />
       <item value=" was not found" />
       <item value="fatal: unable to access 'https://github.com/streamlink/streamlink/': Network file descriptor is not connected " />
       <item value="tringindicesmustbeintegers" />
@@ -49,8 +51,6 @@
       <item value="screenshot" />
       <item value="camera Open" />
       <item value="profile Home Host" />
-      <item value="KeyError: 'UserItem does not support field: itme'" />
-      <item value="同步字段" />
     </histories>
     <option name="languageScores">
       <map>
