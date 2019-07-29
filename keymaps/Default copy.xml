@@ -6,4 +6,8 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="ctrl windows" />
   </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SaveAll" />
 </keymap>
