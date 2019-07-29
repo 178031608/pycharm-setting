@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Eclipse Keymap for IntelliJ-based IDEs: IntelliJ IDEA, WebStorm, PhpStorm, Rider, Android Studio, and others. Use this plugin if the Eclipse keymap is not pre-installed in your IDE." />
+      <item value="Generating Kotlin data class from any legal JSON string or any URLs that returns a JSON string as response Generating Kotlin data class from any legal JSON text when right click on directory and select New -&gt; Kotlin data class File from JSON Supporting (almostly) all kinds of JSON libs' annotation(Gson, Jackson, Fastjson, MoShi and LoganSquare, kotlinx.serialization(default custom value)) Customizing your own annotations Initializing properties with default values Allowing properties to be nullable(?) Determining property nullability automatically Renaming property names to be camelCase style when selecting a target JSON lib annotation． Generating Kotlin data class as individual classes Generating Kotlin data class as inner classes Formatting any legal JSON string Generating Map Type when json key is primiti" />
+      <item value="The Key Promoter X helps you to learn essential shortcuts while you are working. When you use the mouse on a button inside the IDE, the Key Promoter X shows you the keyboard shortcut that you should have used instead. This provides an easy way to learn how to replace tedious mouse work with keyboard keys and helps to transition to a faster, mouse free development. Currently, it supports toolbar buttons, menu buttons, tool windows and the actions therein. The Key Promoter X tool window shows you a hit-list of the mouse actions you use the most and directly provides you with the shortcut you can use instead. For buttons that don't have a shortcut, the Key Promoter X prompts you with the possibility to directly create one. Dmitry Kashin had the original idea for a &quot;Key Promoters&quot; but used custom UI elements which often clashed with the IntelliJ IDEA UI. Key Promoter X is a completely rewritten version of the original idea and removes the custom pop-up window with IntelliJ internal message balloons. It, therefore, integrates much better into the IDE, fixes glitches and provides a more non-disruptive way of learning shortcut bindings." />
       <item value="Part" />
       <item value="Brokenpipe " />
       <item value="BrokenPipeError:[Errno32]Brokenpipe " />
@@ -48,13 +51,10 @@
       <item value="recommend Status" />
       <item value="2089872738" />
       <item value="private Host" />
-      <item value="activity Count" />
-      <item value="screenshot" />
-      <item value="camera Open" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="516" />
+        <entry key="CHINESE" value="517" />
         <entry key="ENGLISH" value="517" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
