@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(int, optional): epoch milliseconds (from Jan 1 1970 UTC) to use as the message timestamp. Defaults to current time." />
       <item value="classification" />
       <item value="Repodata is over 2 weeks old. Install yum-cron? Or run: yum makecache fast" />
       <item value="Adds option to disable auto-popup completions on a space to leave your already typed text as you intended. Configure it in Editor &gt; General &gt; Code Completion settings (Preferences on OS X). Disable for all languages or only for languages in a configurable list. If you want to insert a suggestion for space disabled auto-pop then either use TAB or ENTER or manually change the selected suggestion before using SPACE to insert it. Prompted by delayed auto-popup completions in Kotlin after typing var, val or null followed by a space, inserting some random function, triggering a severe bout of Tourette’s as a result." />
@@ -50,12 +51,11 @@
       <item value="发布" />
       <item value="ASSOCIATION" />
       <item value="LIVE_ASSOCIATION_TABLE" />
-      <item value="association" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
