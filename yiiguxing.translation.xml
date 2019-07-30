@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(tuple): Specify which Kafka API version to use. If set to None, the client will attempt to infer the broker version by probing various APIs. Example: (0, 10, 2). Default: None" />
+      <item value="kafka.errors.NoBrokersAvailable: NoBrokersAvailable" />
       <item value="(int, optional): epoch milliseconds (from Jan 1 1970 UTC) to use as the message timestamp. Defaults to current time." />
       <item value="classification" />
       <item value="Repodata is over 2 weeks old. Install yum-cron? Or run: yum makecache fast" />
@@ -49,20 +51,18 @@
       <item value="Message: stale element reference: element is not attached to the page document" />
       <item value="发布任务" />
       <item value="发布" />
-      <item value="ASSOCIATION" />
-      <item value="LIVE_ASSOCIATION_TABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="6" />
         <entry key="TELUGU" value="1" />
         <entry key="TURKISH" value="1" />
