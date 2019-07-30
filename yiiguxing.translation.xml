@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assertion Error&#10;" />
+      <item value=": topic where the message will be published value (optional): message value. Must be type bytes, or be serializable to bytes via configured value_serializer. If value is None, key is required and message acts as a 'delete'. See kafka compaction documentation for more details: https://kafka.apache.org/documentation.html#compaction" />
       <item value="(tuple): Specify which Kafka API version to use. If set to None, the client will attempt to infer the broker version by probing various APIs. Example: (0, 10, 2). Default: None" />
       <item value="kafka.errors.NoBrokersAvailable: NoBrokersAvailable" />
       <item value="(int, optional): epoch milliseconds (from Jan 1 1970 UTC) to use as the message timestamp. Defaults to current time." />
@@ -49,13 +51,11 @@
       <item value="Return (exitcode, output) of executing cmd in a shell. Execute the string 'cmd' in a shell with 'check_output' and return a 2-tuple (status, output). The locale encoding is used to decode the output and process newlines. A trailing newline is stripped from the output. The exit status for the command can be interpreted according to the rules for the function 'wait'. Example: &gt;&gt;&gt; import subprocess &gt;&gt;&gt; subprocess.getstatusoutput('ls /bin/ls') (0, '/bin/ls') &gt;&gt;&gt; subprocess.getstatusoutput('cat /bin/junk') (1, 'cat: /bin/junk: No such file or directory') &gt;&gt;&gt; subprocess.getstatusoutput('/bin/junk') (127, 'sh: /bin/junk: not found') &gt;&gt;&gt; subprocess.getstatusoutput('/bin/kill $$') (-15, '')" />
       <item value="worst" />
       <item value="Message: stale element reference: element is not attached to the page document" />
-      <item value="发布任务" />
-      <item value="发布" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="520" />
-        <entry key="ENGLISH" value="521" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
