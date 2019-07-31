@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="classification" />
       <item value="tendentiousness" />
       <item value="pipeprofen on github | report an issue Run a bash shell command on the selected lines. Execute a bash process that pipes the selected lines as if they were an input file, same as stdin, through a custom bash shell command. The output from the process replaces the selection with stderr and stdout. Works with multiple carets by piping each selection region separately into their own process. Also works with no carets. General usage instructions Invoke with ctrl-alt-shift-x, or by selecting text and right-click the editor to show the context menu. The menu item is called Pipe selected text to bash. When no lines are selected, use the keyboard shortcut to open the bash argument window. Demo Features Remembers the last command arguments Treats output containing either stderr and stdout the same Works with multiple carets, 1 caret and no carets Bug-free on Linux and Windows Actively supported - open an issue on github Unlicensed, free public domain source Note: you must have bash in your environment's PATH. Being able to run anything in the editor and change the buffer text was heavily inspired by emacs's lisp expressions (eval-last-sexp), (eval-defun) and (eval-expression). This plugin is intended to be a drop-in replacement for the antiquated Shell Process plugin" />
       <item value="pipeprofen on github | report an issue&#10;Run a bash shell command on the selected lines. Execute a bash process that pipes the selected lines as if they were an input file, same as stdin, through a custom bash shell command. The output from the process replaces the selection with stderr and stdout. Works with multiple carets by piping each selection region separately into their own process. Also works with no carets.&#10;General usage instructions Invoke with ctrl-alt-shift-x, or by selecting text and right-click the editor to show the context menu. The menu item is called Pipe selected text to bash. When no lines are selected, use the keyboard shortcut to open the bash argument window.&#10;Demo Features&#10;Remembers the last command arguments&#10;Treats output containing either stderr and stdout the same&#10;Works with multiple carets, 1 caret and no carets&#10;Bug-free on Linux and Windows&#10;Actively supported - open an issue on github&#10;Unlicensed, free public domain source Note: you must have bash in your environment's PATH.&#10;Being able to run anything in the editor and change the buffer text was heavily inspired by emacs's lisp expressions (eval-last-sexp), (eval-defun) and (eval-expression). This plugin is intended to be a drop-in replacement for the antiquated Shell Process plugin" />
@@ -18,7 +19,6 @@
       <item value="(tuple): Specify which Kafka API version to use. If set to None, the client will attempt to infer the broker version by probing various APIs. Example: (0, 10, 2). Default: None" />
       <item value="kafka.errors.NoBrokersAvailable: NoBrokersAvailable" />
       <item value="(int, optional): epoch milliseconds (from Jan 1 1970 UTC) to use as the message timestamp. Defaults to current time." />
-      <item value="classification" />
       <item value="Repodata is over 2 weeks old. Install yum-cron? Or run: yum makecache fast" />
       <item value="Adds option to disable auto-popup completions on a space to leave your already typed text as you intended. Configure it in Editor &gt; General &gt; Code Completion settings (Preferences on OS X). Disable for all languages or only for languages in a configurable list. If you want to insert a suggestion for space disabled auto-pop then either use TAB or ENTER or manually change the selected suggestion before using SPACE to insert it. Prompted by delayed auto-popup completions in Kotlin after typing var, val or null followed by a space, inserting some random function, triggering a severe bout of Tourette’s as a result." />
       <item value="Adds option to disable auto-popup completions on a space to leave your already typed text as you intended.&#10;Configure it in Editor &gt; General &gt; Code Completion settings (Preferences on OS X). Disable for all languages or only for languages in a configurable list.&#10;If you want to insert a suggestion for space disabled auto-pop then either use TAB or ENTER or manually change the selected suggestion before using SPACE to insert it.&#10;Prompted by delayed auto-popup completions in Kotlin after typing var, val or null followed by a space, inserting some random function, triggering a severe bout of Tourette’s as a result." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="529" />
+        <entry key="ENGLISH" value="530" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
