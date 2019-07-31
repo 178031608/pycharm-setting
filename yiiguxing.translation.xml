@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(optional): a key to associate with the message. Can be used to determine which partition to send the message to. If partition is None (and producer's partitioner config is left as default), then messages with the same key will be delivered to the same partition (but if key is None, partition is chosen randomly). Must be type bytes, or be serializable to bytes via configured key_serializer." />
+      <item value="topic where the message will be published value (optional): message value. Must be type bytes, or be serializable to bytes via configured value_serializer. If value is None, key is required and message acts as a 'delete'. See kafka compaction documentation for more details: https://kafka.apache.org/documentation.html#compaction (compaction requires kafka &gt;= 0.8.1) partition (int, optional): optionally specify a partitio" />
       <item value="stopwaitsecs" />
       <item value="&quot;&quot;&quot;Returns an iterator equivalent to map(fn, iter). Args: fn: A callable that will take as many arguments as there are passed iterables. timeout: The maximum number of seconds to wait. If None, then there is no limit on the wait time. chunksize: If greater than one, the iterables will be chopped into chunks of size chunksize and submitted to the process pool. If set to one, the items in the list will be sent one at a time. Returns: An iterator equivalent to: map(func, *iterables) but the calls may be evaluated out-of-order. Raises: TimeoutError: If the entire result iterator could not be generated before the given timeout. Exception: If fn(*args) raises for any values. &quot;&quot;&quot;" />
       <item value="wait" />
@@ -49,13 +51,11 @@
       <item value="Part" />
       <item value="Brokenpipe " />
       <item value="BrokenPipeError:[Errno32]Brokenpipe " />
-      <item value=" was not found" />
-      <item value="fatal: unable to access 'https://github.com/streamlink/streamlink/': Network file descriptor is not connected " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="525" />
-        <entry key="ENGLISH" value="526" />
+        <entry key="CHINESE" value="527" />
+        <entry key="ENGLISH" value="528" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
