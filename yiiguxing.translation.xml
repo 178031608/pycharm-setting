@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kafka Producer Client" />
       <item value="(optional): a key to associate with the message. Can be used to determine which partition to send the message to. If partition is None (and producer's partitioner config is left as default), then messages with the same key will be delivered to the same partition (but if key is None, partition is chosen randomly). Must be type bytes, or be serializable to bytes via configured key_serializer." />
       <item value="classification" />
       <item value="tendentiousness" />
@@ -50,14 +51,13 @@
       <item value="Since its first release, the Key Promoter X had more than 200.000 downloads. It is top-rated on the JetBrains site, and since it is entirely open-source, other plugin developers can browse through the code to understand how things are implemented. The plugin is not for me or a byproduct of something I would do anyway. It is for you who want to learn shortcuts in IntelliJ IDEA, and I give away some of my free time to keep it up to date and fix bugs. If you appreciate my efforts, then please donate some money. Latest changes &quot;Do not show again&quot; action dismisses the tip immediately (Issue 34) Increase possible settings for notification limits (Issue 30) Add plugin icon shown in the settings and the repository New icons that better integrate into the UI Implemented a setting to only show &quot;Keyboard&quot; shortcuts. This is default and can be adjusted. Fixed exception that occurred on closing Keymap dialog in 2018.3. Removed setting for maximum visible notifications. IDEA 2018.3 seems to restrict this itself. Implemented feature-request: Minimum count before notification Fixed empty tool-window with several windows open This message will only appear once for each new version. The donation link can later be found in the plugin description under Settings | Plugins | Key Promoter X." />
       <item value="Since its first release, the Key Promoter X had more than 200.000 downloads. It is top-rated on the JetBrains site, and since it is entirely open-source, other plugin developers can browse through the code to understand how things are implemented.&#10;The plugin is not for me or a byproduct of something I would do anyway. It is for you who want to learn shortcuts in IntelliJ IDEA, and I give away some of my free time to keep it up to date and fix bugs. If you appreciate my efforts, then please donate some money.&#10;Latest changes&#10;&quot;Do not show again&quot; action dismisses the tip immediately (Issue 34)&#10;Increase possible settings for notification limits (Issue 30)&#10;Add plugin icon shown in the settings and the repository&#10;New icons that better integrate into the UI&#10;Implemented a setting to only show &quot;Keyboard&quot; shortcuts. This is default and can be adjusted.&#10;Fixed exception that occurred on closing Keymap dialog in 2018.3.&#10;Removed setting for maximum visible notifications. IDEA 2018.3 seems to restrict this itself.&#10;Implemented feature-request: Minimum count before notification&#10;Fixed empty tool-window with several windows open This message will only appear once for each new version. The donation link can later be found in the plugin description under Settings | Plugins | Key Promoter X." />
       <item value="Eclipse Keymap for IntelliJ-based IDEs: IntelliJ IDEA, WebStorm, PhpStorm, Rider, Android Studio, and others. Use this plugin if the Eclipse keymap is not pre-installed in your IDE." />
-      <item value="Generating Kotlin data class from any legal JSON string or any URLs that returns a JSON string as response Generating Kotlin data class from any legal JSON text when right click on directory and select New -&gt; Kotlin data class File from JSON Supporting (almostly) all kinds of JSON libs' annotation(Gson, Jackson, Fastjson, MoShi and LoganSquare, kotlinx.serialization(default custom value)) Customizing your own annotations Initializing properties with default values Allowing properties to be nullable(?) Determining property nullability automatically Renaming property names to be camelCase style when selecting a target JSON lib annotation． Generating Kotlin data class as individual classes Generating Kotlin data class as inner classes Formatting any legal JSON string Generating Map Type when json key is primiti" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
+        <entry key="CHINESE" value="531" />
         <entry key="ENGLISH" value="531" />
         <entry key="DANISH" value="2" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="CORSICAN" value="1" />
