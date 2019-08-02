@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="implicitly wait" />
+      <item value="execute script" />
       <item value="pythontip" />
       <item value="Broken pipe" />
       <item value="No space left on device" />
@@ -49,13 +51,11 @@
       <item value="The function of this product is to count the number of lines of code, the number of lines of comment, the number of blank lines, the number and location of each file function, the number of file types and the update time" />
       <item value="VS Code Keymap for IntelliJ-based IDEs: IntelliJ IDEA, WebStorm, PhpStorm, and others&#10;Change Notes&#10;Fixed TAB in editor&#10;Fixed shortcut for Close Content action" />
       <item value="Configure automatic updates." />
-      <item value="You can also find the details about our release, in the release notes." />
-      <item value="And many more features, like preserving cookies between HTTP requests, improved debugging, and variable refactoring experiences: learn about the new version on our website" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="534" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
