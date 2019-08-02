@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sleep interval between calls By default, it is 0.5 second." />
+      <item value="&quot;&quot;&quot;Constructor, takes a WebDriver instance and timeout in seconds. :Args: - driver - Instance of WebDriver (Ie, Firefox, Chrome or Remote) - timeout - Number of seconds before timing out - poll_frequency - sleep interval between calls By default, it is 0.5 second. - ignored_exceptions - iterable structure of exception classes ignored during calls. By default, it contains NoSuchElementException only." />
+      <item value="An expectation for checking that the title contains a case-sensitive substring. title is the fragment of title expected returns True when the title matches, False otherwise" />
+      <item value="An expectation for checking that the title contains a case-sensitive substring. title is the fragment of title expected return" />
       <item value="implicitly wait" />
       <item value="execute script" />
       <item value="pythontip" />
@@ -47,15 +51,11 @@
       <item value="Lets you download and build Docker images, create and start Docker containers, and carry out other related tasks. Documentation" />
       <item value="Sponsors Discuss, review, and share code with your team in your JetBrains IDE. Integrates with Slack, Jira, Trello, Github and more. Try it free! Features" />
       <item value="A plugin that adds first-class support for Project Lombok" />
-      <item value="Shows project statistic. This plugin shows files sorted by their extension along with size, line count LOC etc. User can select (Project/Module/Package/File) scope using the 'Refresh on selection' button. (This plugin requires Java 1.8)" />
-      <item value="The function of this product is to count the number of lines of code, the number of lines of comment, the number of blank lines, the number and location of each file function, the number of file types and the update time" />
-      <item value="VS Code Keymap for IntelliJ-based IDEs: IntelliJ IDEA, WebStorm, PhpStorm, and others&#10;Change Notes&#10;Fixed TAB in editor&#10;Fixed shortcut for Close Content action" />
-      <item value="Configure automatic updates." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
