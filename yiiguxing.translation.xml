@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="getaddrinfo(host, port [, family, type, proto, flags]) -&gt; list of (family, type, proto, canonname, sockaddr) Resolve host and port into addrinfo struct." />
       <item value="TypeError: getaddrinfo() argument 1 must be string or None" />
       <item value="Delete a file from Storage server. arguments: @remote_file_id: string, file_id of file that is on storage server @return tuple ('Delete file successed.', remote_file_id, storage_ip)" />
       <item value="remote file id" />
@@ -50,12 +51,11 @@
       <item value="A universally unique identifier (UUID) generator. For example : 123e4567-e89b-12d3-a456-426655440000. You will find it in the Generate popup -&gt; Random UUID. Available actions :&#10;Random UUID&#10;Generate UUID to clipboard&#10;Generate UUID Popup&#10;Toggle UUID dashes" />
       <item value="Insert random data with the press of a single key. Adds actions to insert random data into your editor, which can be useful when writing tests." />
       <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
-      <item value="Open your Angular or AngularJS project. Make sure that you have AngularJS or Angular library files in your project (for example, in the node_modules folder) – this is required for the IDE to enable Angular support for this project. Now, you will get Angular-specific code completion, navigation, and many other features." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="CHINESE" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
