@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delete a file from Storage server. arguments: @remote_file_id: string, file_id of file that is on storage server @return tuple ('Delete file successed.', remote_file_id, storage_ip)" />
+      <item value="remote file id" />
       <item value="remote filename" />
       <item value="Delete file from storage server." />
       <item value="store serv" />
       <item value="index" />
-      <item value="remote file id" />
       <item value="Storage server" />
       <item value="REPR OUTPUT SIZE" />
       <item value="language chinese" />
@@ -50,12 +51,11 @@
       <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
       <item value="Open your Angular or AngularJS project. Make sure that you have AngularJS or Angular library files in your project (for example, in the node_modules folder) – this is required for the IDE to enable Angular support for this project. Now, you will get Angular-specific code completion, navigation, and many other features." />
       <item value="Open your Angular or AngularJS project.&#10;Make sure that you have AngularJS or Angular library files in your project (for example, in the node_modules folder) – this is required for the IDE to enable Angular support for this project.&#10;Now, you will get Angular-specific code completion, navigation, and many other features." />
-      <item value="IntelliJ Lombok plugin GitHub | Issues | Donate ( PayPal ) A plugin that adds first-class support for Project Lombok Sponsors Discuss, review, and share code with your team in your JetBrains IDE. Integrates with Slack, Jira, Trello, Github and more. Try it free! Features" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="CHINESE" value="552" />
+        <entry key="ENGLISH" value="553" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
