@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AuthenticationException" />
+      <item value="AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for " />
+      <item value="elasticsearch.exceptions.AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for " />
+      <item value="elasticsearch.exceptions.AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for REST request [/wb_info/sino/_search?size=10]')" />
+      <item value="TypeError: search() got an unexpected keyword argument 'doc_type'" />
+      <item value="peportdata" />
       <item value="TypeError: filter() got an unexpected keyword argument 'DataType'" />
       <item value="Report" />
       <item value="tools" />
@@ -45,17 +51,11 @@
       <item value="wait" />
       <item value="nginx: [warn] the &quot;user&quot; directive makes sense only if the master process runs with super-user privileges, ignored in /usr/local/nginx/conf/nginx.conf:1 " />
       <item value="*4765 open() &quot;/usr/local/nginx/client_body_temp/0000001090&quot; failed (13: Permission denied), client: 192.168.125.68, server: 192.168.129.17, request: &quot;POST /douyinphone/insert HTTP/1.1&quot;, host: &quot;192.168.129.17:7171&quot; " />
-      <item value="Assertion Error " />
-      <item value="Assertion Error&#10;" />
-      <item value=": topic where the message will be published value (optional): message value. Must be type bytes, or be serializable to bytes via configured value_serializer. If value is None, key is required and message acts as a 'delete'. See kafka compaction documentation for more details: https://kafka.apache.org/documentation.html#compaction" />
-      <item value="(tuple): Specify which Kafka API version to use. If set to None, the client will attempt to infer the broker version by probing various APIs. Example: (0, 10, 2). Default: None" />
-      <item value="kafka.errors.NoBrokersAvailable: NoBrokersAvailable" />
-      <item value="(int, optional): epoch milliseconds (from Jan 1 1970 UTC) to use as the message timestamp. Defaults to current time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="559" />
-        <entry key="ENGLISH" value="560" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="563" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
