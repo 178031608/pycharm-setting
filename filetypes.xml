@@ -6,8 +6,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="add__info" type="PLAIN_TEXT" />
       <mapping pattern="keywordDouyinShudi" type="PLAIN_TEXT" />
-      <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="hostsList_tj_root" type="PLAIN_TEXT" />
+      <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping ext="2018-12-20" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
