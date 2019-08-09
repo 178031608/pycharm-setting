@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="整理" />
+      <item value="zhegnli " />
       <item value="unknow" />
       <item value="In folder G:/git_project/flask_py/hbase_flask&#10;G:\anconda\python.exe -m flask run * Serving Flask app &quot;flask_main.py&quot; * Environment: development * Debug mode: off" />
       <item value="AuthenticationException" />
@@ -49,13 +51,11 @@
       <item value="mall plugin for formatting text blocks that represents a table delimited by pipe (|). For example, can be used to format JBehave examples table. Supported delimiters: pipe, comma, tab. When formatting, any of supported delimiters are replaced with pipe. Usage Select text in the editor or place caret inside a table and choose action &quot;Pipe Table&quot; -&gt; &quot;Format&quot; in Code menu or in editor popup menu." />
       <item value="topic where the message will be published value (optional): message value. Must be type bytes, or be serializable to bytes via configured value_serializer. If value is None, key is required and message acts as a 'delete'. See kafka compaction documentation for more details: https://kafka.apache.org/documentation.html#compaction (compaction requires kafka &gt;= 0.8.1) partition (int, optional): optionally specify a partitio" />
       <item value="stopwaitsecs" />
-      <item value="&quot;&quot;&quot;Returns an iterator equivalent to map(fn, iter). Args: fn: A callable that will take as many arguments as there are passed iterables. timeout: The maximum number of seconds to wait. If None, then there is no limit on the wait time. chunksize: If greater than one, the iterables will be chopped into chunks of size chunksize and submitted to the process pool. If set to one, the items in the list will be sent one at a time. Returns: An iterator equivalent to: map(func, *iterables) but the calls may be evaluated out-of-order. Raises: TimeoutError: If the entire result iterator could not be generated before the given timeout. Exception: If fn(*args) raises for any values. &quot;&quot;&quot;" />
-      <item value="wait" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
