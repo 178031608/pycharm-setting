@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="website Interchangeable" />
+      <item value="cron reset filter" />
       <item value="scp: /home/programs/news_idc//downloader_all: No space left on device " />
       <item value="single" />
       <item value="introduction" />
@@ -49,13 +51,11 @@
       <item value="Broken pipe" />
       <item value="No space left on device" />
       <item value="'LiveDanmuCrawler' object has no attribute 'kafak" />
-      <item value="Live Video Crawler" />
-      <item value="Arguments: topic (str): topic where the message will be published value (optional): message value. Must be type bytes, or be serializable to bytes via configured value_serializer. If value is None, key is required and message acts as a 'delete'. See kafka compaction documentation for more details: https://kafka.apache.org/documentation.html#compaction (compaction requires kafka &gt;= 0.8.1) partition (int, optional): optionally specify a partition. If not set, the partition will be selected using the configured 'partitioner'. key (optional): a key to associate with the message. Can be used to determine which partition to send the message to. If partition is None (and producer's partitioner config is left as default), then messages with the same key will be delivered to the same partition (but if key is None, partition is chosen randomly). Must be type bytes, or be serializable to bytes via configured key_serializer. headers (optional): a list of header key value pairs. List items are tuples of str key and bytes value. timestamp_ms (int, optional): epoch milliseconds (from Jan 1 1970 UTC) to use as the message timestamp. Defaults to current time. Returns:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="574" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
