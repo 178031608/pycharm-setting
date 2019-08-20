@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="knowledge" />
       <item value="judge" />
       <item value="website Interchangeable" />
       <item value="cron reset filter" />
@@ -50,7 +51,6 @@
       <item value="execute script" />
       <item value="pythontip" />
       <item value="Broken pipe" />
-      <item value="No space left on device" />
     </histories>
     <option name="languageScores">
       <map>
