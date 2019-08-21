@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="service is running" />
+      <item value="service" />
       <item value="统计" />
       <item value="data" />
       <item value="转换" />
@@ -49,13 +51,11 @@
       <item value="tools" />
       <item value="verify" />
       <item value="is Active" />
-      <item value="分析" />
-      <item value="fdfs_client.exceptions.DataError: Error: 22, Invalid argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="581" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="CHINESE" value="583" />
+        <entry key="ENGLISH" value="584" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
