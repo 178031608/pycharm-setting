@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="语种" />
       <item value="处理" />
       <item value="Place" />
       <item value="碎片" />
@@ -50,7 +51,6 @@
       <item value="language chinese" />
       <item value="chromeless" />
       <item value="sleep interval between calls By default, it is 0.5 second." />
-      <item value="&quot;&quot;&quot;Constructor, takes a WebDriver instance and timeout in seconds. :Args: - driver - Instance of WebDriver (Ie, Firefox, Chrome or Remote) - timeout - Number of seconds before timing out - poll_frequency - sleep interval between calls By default, it is 0.5 second. - ignored_exceptions - iterable structure of exception classes ignored during calls. By default, it contains NoSuchElementException only." />
     </histories>
     <option name="languageScores">
       <map>
