@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redis.exceptions.ResponseError: WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="CronCycle" />
       <item value="调度" />
       <item value="电镀" />
@@ -50,12 +51,11 @@
       <item value="TypeError: search() got an unexpected keyword argument 'doc_type'" />
       <item value="peportdata" />
       <item value="TypeError: filter() got an unexpected keyword argument 'DataType'" />
-      <item value="Report" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="584" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
