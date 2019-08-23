@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="monitor" />
+      <item value="attention" />
+      <item value="inner" />
+      <item value="Harm" />
+      <item value="Hot" />
+      <item value="Low" />
+      <item value="Middle" />
       <item value="Set meta data of remote file. arguments: @remote_file_id: string @meta_dict: dictionary @op_flag: char, 'O' for overwrite, 'M' for merge @return dictionary { 'Status' : status, 'Storage IP' : storage_ip }" />
       <item value="Upload a file to Storage server. arguments: @filename: string, name of file that will be uploaded @meta_dict: dictionary e.g.:{ 'ext_name' : 'jpg', 'file_size' : '10240B', 'width' : '160px', 'hight' : '80px' } meta_dict can be null @return dict { 'Group name' : group_name, 'Remote file_id' : remote_file_id, 'Status' : 'Upload successed.', 'Local file name' : local_file_name, 'Uploaded size' : upload_size, 'Storage IP' : storage_ip } if success else None" />
       <item value="Class Fdfs_client implemented Fastdfs client protol ver 3.08. It's useful upload, download, delete file to or from fdfs server, etc. It's uses connection pool to manage connection to server." />
@@ -44,18 +51,11 @@
       <item value="BrokenPipeError: [Errno 32] Broken pipe" />
       <item value="socket.gaierror: [Errno -3] Temporary failure in name resolution&#10;Fri Aug 9 14:57:47 2019 &lt;Greenlet at 0x7f8598794898: analysisOne(('OtherL:Other_Download_Common', '{&quot;type&quot;: &quot;js&quot;, &quot;, {'redis': {'downCom': 'OtherL:Other_Download_Commo, 'OtherL:Other_Download_Common')&gt; failed with gaierror" />
       <item value="整理" />
-      <item value="zhegnli " />
-      <item value="unknow" />
-      <item value="In folder G:/git_project/flask_py/hbase_flask&#10;G:\anconda\python.exe -m flask run * Serving Flask app &quot;flask_main.py&quot; * Environment: development * Debug mode: off" />
-      <item value="AuthenticationException" />
-      <item value="AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for " />
-      <item value="elasticsearch.exceptions.AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for " />
-      <item value="elasticsearch.exceptions.AuthenticationException: TransportError(401, 'security_exception', 'unable to authenticate user [] for REST request [/wb_info/sino/_search?size=10]')" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="587" />
-        <entry key="ENGLISH" value="588" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="595" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
