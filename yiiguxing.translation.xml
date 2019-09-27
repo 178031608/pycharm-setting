@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attribute Error" />
       <item value="Parameters: - table: the table to append the value on - tappend: the TAppend to append" />
       <item value="collect Status" />
       <item value="harm Type" />
@@ -50,12 +51,11 @@
       <item value="scp: /home/programs/news_idc//downloader_all: No space left on device " />
       <item value="single" />
       <item value="introduction" />
-      <item value="thrift.transport.TTransport.TTransportException: TSocket read 0 bytes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="599" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="600" />
+        <entry key="ENGLISH" value="601" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
