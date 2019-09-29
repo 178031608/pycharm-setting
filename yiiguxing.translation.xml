@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="struct time" />
+      <item value="timedelta" />
       <item value="is Active" />
       <item value="police Obj" />
       <item value="crate Warning" />
@@ -49,13 +51,11 @@
       <item value="注册" />
       <item value="归属地" />
       <item value="语种" />
-      <item value="处理" />
-      <item value="Place" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="604" />
-        <entry key="ENGLISH" value="605" />
+        <entry key="CHINESE" value="606" />
+        <entry key="ENGLISH" value="607" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
