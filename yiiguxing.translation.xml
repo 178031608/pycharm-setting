@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复" />
+      <item value="warning" />
+      <item value="early" />
+      <item value="预警" />
+      <item value="police" />
+      <item value="报警" />
+      <item value="邮箱" />
       <item value="sms" />
       <item value="Attribute Error" />
       <item value="Parameters: - table: the table to append the value on - tappend: the TAppend to append" />
@@ -44,18 +51,11 @@
       <item value="碎片" />
       <item value="S碎片" />
       <item value="BLCOK" />
-      <item value="BLOCK" />
-      <item value="knowledge" />
-      <item value="judge" />
-      <item value="website Interchangeable" />
-      <item value="cron reset filter" />
-      <item value="scp: /home/programs/news_idc//downloader_all: No space left on device " />
-      <item value="single" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="601" />
+        <entry key="CHINESE" value="603" />
+        <entry key="ENGLISH" value="604" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
