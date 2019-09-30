@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Controller" />
       <item value="struct time" />
       <item value="timedelta" />
       <item value="is Active" />
@@ -50,11 +51,10 @@
       <item value="人名" />
       <item value="注册" />
       <item value="归属地" />
-      <item value="语种" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="606" />
+        <entry key="CHINESE" value="607" />
         <entry key="ENGLISH" value="607" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
